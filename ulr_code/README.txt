@@ -1,4 +1,4 @@
-requirements: pytorch transformers-3.3.1 
+requirements: pytorch transformers-3.3.1
 
 usage: bash ulr/sh_ngram.sh
 
