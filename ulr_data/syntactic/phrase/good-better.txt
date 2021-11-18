@@ -1,0 +1,1332 @@
+bad weather	worse compared with the south	big train	bigger than the car	biggest compared with them
+bad weather	worse compared with the south	bright animal	brighter than goats	brightest compared with them
+bad weather	worse compared with the south	cheap machine	cheaper than the computer	cheapest compared with them
+bad weather	worse compared with the south	cold month	colder than october	coldest compared with them
+bad weather	worse compared with the south	cool month	cooler than october	coolest compared with them
+bad weather	worse compared with the south	deep water	deeper than seaweed	deepest compared with them
+bad weather	worse compared with the south	easy subject	easier than chemistry	easiest compared with them
+bad weather	worse compared with the south	fast animal	faster than the dog	fastest compared with them
+bad weather	worse compared with the south	good weather	better than south	best compared with them
+bad weather	worse compared with the south	great need	greater than the physical one	greatest compared with them
+bad weather	worse compared with the south	hard subject	harder than chemistry	hardest compared with them
+bad weather	worse compared with the south	heavy dog	heavier than the cat	heaviest compared with them
+bad weather	worse compared with the south	high rank	higher than mary	highest compared with them
+bad weather	worse compared with the south	hot season	hotter than winter	hottest compared with them
+bad weather	worse compared with the south	large plane	lager than the car	largest compared with them
+bad weather	worse compared with the south	long skirt	longer than the pants	longest compared with them
+bad weather	worse compared with the south	loud speaker	louder than earphones	loudest compared with them
+bad weather	worse compared with the south	low tree	lower than the building	lowest compared with them
+bad weather	worse compared with the south	new computer	newer than the printer	newest compared with them
+bad weather	worse compared with the south	old vase	older than the album	oldest compared with them
+bad weather	worse compared with the south	quick animal	quicker than the dog	quickest compared with them
+bad weather	worse compared with the south	safe area	safer than outside	safest compared with them
+bad weather	worse compared with the south	sharp criticism	sharper than the praise	sharpest compared with them
+bad weather	worse compared with the south	short skirt	shorter than the pants	shortest compared with them
+bad weather	worse compared with the south	simple theory	simpler than philosophy	simplest compared with them
+bad weather	worse compared with the south	slow train	slower than the airplane	slowest compared with them
+bad weather	worse compared with the south	small coin	smaller than the egg	smallest compared with them
+bad weather	worse compared with the south	smart student	smarter than mary	smartest compared with them
+bad weather	worse compared with the south	strong instructor	stronger than the leaner	strongest compared with them
+bad weather	worse compared with the south	tall building	taller than the tree	tallest compared with them
+bad weather	worse compared with the south	tight skirt	tighter than the pants	tightest compared with them
+bad weather	worse compared with the south	tough team	tougher than spanish	toughest compared with them
+bad weather	worse compared with the south	warm room	warmer than the outside	warmest compared with them
+bad weather	worse compared with the south	weak region	weaker than brno	weakest compared with them
+bad weather	worse compared with the south	wide worktops	wider than the door	widest compared with them
+bad weather	worse compared with the south	young woman	younger than the man	youngest compared with them
+big train	bigger compared with the car	bright animal	brighter than goats	brightest compared with them
+big train	bigger compared with the car	cheap machine	cheaper than the computer	cheapest compared with them
+big train	bigger compared with the car	cold month	colder than october	coldest compared with them
+big train	bigger compared with the car	cool month	cooler than october	coolest compared with them
+big train	bigger compared with the car	deep water	deeper than seaweed	deepest compared with them
+big train	bigger compared with the car	easy subject	easier than chemistry	easiest compared with them
+big train	bigger compared with the car	fast animal	faster than the dog	fastest compared with them
+big train	bigger compared with the car	good weather	better than south	best compared with them
+big train	bigger compared with the car	great need	greater than the physical one	greatest compared with them
+big train	bigger compared with the car	hard subject	harder than chemistry	hardest compared with them
+big train	bigger compared with the car	heavy dog	heavier than the cat	heaviest compared with them
+big train	bigger compared with the car	high rank	higher than mary	highest compared with them
+big train	bigger compared with the car	hot season	hotter than winter	hottest compared with them
+big train	bigger compared with the car	large plane	lager than the car	largest compared with them
+big train	bigger compared with the car	long skirt	longer than the pants	longest compared with them
+big train	bigger compared with the car	loud speaker	louder than earphones	loudest compared with them
+big train	bigger compared with the car	low tree	lower than the building	lowest compared with them
+big train	bigger compared with the car	new computer	newer than the printer	newest compared with them
+big train	bigger compared with the car	old vase	older than the album	oldest compared with them
+big train	bigger compared with the car	quick animal	quicker than the dog	quickest compared with them
+big train	bigger compared with the car	safe area	safer than outside	safest compared with them
+big train	bigger compared with the car	sharp criticism	sharper than the praise	sharpest compared with them
+big train	bigger compared with the car	short skirt	shorter than the pants	shortest compared with them
+big train	bigger compared with the car	simple theory	simpler than philosophy	simplest compared with them
+big train	bigger compared with the car	slow train	slower than the airplane	slowest compared with them
+big train	bigger compared with the car	small coin	smaller than the egg	smallest compared with them
+big train	bigger compared with the car	smart student	smarter than mary	smartest compared with them
+big train	bigger compared with the car	strong instructor	stronger than the leaner	strongest compared with them
+big train	bigger compared with the car	tall building	taller than the tree	tallest compared with them
+big train	bigger compared with the car	tight skirt	tighter than the pants	tightest compared with them
+big train	bigger compared with the car	tough team	tougher than spanish	toughest compared with them
+big train	bigger compared with the car	warm room	warmer than the outside	warmest compared with them
+big train	bigger compared with the car	weak region	weaker than brno	weakest compared with them
+big train	bigger compared with the car	wide worktops	wider than the door	widest compared with them
+big train	bigger compared with the car	young woman	younger than the man	youngest compared with them
+big train	bigger compared with the car	bad weather	worse than the south	worst compared with them
+bright animal	brighter compared with goats	cheap machine	cheaper than the computer	cheapest compared with them
+bright animal	brighter compared with goats	cold month	colder than october	coldest compared with them
+bright animal	brighter compared with goats	cool month	cooler than october	coolest compared with them
+bright animal	brighter compared with goats	deep water	deeper than seaweed	deepest compared with them
+bright animal	brighter compared with goats	easy subject	easier than chemistry	easiest compared with them
+bright animal	brighter compared with goats	fast animal	faster than the dog	fastest compared with them
+bright animal	brighter compared with goats	good weather	better than south	best compared with them
+bright animal	brighter compared with goats	great need	greater than the physical one	greatest compared with them
+bright animal	brighter compared with goats	hard subject	harder than chemistry	hardest compared with them
+bright animal	brighter compared with goats	heavy dog	heavier than the cat	heaviest compared with them
+bright animal	brighter compared with goats	high rank	higher than mary	highest compared with them
+bright animal	brighter compared with goats	hot season	hotter than winter	hottest compared with them
+bright animal	brighter compared with goats	large plane	lager than the car	largest compared with them
+bright animal	brighter compared with goats	long skirt	longer than the pants	longest compared with them
+bright animal	brighter compared with goats	loud speaker	louder than earphones	loudest compared with them
+bright animal	brighter compared with goats	low tree	lower than the building	lowest compared with them
+bright animal	brighter compared with goats	new computer	newer than the printer	newest compared with them
+bright animal	brighter compared with goats	old vase	older than the album	oldest compared with them
+bright animal	brighter compared with goats	quick animal	quicker than the dog	quickest compared with them
+bright animal	brighter compared with goats	safe area	safer than outside	safest compared with them
+bright animal	brighter compared with goats	sharp criticism	sharper than the praise	sharpest compared with them
+bright animal	brighter compared with goats	short skirt	shorter than the pants	shortest compared with them
+bright animal	brighter compared with goats	simple theory	simpler than philosophy	simplest compared with them
+bright animal	brighter compared with goats	slow train	slower than the airplane	slowest compared with them
+bright animal	brighter compared with goats	small coin	smaller than the egg	smallest compared with them
+bright animal	brighter compared with goats	smart student	smarter than mary	smartest compared with them
+bright animal	brighter compared with goats	strong instructor	stronger than the leaner	strongest compared with them
+bright animal	brighter compared with goats	tall building	taller than the tree	tallest compared with them
+bright animal	brighter compared with goats	tight skirt	tighter than the pants	tightest compared with them
+bright animal	brighter compared with goats	tough team	tougher than spanish	toughest compared with them
+bright animal	brighter compared with goats	warm room	warmer than the outside	warmest compared with them
+bright animal	brighter compared with goats	weak region	weaker than brno	weakest compared with them
+bright animal	brighter compared with goats	wide worktops	wider than the door	widest compared with them
+bright animal	brighter compared with goats	young woman	younger than the man	youngest compared with them
+bright animal	brighter compared with goats	bad weather	worse than the south	worst compared with them
+bright animal	brighter compared with goats	big train	bigger than the car	biggest compared with them
+cheap machine	cheaper compared with the computer	cold month	colder than october	coldest compared with them
+cheap machine	cheaper compared with the computer	cool month	cooler than october	coolest compared with them
+cheap machine	cheaper compared with the computer	deep water	deeper than seaweed	deepest compared with them
+cheap machine	cheaper compared with the computer	easy subject	easier than chemistry	easiest compared with them
+cheap machine	cheaper compared with the computer	fast animal	faster than the dog	fastest compared with them
+cheap machine	cheaper compared with the computer	good weather	better than south	best compared with them
+cheap machine	cheaper compared with the computer	great need	greater than the physical one	greatest compared with them
+cheap machine	cheaper compared with the computer	hard subject	harder than chemistry	hardest compared with them
+cheap machine	cheaper compared with the computer	heavy dog	heavier than the cat	heaviest compared with them
+cheap machine	cheaper compared with the computer	high rank	higher than mary	highest compared with them
+cheap machine	cheaper compared with the computer	hot season	hotter than winter	hottest compared with them
+cheap machine	cheaper compared with the computer	large plane	lager than the car	largest compared with them
+cheap machine	cheaper compared with the computer	long skirt	longer than the pants	longest compared with them
+cheap machine	cheaper compared with the computer	loud speaker	louder than earphones	loudest compared with them
+cheap machine	cheaper compared with the computer	low tree	lower than the building	lowest compared with them
+cheap machine	cheaper compared with the computer	new computer	newer than the printer	newest compared with them
+cheap machine	cheaper compared with the computer	old vase	older than the album	oldest compared with them
+cheap machine	cheaper compared with the computer	quick animal	quicker than the dog	quickest compared with them
+cheap machine	cheaper compared with the computer	safe area	safer than outside	safest compared with them
+cheap machine	cheaper compared with the computer	sharp criticism	sharper than the praise	sharpest compared with them
+cheap machine	cheaper compared with the computer	short skirt	shorter than the pants	shortest compared with them
+cheap machine	cheaper compared with the computer	simple theory	simpler than philosophy	simplest compared with them
+cheap machine	cheaper compared with the computer	slow train	slower than the airplane	slowest compared with them
+cheap machine	cheaper compared with the computer	small coin	smaller than the egg	smallest compared with them
+cheap machine	cheaper compared with the computer	smart student	smarter than mary	smartest compared with them
+cheap machine	cheaper compared with the computer	strong instructor	stronger than the leaner	strongest compared with them
+cheap machine	cheaper compared with the computer	tall building	taller than the tree	tallest compared with them
+cheap machine	cheaper compared with the computer	tight skirt	tighter than the pants	tightest compared with them
+cheap machine	cheaper compared with the computer	tough team	tougher than spanish	toughest compared with them
+cheap machine	cheaper compared with the computer	warm room	warmer than the outside	warmest compared with them
+cheap machine	cheaper compared with the computer	weak region	weaker than brno	weakest compared with them
+cheap machine	cheaper compared with the computer	wide worktops	wider than the door	widest compared with them
+cheap machine	cheaper compared with the computer	young woman	younger than the man	youngest compared with them
+cheap machine	cheaper compared with the computer	bad weather	worse than the south	worst compared with them
+cheap machine	cheaper compared with the computer	big train	bigger than the car	biggest compared with them
+cheap machine	cheaper compared with the computer	bright animal	brighter than goats	brightest compared with them
+cold month	colder compared with october	cool month	cooler than october	coolest compared with them
+cold month	colder compared with october	deep water	deeper than seaweed	deepest compared with them
+cold month	colder compared with october	easy subject	easier than chemistry	easiest compared with them
+cold month	colder compared with october	fast animal	faster than the dog	fastest compared with them
+cold month	colder compared with october	good weather	better than south	best compared with them
+cold month	colder compared with october	great need	greater than the physical one	greatest compared with them
+cold month	colder compared with october	hard subject	harder than chemistry	hardest compared with them
+cold month	colder compared with october	heavy dog	heavier than the cat	heaviest compared with them
+cold month	colder compared with october	high rank	higher than mary	highest compared with them
+cold month	colder compared with october	hot season	hotter than winter	hottest compared with them
+cold month	colder compared with october	large plane	lager than the car	largest compared with them
+cold month	colder compared with october	long skirt	longer than the pants	longest compared with them
+cold month	colder compared with october	loud speaker	louder than earphones	loudest compared with them
+cold month	colder compared with october	low tree	lower than the building	lowest compared with them
+cold month	colder compared with october	new computer	newer than the printer	newest compared with them
+cold month	colder compared with october	old vase	older than the album	oldest compared with them
+cold month	colder compared with october	quick animal	quicker than the dog	quickest compared with them
+cold month	colder compared with october	safe area	safer than outside	safest compared with them
+cold month	colder compared with october	sharp criticism	sharper than the praise	sharpest compared with them
+cold month	colder compared with october	short skirt	shorter than the pants	shortest compared with them
+cold month	colder compared with october	simple theory	simpler than philosophy	simplest compared with them
+cold month	colder compared with october	slow train	slower than the airplane	slowest compared with them
+cold month	colder compared with october	small coin	smaller than the egg	smallest compared with them
+cold month	colder compared with october	smart student	smarter than mary	smartest compared with them
+cold month	colder compared with october	strong instructor	stronger than the leaner	strongest compared with them
+cold month	colder compared with october	tall building	taller than the tree	tallest compared with them
+cold month	colder compared with october	tight skirt	tighter than the pants	tightest compared with them
+cold month	colder compared with october	tough team	tougher than spanish	toughest compared with them
+cold month	colder compared with october	warm room	warmer than the outside	warmest compared with them
+cold month	colder compared with october	weak region	weaker than brno	weakest compared with them
+cold month	colder compared with october	wide worktops	wider than the door	widest compared with them
+cold month	colder compared with october	young woman	younger than the man	youngest compared with them
+cold month	colder compared with october	bad weather	worse than the south	worst compared with them
+cold month	colder compared with october	big train	bigger than the car	biggest compared with them
+cold month	colder compared with october	bright animal	brighter than goats	brightest compared with them
+cold month	colder compared with october	cheap machine	cheaper than the computer	cheapest compared with them
+cool month	cooler compared with october	deep water	deeper than seaweed	deepest compared with them
+cool month	cooler compared with october	easy subject	easier than chemistry	easiest compared with them
+cool month	cooler compared with october	fast animal	faster than the dog	fastest compared with them
+cool month	cooler compared with october	good weather	better than south	best compared with them
+cool month	cooler compared with october	great need	greater than the physical one	greatest compared with them
+cool month	cooler compared with october	hard subject	harder than chemistry	hardest compared with them
+cool month	cooler compared with october	heavy dog	heavier than the cat	heaviest compared with them
+cool month	cooler compared with october	high rank	higher than mary	highest compared with them
+cool month	cooler compared with october	hot season	hotter than winter	hottest compared with them
+cool month	cooler compared with october	large plane	lager than the car	largest compared with them
+cool month	cooler compared with october	long skirt	longer than the pants	longest compared with them
+cool month	cooler compared with october	loud speaker	louder than earphones	loudest compared with them
+cool month	cooler compared with october	low tree	lower than the building	lowest compared with them
+cool month	cooler compared with october	new computer	newer than the printer	newest compared with them
+cool month	cooler compared with october	old vase	older than the album	oldest compared with them
+cool month	cooler compared with october	quick animal	quicker than the dog	quickest compared with them
+cool month	cooler compared with october	safe area	safer than outside	safest compared with them
+cool month	cooler compared with october	sharp criticism	sharper than the praise	sharpest compared with them
+cool month	cooler compared with october	short skirt	shorter than the pants	shortest compared with them
+cool month	cooler compared with october	simple theory	simpler than philosophy	simplest compared with them
+cool month	cooler compared with october	slow train	slower than the airplane	slowest compared with them
+cool month	cooler compared with october	small coin	smaller than the egg	smallest compared with them
+cool month	cooler compared with october	smart student	smarter than mary	smartest compared with them
+cool month	cooler compared with october	strong instructor	stronger than the leaner	strongest compared with them
+cool month	cooler compared with october	tall building	taller than the tree	tallest compared with them
+cool month	cooler compared with october	tight skirt	tighter than the pants	tightest compared with them
+cool month	cooler compared with october	tough team	tougher than spanish	toughest compared with them
+cool month	cooler compared with october	warm room	warmer than the outside	warmest compared with them
+cool month	cooler compared with october	weak region	weaker than brno	weakest compared with them
+cool month	cooler compared with october	wide worktops	wider than the door	widest compared with them
+cool month	cooler compared with october	young woman	younger than the man	youngest compared with them
+cool month	cooler compared with october	bad weather	worse than the south	worst compared with them
+cool month	cooler compared with october	big train	bigger than the car	biggest compared with them
+cool month	cooler compared with october	bright animal	brighter than goats	brightest compared with them
+cool month	cooler compared with october	cheap machine	cheaper than the computer	cheapest compared with them
+cool month	cooler compared with october	cold month	colder than october	coldest compared with them
+deep water	deeper compared with seaweed	easy subject	easier than chemistry	easiest compared with them
+deep water	deeper compared with seaweed	fast animal	faster than the dog	fastest compared with them
+deep water	deeper compared with seaweed	good weather	better than south	best compared with them
+deep water	deeper compared with seaweed	great need	greater than the physical one	greatest compared with them
+deep water	deeper compared with seaweed	hard subject	harder than chemistry	hardest compared with them
+deep water	deeper compared with seaweed	heavy dog	heavier than the cat	heaviest compared with them
+deep water	deeper compared with seaweed	high rank	higher than mary	highest compared with them
+deep water	deeper compared with seaweed	hot season	hotter than winter	hottest compared with them
+deep water	deeper compared with seaweed	large plane	lager than the car	largest compared with them
+deep water	deeper compared with seaweed	long skirt	longer than the pants	longest compared with them
+deep water	deeper compared with seaweed	loud speaker	louder than earphones	loudest compared with them
+deep water	deeper compared with seaweed	low tree	lower than the building	lowest compared with them
+deep water	deeper compared with seaweed	new computer	newer than the printer	newest compared with them
+deep water	deeper compared with seaweed	old vase	older than the album	oldest compared with them
+deep water	deeper compared with seaweed	quick animal	quicker than the dog	quickest compared with them
+deep water	deeper compared with seaweed	safe area	safer than outside	safest compared with them
+deep water	deeper compared with seaweed	sharp criticism	sharper than the praise	sharpest compared with them
+deep water	deeper compared with seaweed	short skirt	shorter than the pants	shortest compared with them
+deep water	deeper compared with seaweed	simple theory	simpler than philosophy	simplest compared with them
+deep water	deeper compared with seaweed	slow train	slower than the airplane	slowest compared with them
+deep water	deeper compared with seaweed	small coin	smaller than the egg	smallest compared with them
+deep water	deeper compared with seaweed	smart student	smarter than mary	smartest compared with them
+deep water	deeper compared with seaweed	strong instructor	stronger than the leaner	strongest compared with them
+deep water	deeper compared with seaweed	tall building	taller than the tree	tallest compared with them
+deep water	deeper compared with seaweed	tight skirt	tighter than the pants	tightest compared with them
+deep water	deeper compared with seaweed	tough team	tougher than spanish	toughest compared with them
+deep water	deeper compared with seaweed	warm room	warmer than the outside	warmest compared with them
+deep water	deeper compared with seaweed	weak region	weaker than brno	weakest compared with them
+deep water	deeper compared with seaweed	wide worktops	wider than the door	widest compared with them
+deep water	deeper compared with seaweed	young woman	younger than the man	youngest compared with them
+deep water	deeper compared with seaweed	bad weather	worse than the south	worst compared with them
+deep water	deeper compared with seaweed	big train	bigger than the car	biggest compared with them
+deep water	deeper compared with seaweed	bright animal	brighter than goats	brightest compared with them
+deep water	deeper compared with seaweed	cheap machine	cheaper than the computer	cheapest compared with them
+deep water	deeper compared with seaweed	cold month	colder than october	coldest compared with them
+deep water	deeper compared with seaweed	cool month	cooler than october	coolest compared with them
+easy subject	easier compared with chemistry	fast animal	faster than the dog	fastest compared with them
+easy subject	easier compared with chemistry	good weather	better than south	best compared with them
+easy subject	easier compared with chemistry	great need	greater than the physical one	greatest compared with them
+easy subject	easier compared with chemistry	hard subject	harder than chemistry	hardest compared with them
+easy subject	easier compared with chemistry	heavy dog	heavier than the cat	heaviest compared with them
+easy subject	easier compared with chemistry	high rank	higher than mary	highest compared with them
+easy subject	easier compared with chemistry	hot season	hotter than winter	hottest compared with them
+easy subject	easier compared with chemistry	large plane	lager than the car	largest compared with them
+easy subject	easier compared with chemistry	long skirt	longer than the pants	longest compared with them
+easy subject	easier compared with chemistry	loud speaker	louder than earphones	loudest compared with them
+easy subject	easier compared with chemistry	low tree	lower than the building	lowest compared with them
+easy subject	easier compared with chemistry	new computer	newer than the printer	newest compared with them
+easy subject	easier compared with chemistry	old vase	older than the album	oldest compared with them
+easy subject	easier compared with chemistry	quick animal	quicker than the dog	quickest compared with them
+easy subject	easier compared with chemistry	safe area	safer than outside	safest compared with them
+easy subject	easier compared with chemistry	sharp criticism	sharper than the praise	sharpest compared with them
+easy subject	easier compared with chemistry	short skirt	shorter than the pants	shortest compared with them
+easy subject	easier compared with chemistry	simple theory	simpler than philosophy	simplest compared with them
+easy subject	easier compared with chemistry	slow train	slower than the airplane	slowest compared with them
+easy subject	easier compared with chemistry	small coin	smaller than the egg	smallest compared with them
+easy subject	easier compared with chemistry	smart student	smarter than mary	smartest compared with them
+easy subject	easier compared with chemistry	strong instructor	stronger than the leaner	strongest compared with them
+easy subject	easier compared with chemistry	tall building	taller than the tree	tallest compared with them
+easy subject	easier compared with chemistry	tight skirt	tighter than the pants	tightest compared with them
+easy subject	easier compared with chemistry	tough team	tougher than spanish	toughest compared with them
+easy subject	easier compared with chemistry	warm room	warmer than the outside	warmest compared with them
+easy subject	easier compared with chemistry	weak region	weaker than brno	weakest compared with them
+easy subject	easier compared with chemistry	wide worktops	wider than the door	widest compared with them
+easy subject	easier compared with chemistry	young woman	younger than the man	youngest compared with them
+easy subject	easier compared with chemistry	bad weather	worse than the south	worst compared with them
+easy subject	easier compared with chemistry	big train	bigger than the car	biggest compared with them
+easy subject	easier compared with chemistry	bright animal	brighter than goats	brightest compared with them
+easy subject	easier compared with chemistry	cheap machine	cheaper than the computer	cheapest compared with them
+easy subject	easier compared with chemistry	cold month	colder than october	coldest compared with them
+easy subject	easier compared with chemistry	cool month	cooler than october	coolest compared with them
+easy subject	easier compared with chemistry	deep water	deeper than seaweed	deepest compared with them
+fast animal	faster compared with the dog	good weather	better than south	best compared with them
+fast animal	faster compared with the dog	great need	greater than the physical one	greatest compared with them
+fast animal	faster compared with the dog	hard subject	harder than chemistry	hardest compared with them
+fast animal	faster compared with the dog	heavy dog	heavier than the cat	heaviest compared with them
+fast animal	faster compared with the dog	high rank	higher than mary	highest compared with them
+fast animal	faster compared with the dog	hot season	hotter than winter	hottest compared with them
+fast animal	faster compared with the dog	large plane	lager than the car	largest compared with them
+fast animal	faster compared with the dog	long skirt	longer than the pants	longest compared with them
+fast animal	faster compared with the dog	loud speaker	louder than earphones	loudest compared with them
+fast animal	faster compared with the dog	low tree	lower than the building	lowest compared with them
+fast animal	faster compared with the dog	new computer	newer than the printer	newest compared with them
+fast animal	faster compared with the dog	old vase	older than the album	oldest compared with them
+fast animal	faster compared with the dog	quick animal	quicker than the dog	quickest compared with them
+fast animal	faster compared with the dog	safe area	safer than outside	safest compared with them
+fast animal	faster compared with the dog	sharp criticism	sharper than the praise	sharpest compared with them
+fast animal	faster compared with the dog	short skirt	shorter than the pants	shortest compared with them
+fast animal	faster compared with the dog	simple theory	simpler than philosophy	simplest compared with them
+fast animal	faster compared with the dog	slow train	slower than the airplane	slowest compared with them
+fast animal	faster compared with the dog	small coin	smaller than the egg	smallest compared with them
+fast animal	faster compared with the dog	smart student	smarter than mary	smartest compared with them
+fast animal	faster compared with the dog	strong instructor	stronger than the leaner	strongest compared with them
+fast animal	faster compared with the dog	tall building	taller than the tree	tallest compared with them
+fast animal	faster compared with the dog	tight skirt	tighter than the pants	tightest compared with them
+fast animal	faster compared with the dog	tough team	tougher than spanish	toughest compared with them
+fast animal	faster compared with the dog	warm room	warmer than the outside	warmest compared with them
+fast animal	faster compared with the dog	weak region	weaker than brno	weakest compared with them
+fast animal	faster compared with the dog	wide worktops	wider than the door	widest compared with them
+fast animal	faster compared with the dog	young woman	younger than the man	youngest compared with them
+fast animal	faster compared with the dog	bad weather	worse than the south	worst compared with them
+fast animal	faster compared with the dog	big train	bigger than the car	biggest compared with them
+fast animal	faster compared with the dog	bright animal	brighter than goats	brightest compared with them
+fast animal	faster compared with the dog	cheap machine	cheaper than the computer	cheapest compared with them
+fast animal	faster compared with the dog	cold month	colder than october	coldest compared with them
+fast animal	faster compared with the dog	cool month	cooler than october	coolest compared with them
+fast animal	faster compared with the dog	deep water	deeper than seaweed	deepest compared with them
+fast animal	faster compared with the dog	easy subject	easier than chemistry	easiest compared with them
+good weather	better compared with south	great need	greater than the physical one	greatest compared with them
+good weather	better compared with south	hard subject	harder than chemistry	hardest compared with them
+good weather	better compared with south	heavy dog	heavier than the cat	heaviest compared with them
+good weather	better compared with south	high rank	higher than mary	highest compared with them
+good weather	better compared with south	hot season	hotter than winter	hottest compared with them
+good weather	better compared with south	large plane	lager than the car	largest compared with them
+good weather	better compared with south	long skirt	longer than the pants	longest compared with them
+good weather	better compared with south	loud speaker	louder than earphones	loudest compared with them
+good weather	better compared with south	low tree	lower than the building	lowest compared with them
+good weather	better compared with south	new computer	newer than the printer	newest compared with them
+good weather	better compared with south	old vase	older than the album	oldest compared with them
+good weather	better compared with south	quick animal	quicker than the dog	quickest compared with them
+good weather	better compared with south	safe area	safer than outside	safest compared with them
+good weather	better compared with south	sharp criticism	sharper than the praise	sharpest compared with them
+good weather	better compared with south	short skirt	shorter than the pants	shortest compared with them
+good weather	better compared with south	simple theory	simpler than philosophy	simplest compared with them
+good weather	better compared with south	slow train	slower than the airplane	slowest compared with them
+good weather	better compared with south	small coin	smaller than the egg	smallest compared with them
+good weather	better compared with south	smart student	smarter than mary	smartest compared with them
+good weather	better compared with south	strong instructor	stronger than the leaner	strongest compared with them
+good weather	better compared with south	tall building	taller than the tree	tallest compared with them
+good weather	better compared with south	tight skirt	tighter than the pants	tightest compared with them
+good weather	better compared with south	tough team	tougher than spanish	toughest compared with them
+good weather	better compared with south	warm room	warmer than the outside	warmest compared with them
+good weather	better compared with south	weak region	weaker than brno	weakest compared with them
+good weather	better compared with south	wide worktops	wider than the door	widest compared with them
+good weather	better compared with south	young woman	younger than the man	youngest compared with them
+good weather	better compared with south	bad weather	worse than the south	worst compared with them
+good weather	better compared with south	big train	bigger than the car	biggest compared with them
+good weather	better compared with south	bright animal	brighter than goats	brightest compared with them
+good weather	better compared with south	cheap machine	cheaper than the computer	cheapest compared with them
+good weather	better compared with south	cold month	colder than october	coldest compared with them
+good weather	better compared with south	cool month	cooler than october	coolest compared with them
+good weather	better compared with south	deep water	deeper than seaweed	deepest compared with them
+good weather	better compared with south	easy subject	easier than chemistry	easiest compared with them
+good weather	better compared with south	fast animal	faster than the dog	fastest compared with them
+great need	greater compared with the physical one	hard subject	harder than chemistry	hardest compared with them
+great need	greater compared with the physical one	heavy dog	heavier than the cat	heaviest compared with them
+great need	greater compared with the physical one	high rank	higher than mary	highest compared with them
+great need	greater compared with the physical one	hot season	hotter than winter	hottest compared with them
+great need	greater compared with the physical one	large plane	lager than the car	largest compared with them
+great need	greater compared with the physical one	long skirt	longer than the pants	longest compared with them
+great need	greater compared with the physical one	loud speaker	louder than earphones	loudest compared with them
+great need	greater compared with the physical one	low tree	lower than the building	lowest compared with them
+great need	greater compared with the physical one	new computer	newer than the printer	newest compared with them
+great need	greater compared with the physical one	old vase	older than the album	oldest compared with them
+great need	greater compared with the physical one	quick animal	quicker than the dog	quickest compared with them
+great need	greater compared with the physical one	safe area	safer than outside	safest compared with them
+great need	greater compared with the physical one	sharp criticism	sharper than the praise	sharpest compared with them
+great need	greater compared with the physical one	short skirt	shorter than the pants	shortest compared with them
+great need	greater compared with the physical one	simple theory	simpler than philosophy	simplest compared with them
+great need	greater compared with the physical one	slow train	slower than the airplane	slowest compared with them
+great need	greater compared with the physical one	small coin	smaller than the egg	smallest compared with them
+great need	greater compared with the physical one	smart student	smarter than mary	smartest compared with them
+great need	greater compared with the physical one	strong instructor	stronger than the leaner	strongest compared with them
+great need	greater compared with the physical one	tall building	taller than the tree	tallest compared with them
+great need	greater compared with the physical one	tight skirt	tighter than the pants	tightest compared with them
+great need	greater compared with the physical one	tough team	tougher than spanish	toughest compared with them
+great need	greater compared with the physical one	warm room	warmer than the outside	warmest compared with them
+great need	greater compared with the physical one	weak region	weaker than brno	weakest compared with them
+great need	greater compared with the physical one	wide worktops	wider than the door	widest compared with them
+great need	greater compared with the physical one	young woman	younger than the man	youngest compared with them
+great need	greater compared with the physical one	bad weather	worse than the south	worst compared with them
+great need	greater compared with the physical one	big train	bigger than the car	biggest compared with them
+great need	greater compared with the physical one	bright animal	brighter than goats	brightest compared with them
+great need	greater compared with the physical one	cheap machine	cheaper than the computer	cheapest compared with them
+great need	greater compared with the physical one	cold month	colder than october	coldest compared with them
+great need	greater compared with the physical one	cool month	cooler than october	coolest compared with them
+great need	greater compared with the physical one	deep water	deeper than seaweed	deepest compared with them
+great need	greater compared with the physical one	easy subject	easier than chemistry	easiest compared with them
+great need	greater compared with the physical one	fast animal	faster than the dog	fastest compared with them
+great need	greater compared with the physical one	good weather	better than south	best compared with them
+hard subject	harder compared with chemistry	heavy dog	heavier than the cat	heaviest compared with them
+hard subject	harder compared with chemistry	high rank	higher than mary	highest compared with them
+hard subject	harder compared with chemistry	hot season	hotter than winter	hottest compared with them
+hard subject	harder compared with chemistry	large plane	lager than the car	largest compared with them
+hard subject	harder compared with chemistry	long skirt	longer than the pants	longest compared with them
+hard subject	harder compared with chemistry	loud speaker	louder than earphones	loudest compared with them
+hard subject	harder compared with chemistry	low tree	lower than the building	lowest compared with them
+hard subject	harder compared with chemistry	new computer	newer than the printer	newest compared with them
+hard subject	harder compared with chemistry	old vase	older than the album	oldest compared with them
+hard subject	harder compared with chemistry	quick animal	quicker than the dog	quickest compared with them
+hard subject	harder compared with chemistry	safe area	safer than outside	safest compared with them
+hard subject	harder compared with chemistry	sharp criticism	sharper than the praise	sharpest compared with them
+hard subject	harder compared with chemistry	short skirt	shorter than the pants	shortest compared with them
+hard subject	harder compared with chemistry	simple theory	simpler than philosophy	simplest compared with them
+hard subject	harder compared with chemistry	slow train	slower than the airplane	slowest compared with them
+hard subject	harder compared with chemistry	small coin	smaller than the egg	smallest compared with them
+hard subject	harder compared with chemistry	smart student	smarter than mary	smartest compared with them
+hard subject	harder compared with chemistry	strong instructor	stronger than the leaner	strongest compared with them
+hard subject	harder compared with chemistry	tall building	taller than the tree	tallest compared with them
+hard subject	harder compared with chemistry	tight skirt	tighter than the pants	tightest compared with them
+hard subject	harder compared with chemistry	tough team	tougher than spanish	toughest compared with them
+hard subject	harder compared with chemistry	warm room	warmer than the outside	warmest compared with them
+hard subject	harder compared with chemistry	weak region	weaker than brno	weakest compared with them
+hard subject	harder compared with chemistry	wide worktops	wider than the door	widest compared with them
+hard subject	harder compared with chemistry	young woman	younger than the man	youngest compared with them
+hard subject	harder compared with chemistry	bad weather	worse than the south	worst compared with them
+hard subject	harder compared with chemistry	big train	bigger than the car	biggest compared with them
+hard subject	harder compared with chemistry	bright animal	brighter than goats	brightest compared with them
+hard subject	harder compared with chemistry	cheap machine	cheaper than the computer	cheapest compared with them
+hard subject	harder compared with chemistry	cold month	colder than october	coldest compared with them
+hard subject	harder compared with chemistry	cool month	cooler than october	coolest compared with them
+hard subject	harder compared with chemistry	deep water	deeper than seaweed	deepest compared with them
+hard subject	harder compared with chemistry	easy subject	easier than chemistry	easiest compared with them
+hard subject	harder compared with chemistry	fast animal	faster than the dog	fastest compared with them
+hard subject	harder compared with chemistry	good weather	better than south	best compared with them
+hard subject	harder compared with chemistry	great need	greater than the physical one	greatest compared with them
+heavy dog	heavier compared with the cat	high rank	higher than mary	highest compared with them
+heavy dog	heavier compared with the cat	hot season	hotter than winter	hottest compared with them
+heavy dog	heavier compared with the cat	large plane	lager than the car	largest compared with them
+heavy dog	heavier compared with the cat	long skirt	longer than the pants	longest compared with them
+heavy dog	heavier compared with the cat	loud speaker	louder than earphones	loudest compared with them
+heavy dog	heavier compared with the cat	low tree	lower than the building	lowest compared with them
+heavy dog	heavier compared with the cat	new computer	newer than the printer	newest compared with them
+heavy dog	heavier compared with the cat	old vase	older than the album	oldest compared with them
+heavy dog	heavier compared with the cat	quick animal	quicker than the dog	quickest compared with them
+heavy dog	heavier compared with the cat	safe area	safer than outside	safest compared with them
+heavy dog	heavier compared with the cat	sharp criticism	sharper than the praise	sharpest compared with them
+heavy dog	heavier compared with the cat	short skirt	shorter than the pants	shortest compared with them
+heavy dog	heavier compared with the cat	simple theory	simpler than philosophy	simplest compared with them
+heavy dog	heavier compared with the cat	slow train	slower than the airplane	slowest compared with them
+heavy dog	heavier compared with the cat	small coin	smaller than the egg	smallest compared with them
+heavy dog	heavier compared with the cat	smart student	smarter than mary	smartest compared with them
+heavy dog	heavier compared with the cat	strong instructor	stronger than the leaner	strongest compared with them
+heavy dog	heavier compared with the cat	tall building	taller than the tree	tallest compared with them
+heavy dog	heavier compared with the cat	tight skirt	tighter than the pants	tightest compared with them
+heavy dog	heavier compared with the cat	tough team	tougher than spanish	toughest compared with them
+heavy dog	heavier compared with the cat	warm room	warmer than the outside	warmest compared with them
+heavy dog	heavier compared with the cat	weak region	weaker than brno	weakest compared with them
+heavy dog	heavier compared with the cat	wide worktops	wider than the door	widest compared with them
+heavy dog	heavier compared with the cat	young woman	younger than the man	youngest compared with them
+heavy dog	heavier compared with the cat	bad weather	worse than the south	worst compared with them
+heavy dog	heavier compared with the cat	big train	bigger than the car	biggest compared with them
+heavy dog	heavier compared with the cat	bright animal	brighter than goats	brightest compared with them
+heavy dog	heavier compared with the cat	cheap machine	cheaper than the computer	cheapest compared with them
+heavy dog	heavier compared with the cat	cold month	colder than october	coldest compared with them
+heavy dog	heavier compared with the cat	cool month	cooler than october	coolest compared with them
+heavy dog	heavier compared with the cat	deep water	deeper than seaweed	deepest compared with them
+heavy dog	heavier compared with the cat	easy subject	easier than chemistry	easiest compared with them
+heavy dog	heavier compared with the cat	fast animal	faster than the dog	fastest compared with them
+heavy dog	heavier compared with the cat	good weather	better than south	best compared with them
+heavy dog	heavier compared with the cat	great need	greater than the physical one	greatest compared with them
+heavy dog	heavier compared with the cat	hard subject	harder than chemistry	hardest compared with them
+high rank	higher compared with mary	hot season	hotter than winter	hottest compared with them
+high rank	higher compared with mary	large plane	lager than the car	largest compared with them
+high rank	higher compared with mary	long skirt	longer than the pants	longest compared with them
+high rank	higher compared with mary	loud speaker	louder than earphones	loudest compared with them
+high rank	higher compared with mary	low tree	lower than the building	lowest compared with them
+high rank	higher compared with mary	new computer	newer than the printer	newest compared with them
+high rank	higher compared with mary	old vase	older than the album	oldest compared with them
+high rank	higher compared with mary	quick animal	quicker than the dog	quickest compared with them
+high rank	higher compared with mary	safe area	safer than outside	safest compared with them
+high rank	higher compared with mary	sharp criticism	sharper than the praise	sharpest compared with them
+high rank	higher compared with mary	short skirt	shorter than the pants	shortest compared with them
+high rank	higher compared with mary	simple theory	simpler than philosophy	simplest compared with them
+high rank	higher compared with mary	slow train	slower than the airplane	slowest compared with them
+high rank	higher compared with mary	small coin	smaller than the egg	smallest compared with them
+high rank	higher compared with mary	smart student	smarter than mary	smartest compared with them
+high rank	higher compared with mary	strong instructor	stronger than the leaner	strongest compared with them
+high rank	higher compared with mary	tall building	taller than the tree	tallest compared with them
+high rank	higher compared with mary	tight skirt	tighter than the pants	tightest compared with them
+high rank	higher compared with mary	tough team	tougher than spanish	toughest compared with them
+high rank	higher compared with mary	warm room	warmer than the outside	warmest compared with them
+high rank	higher compared with mary	weak region	weaker than brno	weakest compared with them
+high rank	higher compared with mary	wide worktops	wider than the door	widest compared with them
+high rank	higher compared with mary	young woman	younger than the man	youngest compared with them
+high rank	higher compared with mary	bad weather	worse than the south	worst compared with them
+high rank	higher compared with mary	big train	bigger than the car	biggest compared with them
+high rank	higher compared with mary	bright animal	brighter than goats	brightest compared with them
+high rank	higher compared with mary	cheap machine	cheaper than the computer	cheapest compared with them
+high rank	higher compared with mary	cold month	colder than october	coldest compared with them
+high rank	higher compared with mary	cool month	cooler than october	coolest compared with them
+high rank	higher compared with mary	deep water	deeper than seaweed	deepest compared with them
+high rank	higher compared with mary	easy subject	easier than chemistry	easiest compared with them
+high rank	higher compared with mary	fast animal	faster than the dog	fastest compared with them
+high rank	higher compared with mary	good weather	better than south	best compared with them
+high rank	higher compared with mary	great need	greater than the physical one	greatest compared with them
+high rank	higher compared with mary	hard subject	harder than chemistry	hardest compared with them
+high rank	higher compared with mary	heavy dog	heavier than the cat	heaviest compared with them
+hot season	hotter compared with winter	large plane	lager than the car	largest compared with them
+hot season	hotter compared with winter	long skirt	longer than the pants	longest compared with them
+hot season	hotter compared with winter	loud speaker	louder than earphones	loudest compared with them
+hot season	hotter compared with winter	low tree	lower than the building	lowest compared with them
+hot season	hotter compared with winter	new computer	newer than the printer	newest compared with them
+hot season	hotter compared with winter	old vase	older than the album	oldest compared with them
+hot season	hotter compared with winter	quick animal	quicker than the dog	quickest compared with them
+hot season	hotter compared with winter	safe area	safer than outside	safest compared with them
+hot season	hotter compared with winter	sharp criticism	sharper than the praise	sharpest compared with them
+hot season	hotter compared with winter	short skirt	shorter than the pants	shortest compared with them
+hot season	hotter compared with winter	simple theory	simpler than philosophy	simplest compared with them
+hot season	hotter compared with winter	slow train	slower than the airplane	slowest compared with them
+hot season	hotter compared with winter	small coin	smaller than the egg	smallest compared with them
+hot season	hotter compared with winter	smart student	smarter than mary	smartest compared with them
+hot season	hotter compared with winter	strong instructor	stronger than the leaner	strongest compared with them
+hot season	hotter compared with winter	tall building	taller than the tree	tallest compared with them
+hot season	hotter compared with winter	tight skirt	tighter than the pants	tightest compared with them
+hot season	hotter compared with winter	tough team	tougher than spanish	toughest compared with them
+hot season	hotter compared with winter	warm room	warmer than the outside	warmest compared with them
+hot season	hotter compared with winter	weak region	weaker than brno	weakest compared with them
+hot season	hotter compared with winter	wide worktops	wider than the door	widest compared with them
+hot season	hotter compared with winter	young woman	younger than the man	youngest compared with them
+hot season	hotter compared with winter	bad weather	worse than the south	worst compared with them
+hot season	hotter compared with winter	big train	bigger than the car	biggest compared with them
+hot season	hotter compared with winter	bright animal	brighter than goats	brightest compared with them
+hot season	hotter compared with winter	cheap machine	cheaper than the computer	cheapest compared with them
+hot season	hotter compared with winter	cold month	colder than october	coldest compared with them
+hot season	hotter compared with winter	cool month	cooler than october	coolest compared with them
+hot season	hotter compared with winter	deep water	deeper than seaweed	deepest compared with them
+hot season	hotter compared with winter	easy subject	easier than chemistry	easiest compared with them
+hot season	hotter compared with winter	fast animal	faster than the dog	fastest compared with them
+hot season	hotter compared with winter	good weather	better than south	best compared with them
+hot season	hotter compared with winter	great need	greater than the physical one	greatest compared with them
+hot season	hotter compared with winter	hard subject	harder than chemistry	hardest compared with them
+hot season	hotter compared with winter	heavy dog	heavier than the cat	heaviest compared with them
+hot season	hotter compared with winter	high rank	higher than mary	highest compared with them
+large plane	lager compared with the car	long skirt	longer than the pants	longest compared with them
+large plane	lager compared with the car	loud speaker	louder than earphones	loudest compared with them
+large plane	lager compared with the car	low tree	lower than the building	lowest compared with them
+large plane	lager compared with the car	new computer	newer than the printer	newest compared with them
+large plane	lager compared with the car	old vase	older than the album	oldest compared with them
+large plane	lager compared with the car	quick animal	quicker than the dog	quickest compared with them
+large plane	lager compared with the car	safe area	safer than outside	safest compared with them
+large plane	lager compared with the car	sharp criticism	sharper than the praise	sharpest compared with them
+large plane	lager compared with the car	short skirt	shorter than the pants	shortest compared with them
+large plane	lager compared with the car	simple theory	simpler than philosophy	simplest compared with them
+large plane	lager compared with the car	slow train	slower than the airplane	slowest compared with them
+large plane	lager compared with the car	small coin	smaller than the egg	smallest compared with them
+large plane	lager compared with the car	smart student	smarter than mary	smartest compared with them
+large plane	lager compared with the car	strong instructor	stronger than the leaner	strongest compared with them
+large plane	lager compared with the car	tall building	taller than the tree	tallest compared with them
+large plane	lager compared with the car	tight skirt	tighter than the pants	tightest compared with them
+large plane	lager compared with the car	tough team	tougher than spanish	toughest compared with them
+large plane	lager compared with the car	warm room	warmer than the outside	warmest compared with them
+large plane	lager compared with the car	weak region	weaker than brno	weakest compared with them
+large plane	lager compared with the car	wide worktops	wider than the door	widest compared with them
+large plane	lager compared with the car	young woman	younger than the man	youngest compared with them
+large plane	lager compared with the car	bad weather	worse than the south	worst compared with them
+large plane	lager compared with the car	big train	bigger than the car	biggest compared with them
+large plane	lager compared with the car	bright animal	brighter than goats	brightest compared with them
+large plane	lager compared with the car	cheap machine	cheaper than the computer	cheapest compared with them
+large plane	lager compared with the car	cold month	colder than october	coldest compared with them
+large plane	lager compared with the car	cool month	cooler than october	coolest compared with them
+large plane	lager compared with the car	deep water	deeper than seaweed	deepest compared with them
+large plane	lager compared with the car	easy subject	easier than chemistry	easiest compared with them
+large plane	lager compared with the car	fast animal	faster than the dog	fastest compared with them
+large plane	lager compared with the car	good weather	better than south	best compared with them
+large plane	lager compared with the car	great need	greater than the physical one	greatest compared with them
+large plane	lager compared with the car	hard subject	harder than chemistry	hardest compared with them
+large plane	lager compared with the car	heavy dog	heavier than the cat	heaviest compared with them
+large plane	lager compared with the car	high rank	higher than mary	highest compared with them
+large plane	lager compared with the car	hot season	hotter than winter	hottest compared with them
+long skirt	longer compared with the pants	loud speaker	louder than earphones	loudest compared with them
+long skirt	longer compared with the pants	low tree	lower than the building	lowest compared with them
+long skirt	longer compared with the pants	new computer	newer than the printer	newest compared with them
+long skirt	longer compared with the pants	old vase	older than the album	oldest compared with them
+long skirt	longer compared with the pants	quick animal	quicker than the dog	quickest compared with them
+long skirt	longer compared with the pants	safe area	safer than outside	safest compared with them
+long skirt	longer compared with the pants	sharp criticism	sharper than the praise	sharpest compared with them
+long skirt	longer compared with the pants	short skirt	shorter than the pants	shortest compared with them
+long skirt	longer compared with the pants	simple theory	simpler than philosophy	simplest compared with them
+long skirt	longer compared with the pants	slow train	slower than the airplane	slowest compared with them
+long skirt	longer compared with the pants	small coin	smaller than the egg	smallest compared with them
+long skirt	longer compared with the pants	smart student	smarter than mary	smartest compared with them
+long skirt	longer compared with the pants	strong instructor	stronger than the leaner	strongest compared with them
+long skirt	longer compared with the pants	tall building	taller than the tree	tallest compared with them
+long skirt	longer compared with the pants	tight skirt	tighter than the pants	tightest compared with them
+long skirt	longer compared with the pants	tough team	tougher than spanish	toughest compared with them
+long skirt	longer compared with the pants	warm room	warmer than the outside	warmest compared with them
+long skirt	longer compared with the pants	weak region	weaker than brno	weakest compared with them
+long skirt	longer compared with the pants	wide worktops	wider than the door	widest compared with them
+long skirt	longer compared with the pants	young woman	younger than the man	youngest compared with them
+long skirt	longer compared with the pants	bad weather	worse than the south	worst compared with them
+long skirt	longer compared with the pants	big train	bigger than the car	biggest compared with them
+long skirt	longer compared with the pants	bright animal	brighter than goats	brightest compared with them
+long skirt	longer compared with the pants	cheap machine	cheaper than the computer	cheapest compared with them
+long skirt	longer compared with the pants	cold month	colder than october	coldest compared with them
+long skirt	longer compared with the pants	cool month	cooler than october	coolest compared with them
+long skirt	longer compared with the pants	deep water	deeper than seaweed	deepest compared with them
+long skirt	longer compared with the pants	easy subject	easier than chemistry	easiest compared with them
+long skirt	longer compared with the pants	fast animal	faster than the dog	fastest compared with them
+long skirt	longer compared with the pants	good weather	better than south	best compared with them
+long skirt	longer compared with the pants	great need	greater than the physical one	greatest compared with them
+long skirt	longer compared with the pants	hard subject	harder than chemistry	hardest compared with them
+long skirt	longer compared with the pants	heavy dog	heavier than the cat	heaviest compared with them
+long skirt	longer compared with the pants	high rank	higher than mary	highest compared with them
+long skirt	longer compared with the pants	hot season	hotter than winter	hottest compared with them
+long skirt	longer compared with the pants	large plane	lager than the car	largest compared with them
+loud speaker	louder compared with earphones	low tree	lower than the building	lowest compared with them
+loud speaker	louder compared with earphones	new computer	newer than the printer	newest compared with them
+loud speaker	louder compared with earphones	old vase	older than the album	oldest compared with them
+loud speaker	louder compared with earphones	quick animal	quicker than the dog	quickest compared with them
+loud speaker	louder compared with earphones	safe area	safer than outside	safest compared with them
+loud speaker	louder compared with earphones	sharp criticism	sharper than the praise	sharpest compared with them
+loud speaker	louder compared with earphones	short skirt	shorter than the pants	shortest compared with them
+loud speaker	louder compared with earphones	simple theory	simpler than philosophy	simplest compared with them
+loud speaker	louder compared with earphones	slow train	slower than the airplane	slowest compared with them
+loud speaker	louder compared with earphones	small coin	smaller than the egg	smallest compared with them
+loud speaker	louder compared with earphones	smart student	smarter than mary	smartest compared with them
+loud speaker	louder compared with earphones	strong instructor	stronger than the leaner	strongest compared with them
+loud speaker	louder compared with earphones	tall building	taller than the tree	tallest compared with them
+loud speaker	louder compared with earphones	tight skirt	tighter than the pants	tightest compared with them
+loud speaker	louder compared with earphones	tough team	tougher than spanish	toughest compared with them
+loud speaker	louder compared with earphones	warm room	warmer than the outside	warmest compared with them
+loud speaker	louder compared with earphones	weak region	weaker than brno	weakest compared with them
+loud speaker	louder compared with earphones	wide worktops	wider than the door	widest compared with them
+loud speaker	louder compared with earphones	young woman	younger than the man	youngest compared with them
+loud speaker	louder compared with earphones	bad weather	worse than the south	worst compared with them
+loud speaker	louder compared with earphones	big train	bigger than the car	biggest compared with them
+loud speaker	louder compared with earphones	bright animal	brighter than goats	brightest compared with them
+loud speaker	louder compared with earphones	cheap machine	cheaper than the computer	cheapest compared with them
+loud speaker	louder compared with earphones	cold month	colder than october	coldest compared with them
+loud speaker	louder compared with earphones	cool month	cooler than october	coolest compared with them
+loud speaker	louder compared with earphones	deep water	deeper than seaweed	deepest compared with them
+loud speaker	louder compared with earphones	easy subject	easier than chemistry	easiest compared with them
+loud speaker	louder compared with earphones	fast animal	faster than the dog	fastest compared with them
+loud speaker	louder compared with earphones	good weather	better than south	best compared with them
+loud speaker	louder compared with earphones	great need	greater than the physical one	greatest compared with them
+loud speaker	louder compared with earphones	hard subject	harder than chemistry	hardest compared with them
+loud speaker	louder compared with earphones	heavy dog	heavier than the cat	heaviest compared with them
+loud speaker	louder compared with earphones	high rank	higher than mary	highest compared with them
+loud speaker	louder compared with earphones	hot season	hotter than winter	hottest compared with them
+loud speaker	louder compared with earphones	large plane	lager than the car	largest compared with them
+loud speaker	louder compared with earphones	long skirt	longer than the pants	longest compared with them
+low tree	lower compared with the building	new computer	newer than the printer	newest compared with them
+low tree	lower compared with the building	old vase	older than the album	oldest compared with them
+low tree	lower compared with the building	quick animal	quicker than the dog	quickest compared with them
+low tree	lower compared with the building	safe area	safer than outside	safest compared with them
+low tree	lower compared with the building	sharp criticism	sharper than the praise	sharpest compared with them
+low tree	lower compared with the building	short skirt	shorter than the pants	shortest compared with them
+low tree	lower compared with the building	simple theory	simpler than philosophy	simplest compared with them
+low tree	lower compared with the building	slow train	slower than the airplane	slowest compared with them
+low tree	lower compared with the building	small coin	smaller than the egg	smallest compared with them
+low tree	lower compared with the building	smart student	smarter than mary	smartest compared with them
+low tree	lower compared with the building	strong instructor	stronger than the leaner	strongest compared with them
+low tree	lower compared with the building	tall building	taller than the tree	tallest compared with them
+low tree	lower compared with the building	tight skirt	tighter than the pants	tightest compared with them
+low tree	lower compared with the building	tough team	tougher than spanish	toughest compared with them
+low tree	lower compared with the building	warm room	warmer than the outside	warmest compared with them
+low tree	lower compared with the building	weak region	weaker than brno	weakest compared with them
+low tree	lower compared with the building	wide worktops	wider than the door	widest compared with them
+low tree	lower compared with the building	young woman	younger than the man	youngest compared with them
+low tree	lower compared with the building	bad weather	worse than the south	worst compared with them
+low tree	lower compared with the building	big train	bigger than the car	biggest compared with them
+low tree	lower compared with the building	bright animal	brighter than goats	brightest compared with them
+low tree	lower compared with the building	cheap machine	cheaper than the computer	cheapest compared with them
+low tree	lower compared with the building	cold month	colder than october	coldest compared with them
+low tree	lower compared with the building	cool month	cooler than october	coolest compared with them
+low tree	lower compared with the building	deep water	deeper than seaweed	deepest compared with them
+low tree	lower compared with the building	easy subject	easier than chemistry	easiest compared with them
+low tree	lower compared with the building	fast animal	faster than the dog	fastest compared with them
+low tree	lower compared with the building	good weather	better than south	best compared with them
+low tree	lower compared with the building	great need	greater than the physical one	greatest compared with them
+low tree	lower compared with the building	hard subject	harder than chemistry	hardest compared with them
+low tree	lower compared with the building	heavy dog	heavier than the cat	heaviest compared with them
+low tree	lower compared with the building	high rank	higher than mary	highest compared with them
+low tree	lower compared with the building	hot season	hotter than winter	hottest compared with them
+low tree	lower compared with the building	large plane	lager than the car	largest compared with them
+low tree	lower compared with the building	long skirt	longer than the pants	longest compared with them
+low tree	lower compared with the building	loud speaker	louder than earphones	loudest compared with them
+new computer	newer compared with the printer	old vase	older than the album	oldest compared with them
+new computer	newer compared with the printer	quick animal	quicker than the dog	quickest compared with them
+new computer	newer compared with the printer	safe area	safer than outside	safest compared with them
+new computer	newer compared with the printer	sharp criticism	sharper than the praise	sharpest compared with them
+new computer	newer compared with the printer	short skirt	shorter than the pants	shortest compared with them
+new computer	newer compared with the printer	simple theory	simpler than philosophy	simplest compared with them
+new computer	newer compared with the printer	slow train	slower than the airplane	slowest compared with them
+new computer	newer compared with the printer	small coin	smaller than the egg	smallest compared with them
+new computer	newer compared with the printer	smart student	smarter than mary	smartest compared with them
+new computer	newer compared with the printer	strong instructor	stronger than the leaner	strongest compared with them
+new computer	newer compared with the printer	tall building	taller than the tree	tallest compared with them
+new computer	newer compared with the printer	tight skirt	tighter than the pants	tightest compared with them
+new computer	newer compared with the printer	tough team	tougher than spanish	toughest compared with them
+new computer	newer compared with the printer	warm room	warmer than the outside	warmest compared with them
+new computer	newer compared with the printer	weak region	weaker than brno	weakest compared with them
+new computer	newer compared with the printer	wide worktops	wider than the door	widest compared with them
+new computer	newer compared with the printer	young woman	younger than the man	youngest compared with them
+new computer	newer compared with the printer	bad weather	worse than the south	worst compared with them
+new computer	newer compared with the printer	big train	bigger than the car	biggest compared with them
+new computer	newer compared with the printer	bright animal	brighter than goats	brightest compared with them
+new computer	newer compared with the printer	cheap machine	cheaper than the computer	cheapest compared with them
+new computer	newer compared with the printer	cold month	colder than october	coldest compared with them
+new computer	newer compared with the printer	cool month	cooler than october	coolest compared with them
+new computer	newer compared with the printer	deep water	deeper than seaweed	deepest compared with them
+new computer	newer compared with the printer	easy subject	easier than chemistry	easiest compared with them
+new computer	newer compared with the printer	fast animal	faster than the dog	fastest compared with them
+new computer	newer compared with the printer	good weather	better than south	best compared with them
+new computer	newer compared with the printer	great need	greater than the physical one	greatest compared with them
+new computer	newer compared with the printer	hard subject	harder than chemistry	hardest compared with them
+new computer	newer compared with the printer	heavy dog	heavier than the cat	heaviest compared with them
+new computer	newer compared with the printer	high rank	higher than mary	highest compared with them
+new computer	newer compared with the printer	hot season	hotter than winter	hottest compared with them
+new computer	newer compared with the printer	large plane	lager than the car	largest compared with them
+new computer	newer compared with the printer	long skirt	longer than the pants	longest compared with them
+new computer	newer compared with the printer	loud speaker	louder than earphones	loudest compared with them
+new computer	newer compared with the printer	low tree	lower than the building	lowest compared with them
+old vase	older compared with the album	quick animal	quicker than the dog	quickest compared with them
+old vase	older compared with the album	safe area	safer than outside	safest compared with them
+old vase	older compared with the album	sharp criticism	sharper than the praise	sharpest compared with them
+old vase	older compared with the album	short skirt	shorter than the pants	shortest compared with them
+old vase	older compared with the album	simple theory	simpler than philosophy	simplest compared with them
+old vase	older compared with the album	slow train	slower than the airplane	slowest compared with them
+old vase	older compared with the album	small coin	smaller than the egg	smallest compared with them
+old vase	older compared with the album	smart student	smarter than mary	smartest compared with them
+old vase	older compared with the album	strong instructor	stronger than the leaner	strongest compared with them
+old vase	older compared with the album	tall building	taller than the tree	tallest compared with them
+old vase	older compared with the album	tight skirt	tighter than the pants	tightest compared with them
+old vase	older compared with the album	tough team	tougher than spanish	toughest compared with them
+old vase	older compared with the album	warm room	warmer than the outside	warmest compared with them
+old vase	older compared with the album	weak region	weaker than brno	weakest compared with them
+old vase	older compared with the album	wide worktops	wider than the door	widest compared with them
+old vase	older compared with the album	young woman	younger than the man	youngest compared with them
+old vase	older compared with the album	bad weather	worse than the south	worst compared with them
+old vase	older compared with the album	big train	bigger than the car	biggest compared with them
+old vase	older compared with the album	bright animal	brighter than goats	brightest compared with them
+old vase	older compared with the album	cheap machine	cheaper than the computer	cheapest compared with them
+old vase	older compared with the album	cold month	colder than october	coldest compared with them
+old vase	older compared with the album	cool month	cooler than october	coolest compared with them
+old vase	older compared with the album	deep water	deeper than seaweed	deepest compared with them
+old vase	older compared with the album	easy subject	easier than chemistry	easiest compared with them
+old vase	older compared with the album	fast animal	faster than the dog	fastest compared with them
+old vase	older compared with the album	good weather	better than south	best compared with them
+old vase	older compared with the album	great need	greater than the physical one	greatest compared with them
+old vase	older compared with the album	hard subject	harder than chemistry	hardest compared with them
+old vase	older compared with the album	heavy dog	heavier than the cat	heaviest compared with them
+old vase	older compared with the album	high rank	higher than mary	highest compared with them
+old vase	older compared with the album	hot season	hotter than winter	hottest compared with them
+old vase	older compared with the album	large plane	lager than the car	largest compared with them
+old vase	older compared with the album	long skirt	longer than the pants	longest compared with them
+old vase	older compared with the album	loud speaker	louder than earphones	loudest compared with them
+old vase	older compared with the album	low tree	lower than the building	lowest compared with them
+old vase	older compared with the album	new computer	newer than the printer	newest compared with them
+quick animal	quicker compared with the dog	safe area	safer than outside	safest compared with them
+quick animal	quicker compared with the dog	sharp criticism	sharper than the praise	sharpest compared with them
+quick animal	quicker compared with the dog	short skirt	shorter than the pants	shortest compared with them
+quick animal	quicker compared with the dog	simple theory	simpler than philosophy	simplest compared with them
+quick animal	quicker compared with the dog	slow train	slower than the airplane	slowest compared with them
+quick animal	quicker compared with the dog	small coin	smaller than the egg	smallest compared with them
+quick animal	quicker compared with the dog	smart student	smarter than mary	smartest compared with them
+quick animal	quicker compared with the dog	strong instructor	stronger than the leaner	strongest compared with them
+quick animal	quicker compared with the dog	tall building	taller than the tree	tallest compared with them
+quick animal	quicker compared with the dog	tight skirt	tighter than the pants	tightest compared with them
+quick animal	quicker compared with the dog	tough team	tougher than spanish	toughest compared with them
+quick animal	quicker compared with the dog	warm room	warmer than the outside	warmest compared with them
+quick animal	quicker compared with the dog	weak region	weaker than brno	weakest compared with them
+quick animal	quicker compared with the dog	wide worktops	wider than the door	widest compared with them
+quick animal	quicker compared with the dog	young woman	younger than the man	youngest compared with them
+quick animal	quicker compared with the dog	bad weather	worse than the south	worst compared with them
+quick animal	quicker compared with the dog	big train	bigger than the car	biggest compared with them
+quick animal	quicker compared with the dog	bright animal	brighter than goats	brightest compared with them
+quick animal	quicker compared with the dog	cheap machine	cheaper than the computer	cheapest compared with them
+quick animal	quicker compared with the dog	cold month	colder than october	coldest compared with them
+quick animal	quicker compared with the dog	cool month	cooler than october	coolest compared with them
+quick animal	quicker compared with the dog	deep water	deeper than seaweed	deepest compared with them
+quick animal	quicker compared with the dog	easy subject	easier than chemistry	easiest compared with them
+quick animal	quicker compared with the dog	fast animal	faster than the dog	fastest compared with them
+quick animal	quicker compared with the dog	good weather	better than south	best compared with them
+quick animal	quicker compared with the dog	great need	greater than the physical one	greatest compared with them
+quick animal	quicker compared with the dog	hard subject	harder than chemistry	hardest compared with them
+quick animal	quicker compared with the dog	heavy dog	heavier than the cat	heaviest compared with them
+quick animal	quicker compared with the dog	high rank	higher than mary	highest compared with them
+quick animal	quicker compared with the dog	hot season	hotter than winter	hottest compared with them
+quick animal	quicker compared with the dog	large plane	lager than the car	largest compared with them
+quick animal	quicker compared with the dog	long skirt	longer than the pants	longest compared with them
+quick animal	quicker compared with the dog	loud speaker	louder than earphones	loudest compared with them
+quick animal	quicker compared with the dog	low tree	lower than the building	lowest compared with them
+quick animal	quicker compared with the dog	new computer	newer than the printer	newest compared with them
+quick animal	quicker compared with the dog	old vase	older than the album	oldest compared with them
+safe area	safer compared with outside	sharp criticism	sharper than the praise	sharpest compared with them
+safe area	safer compared with outside	short skirt	shorter than the pants	shortest compared with them
+safe area	safer compared with outside	simple theory	simpler than philosophy	simplest compared with them
+safe area	safer compared with outside	slow train	slower than the airplane	slowest compared with them
+safe area	safer compared with outside	small coin	smaller than the egg	smallest compared with them
+safe area	safer compared with outside	smart student	smarter than mary	smartest compared with them
+safe area	safer compared with outside	strong instructor	stronger than the leaner	strongest compared with them
+safe area	safer compared with outside	tall building	taller than the tree	tallest compared with them
+safe area	safer compared with outside	tight skirt	tighter than the pants	tightest compared with them
+safe area	safer compared with outside	tough team	tougher than spanish	toughest compared with them
+safe area	safer compared with outside	warm room	warmer than the outside	warmest compared with them
+safe area	safer compared with outside	weak region	weaker than brno	weakest compared with them
+safe area	safer compared with outside	wide worktops	wider than the door	widest compared with them
+safe area	safer compared with outside	young woman	younger than the man	youngest compared with them
+safe area	safer compared with outside	bad weather	worse than the south	worst compared with them
+safe area	safer compared with outside	big train	bigger than the car	biggest compared with them
+safe area	safer compared with outside	bright animal	brighter than goats	brightest compared with them
+safe area	safer compared with outside	cheap machine	cheaper than the computer	cheapest compared with them
+safe area	safer compared with outside	cold month	colder than october	coldest compared with them
+safe area	safer compared with outside	cool month	cooler than october	coolest compared with them
+safe area	safer compared with outside	deep water	deeper than seaweed	deepest compared with them
+safe area	safer compared with outside	easy subject	easier than chemistry	easiest compared with them
+safe area	safer compared with outside	fast animal	faster than the dog	fastest compared with them
+safe area	safer compared with outside	good weather	better than south	best compared with them
+safe area	safer compared with outside	great need	greater than the physical one	greatest compared with them
+safe area	safer compared with outside	hard subject	harder than chemistry	hardest compared with them
+safe area	safer compared with outside	heavy dog	heavier than the cat	heaviest compared with them
+safe area	safer compared with outside	high rank	higher than mary	highest compared with them
+safe area	safer compared with outside	hot season	hotter than winter	hottest compared with them
+safe area	safer compared with outside	large plane	lager than the car	largest compared with them
+safe area	safer compared with outside	long skirt	longer than the pants	longest compared with them
+safe area	safer compared with outside	loud speaker	louder than earphones	loudest compared with them
+safe area	safer compared with outside	low tree	lower than the building	lowest compared with them
+safe area	safer compared with outside	new computer	newer than the printer	newest compared with them
+safe area	safer compared with outside	old vase	older than the album	oldest compared with them
+safe area	safer compared with outside	quick animal	quicker than the dog	quickest compared with them
+sharp criticism	sharper compared with the praise	short skirt	shorter than the pants	shortest compared with them
+sharp criticism	sharper compared with the praise	simple theory	simpler than philosophy	simplest compared with them
+sharp criticism	sharper compared with the praise	slow train	slower than the airplane	slowest compared with them
+sharp criticism	sharper compared with the praise	small coin	smaller than the egg	smallest compared with them
+sharp criticism	sharper compared with the praise	smart student	smarter than mary	smartest compared with them
+sharp criticism	sharper compared with the praise	strong instructor	stronger than the leaner	strongest compared with them
+sharp criticism	sharper compared with the praise	tall building	taller than the tree	tallest compared with them
+sharp criticism	sharper compared with the praise	tight skirt	tighter than the pants	tightest compared with them
+sharp criticism	sharper compared with the praise	tough team	tougher than spanish	toughest compared with them
+sharp criticism	sharper compared with the praise	warm room	warmer than the outside	warmest compared with them
+sharp criticism	sharper compared with the praise	weak region	weaker than brno	weakest compared with them
+sharp criticism	sharper compared with the praise	wide worktops	wider than the door	widest compared with them
+sharp criticism	sharper compared with the praise	young woman	younger than the man	youngest compared with them
+sharp criticism	sharper compared with the praise	bad weather	worse than the south	worst compared with them
+sharp criticism	sharper compared with the praise	big train	bigger than the car	biggest compared with them
+sharp criticism	sharper compared with the praise	bright animal	brighter than goats	brightest compared with them
+sharp criticism	sharper compared with the praise	cheap machine	cheaper than the computer	cheapest compared with them
+sharp criticism	sharper compared with the praise	cold month	colder than october	coldest compared with them
+sharp criticism	sharper compared with the praise	cool month	cooler than october	coolest compared with them
+sharp criticism	sharper compared with the praise	deep water	deeper than seaweed	deepest compared with them
+sharp criticism	sharper compared with the praise	easy subject	easier than chemistry	easiest compared with them
+sharp criticism	sharper compared with the praise	fast animal	faster than the dog	fastest compared with them
+sharp criticism	sharper compared with the praise	good weather	better than south	best compared with them
+sharp criticism	sharper compared with the praise	great need	greater than the physical one	greatest compared with them
+sharp criticism	sharper compared with the praise	hard subject	harder than chemistry	hardest compared with them
+sharp criticism	sharper compared with the praise	heavy dog	heavier than the cat	heaviest compared with them
+sharp criticism	sharper compared with the praise	high rank	higher than mary	highest compared with them
+sharp criticism	sharper compared with the praise	hot season	hotter than winter	hottest compared with them
+sharp criticism	sharper compared with the praise	large plane	lager than the car	largest compared with them
+sharp criticism	sharper compared with the praise	long skirt	longer than the pants	longest compared with them
+sharp criticism	sharper compared with the praise	loud speaker	louder than earphones	loudest compared with them
+sharp criticism	sharper compared with the praise	low tree	lower than the building	lowest compared with them
+sharp criticism	sharper compared with the praise	new computer	newer than the printer	newest compared with them
+sharp criticism	sharper compared with the praise	old vase	older than the album	oldest compared with them
+sharp criticism	sharper compared with the praise	quick animal	quicker than the dog	quickest compared with them
+sharp criticism	sharper compared with the praise	safe area	safer than outside	safest compared with them
+short skirt	shorter compared with the pants	simple theory	simpler than philosophy	simplest compared with them
+short skirt	shorter compared with the pants	slow train	slower than the airplane	slowest compared with them
+short skirt	shorter compared with the pants	small coin	smaller than the egg	smallest compared with them
+short skirt	shorter compared with the pants	smart student	smarter than mary	smartest compared with them
+short skirt	shorter compared with the pants	strong instructor	stronger than the leaner	strongest compared with them
+short skirt	shorter compared with the pants	tall building	taller than the tree	tallest compared with them
+short skirt	shorter compared with the pants	tight skirt	tighter than the pants	tightest compared with them
+short skirt	shorter compared with the pants	tough team	tougher than spanish	toughest compared with them
+short skirt	shorter compared with the pants	warm room	warmer than the outside	warmest compared with them
+short skirt	shorter compared with the pants	weak region	weaker than brno	weakest compared with them
+short skirt	shorter compared with the pants	wide worktops	wider than the door	widest compared with them
+short skirt	shorter compared with the pants	young woman	younger than the man	youngest compared with them
+short skirt	shorter compared with the pants	bad weather	worse than the south	worst compared with them
+short skirt	shorter compared with the pants	big train	bigger than the car	biggest compared with them
+short skirt	shorter compared with the pants	bright animal	brighter than goats	brightest compared with them
+short skirt	shorter compared with the pants	cheap machine	cheaper than the computer	cheapest compared with them
+short skirt	shorter compared with the pants	cold month	colder than october	coldest compared with them
+short skirt	shorter compared with the pants	cool month	cooler than october	coolest compared with them
+short skirt	shorter compared with the pants	deep water	deeper than seaweed	deepest compared with them
+short skirt	shorter compared with the pants	easy subject	easier than chemistry	easiest compared with them
+short skirt	shorter compared with the pants	fast animal	faster than the dog	fastest compared with them
+short skirt	shorter compared with the pants	good weather	better than south	best compared with them
+short skirt	shorter compared with the pants	great need	greater than the physical one	greatest compared with them
+short skirt	shorter compared with the pants	hard subject	harder than chemistry	hardest compared with them
+short skirt	shorter compared with the pants	heavy dog	heavier than the cat	heaviest compared with them
+short skirt	shorter compared with the pants	high rank	higher than mary	highest compared with them
+short skirt	shorter compared with the pants	hot season	hotter than winter	hottest compared with them
+short skirt	shorter compared with the pants	large plane	lager than the car	largest compared with them
+short skirt	shorter compared with the pants	long skirt	longer than the pants	longest compared with them
+short skirt	shorter compared with the pants	loud speaker	louder than earphones	loudest compared with them
+short skirt	shorter compared with the pants	low tree	lower than the building	lowest compared with them
+short skirt	shorter compared with the pants	new computer	newer than the printer	newest compared with them
+short skirt	shorter compared with the pants	old vase	older than the album	oldest compared with them
+short skirt	shorter compared with the pants	quick animal	quicker than the dog	quickest compared with them
+short skirt	shorter compared with the pants	safe area	safer than outside	safest compared with them
+short skirt	shorter compared with the pants	sharp criticism	sharper than the praise	sharpest compared with them
+simple theory	simpler compared with philosophy	slow train	slower than the airplane	slowest compared with them
+simple theory	simpler compared with philosophy	small coin	smaller than the egg	smallest compared with them
+simple theory	simpler compared with philosophy	smart student	smarter than mary	smartest compared with them
+simple theory	simpler compared with philosophy	strong instructor	stronger than the leaner	strongest compared with them
+simple theory	simpler compared with philosophy	tall building	taller than the tree	tallest compared with them
+simple theory	simpler compared with philosophy	tight skirt	tighter than the pants	tightest compared with them
+simple theory	simpler compared with philosophy	tough team	tougher than spanish	toughest compared with them
+simple theory	simpler compared with philosophy	warm room	warmer than the outside	warmest compared with them
+simple theory	simpler compared with philosophy	weak region	weaker than brno	weakest compared with them
+simple theory	simpler compared with philosophy	wide worktops	wider than the door	widest compared with them
+simple theory	simpler compared with philosophy	young woman	younger than the man	youngest compared with them
+simple theory	simpler compared with philosophy	bad weather	worse than the south	worst compared with them
+simple theory	simpler compared with philosophy	big train	bigger than the car	biggest compared with them
+simple theory	simpler compared with philosophy	bright animal	brighter than goats	brightest compared with them
+simple theory	simpler compared with philosophy	cheap machine	cheaper than the computer	cheapest compared with them
+simple theory	simpler compared with philosophy	cold month	colder than october	coldest compared with them
+simple theory	simpler compared with philosophy	cool month	cooler than october	coolest compared with them
+simple theory	simpler compared with philosophy	deep water	deeper than seaweed	deepest compared with them
+simple theory	simpler compared with philosophy	easy subject	easier than chemistry	easiest compared with them
+simple theory	simpler compared with philosophy	fast animal	faster than the dog	fastest compared with them
+simple theory	simpler compared with philosophy	good weather	better than south	best compared with them
+simple theory	simpler compared with philosophy	great need	greater than the physical one	greatest compared with them
+simple theory	simpler compared with philosophy	hard subject	harder than chemistry	hardest compared with them
+simple theory	simpler compared with philosophy	heavy dog	heavier than the cat	heaviest compared with them
+simple theory	simpler compared with philosophy	high rank	higher than mary	highest compared with them
+simple theory	simpler compared with philosophy	hot season	hotter than winter	hottest compared with them
+simple theory	simpler compared with philosophy	large plane	lager than the car	largest compared with them
+simple theory	simpler compared with philosophy	long skirt	longer than the pants	longest compared with them
+simple theory	simpler compared with philosophy	loud speaker	louder than earphones	loudest compared with them
+simple theory	simpler compared with philosophy	low tree	lower than the building	lowest compared with them
+simple theory	simpler compared with philosophy	new computer	newer than the printer	newest compared with them
+simple theory	simpler compared with philosophy	old vase	older than the album	oldest compared with them
+simple theory	simpler compared with philosophy	quick animal	quicker than the dog	quickest compared with them
+simple theory	simpler compared with philosophy	safe area	safer than outside	safest compared with them
+simple theory	simpler compared with philosophy	sharp criticism	sharper than the praise	sharpest compared with them
+simple theory	simpler compared with philosophy	short skirt	shorter than the pants	shortest compared with them
+slow train	slower compared with the airplane	small coin	smaller than the egg	smallest compared with them
+slow train	slower compared with the airplane	smart student	smarter than mary	smartest compared with them
+slow train	slower compared with the airplane	strong instructor	stronger than the leaner	strongest compared with them
+slow train	slower compared with the airplane	tall building	taller than the tree	tallest compared with them
+slow train	slower compared with the airplane	tight skirt	tighter than the pants	tightest compared with them
+slow train	slower compared with the airplane	tough team	tougher than spanish	toughest compared with them
+slow train	slower compared with the airplane	warm room	warmer than the outside	warmest compared with them
+slow train	slower compared with the airplane	weak region	weaker than brno	weakest compared with them
+slow train	slower compared with the airplane	wide worktops	wider than the door	widest compared with them
+slow train	slower compared with the airplane	young woman	younger than the man	youngest compared with them
+slow train	slower compared with the airplane	bad weather	worse than the south	worst compared with them
+slow train	slower compared with the airplane	big train	bigger than the car	biggest compared with them
+slow train	slower compared with the airplane	bright animal	brighter than goats	brightest compared with them
+slow train	slower compared with the airplane	cheap machine	cheaper than the computer	cheapest compared with them
+slow train	slower compared with the airplane	cold month	colder than october	coldest compared with them
+slow train	slower compared with the airplane	cool month	cooler than october	coolest compared with them
+slow train	slower compared with the airplane	deep water	deeper than seaweed	deepest compared with them
+slow train	slower compared with the airplane	easy subject	easier than chemistry	easiest compared with them
+slow train	slower compared with the airplane	fast animal	faster than the dog	fastest compared with them
+slow train	slower compared with the airplane	good weather	better than south	best compared with them
+slow train	slower compared with the airplane	great need	greater than the physical one	greatest compared with them
+slow train	slower compared with the airplane	hard subject	harder than chemistry	hardest compared with them
+slow train	slower compared with the airplane	heavy dog	heavier than the cat	heaviest compared with them
+slow train	slower compared with the airplane	high rank	higher than mary	highest compared with them
+slow train	slower compared with the airplane	hot season	hotter than winter	hottest compared with them
+slow train	slower compared with the airplane	large plane	lager than the car	largest compared with them
+slow train	slower compared with the airplane	long skirt	longer than the pants	longest compared with them
+slow train	slower compared with the airplane	loud speaker	louder than earphones	loudest compared with them
+slow train	slower compared with the airplane	low tree	lower than the building	lowest compared with them
+slow train	slower compared with the airplane	new computer	newer than the printer	newest compared with them
+slow train	slower compared with the airplane	old vase	older than the album	oldest compared with them
+slow train	slower compared with the airplane	quick animal	quicker than the dog	quickest compared with them
+slow train	slower compared with the airplane	safe area	safer than outside	safest compared with them
+slow train	slower compared with the airplane	sharp criticism	sharper than the praise	sharpest compared with them
+slow train	slower compared with the airplane	short skirt	shorter than the pants	shortest compared with them
+slow train	slower compared with the airplane	simple theory	simpler than philosophy	simplest compared with them
+small coin	smaller compared with the egg	smart student	smarter than mary	smartest compared with them
+small coin	smaller compared with the egg	strong instructor	stronger than the leaner	strongest compared with them
+small coin	smaller compared with the egg	tall building	taller than the tree	tallest compared with them
+small coin	smaller compared with the egg	tight skirt	tighter than the pants	tightest compared with them
+small coin	smaller compared with the egg	tough team	tougher than spanish	toughest compared with them
+small coin	smaller compared with the egg	warm room	warmer than the outside	warmest compared with them
+small coin	smaller compared with the egg	weak region	weaker than brno	weakest compared with them
+small coin	smaller compared with the egg	wide worktops	wider than the door	widest compared with them
+small coin	smaller compared with the egg	young woman	younger than the man	youngest compared with them
+small coin	smaller compared with the egg	bad weather	worse than the south	worst compared with them
+small coin	smaller compared with the egg	big train	bigger than the car	biggest compared with them
+small coin	smaller compared with the egg	bright animal	brighter than goats	brightest compared with them
+small coin	smaller compared with the egg	cheap machine	cheaper than the computer	cheapest compared with them
+small coin	smaller compared with the egg	cold month	colder than october	coldest compared with them
+small coin	smaller compared with the egg	cool month	cooler than october	coolest compared with them
+small coin	smaller compared with the egg	deep water	deeper than seaweed	deepest compared with them
+small coin	smaller compared with the egg	easy subject	easier than chemistry	easiest compared with them
+small coin	smaller compared with the egg	fast animal	faster than the dog	fastest compared with them
+small coin	smaller compared with the egg	good weather	better than south	best compared with them
+small coin	smaller compared with the egg	great need	greater than the physical one	greatest compared with them
+small coin	smaller compared with the egg	hard subject	harder than chemistry	hardest compared with them
+small coin	smaller compared with the egg	heavy dog	heavier than the cat	heaviest compared with them
+small coin	smaller compared with the egg	high rank	higher than mary	highest compared with them
+small coin	smaller compared with the egg	hot season	hotter than winter	hottest compared with them
+small coin	smaller compared with the egg	large plane	lager than the car	largest compared with them
+small coin	smaller compared with the egg	long skirt	longer than the pants	longest compared with them
+small coin	smaller compared with the egg	loud speaker	louder than earphones	loudest compared with them
+small coin	smaller compared with the egg	low tree	lower than the building	lowest compared with them
+small coin	smaller compared with the egg	new computer	newer than the printer	newest compared with them
+small coin	smaller compared with the egg	old vase	older than the album	oldest compared with them
+small coin	smaller compared with the egg	quick animal	quicker than the dog	quickest compared with them
+small coin	smaller compared with the egg	safe area	safer than outside	safest compared with them
+small coin	smaller compared with the egg	sharp criticism	sharper than the praise	sharpest compared with them
+small coin	smaller compared with the egg	short skirt	shorter than the pants	shortest compared with them
+small coin	smaller compared with the egg	simple theory	simpler than philosophy	simplest compared with them
+small coin	smaller compared with the egg	slow train	slower than the airplane	slowest compared with them
+smart student	smarter compared with mary	strong instructor	stronger than the leaner	strongest compared with them
+smart student	smarter compared with mary	tall building	taller than the tree	tallest compared with them
+smart student	smarter compared with mary	tight skirt	tighter than the pants	tightest compared with them
+smart student	smarter compared with mary	tough team	tougher than spanish	toughest compared with them
+smart student	smarter compared with mary	warm room	warmer than the outside	warmest compared with them
+smart student	smarter compared with mary	weak region	weaker than brno	weakest compared with them
+smart student	smarter compared with mary	wide worktops	wider than the door	widest compared with them
+smart student	smarter compared with mary	young woman	younger than the man	youngest compared with them
+smart student	smarter compared with mary	bad weather	worse than the south	worst compared with them
+smart student	smarter compared with mary	big train	bigger than the car	biggest compared with them
+smart student	smarter compared with mary	bright animal	brighter than goats	brightest compared with them
+smart student	smarter compared with mary	cheap machine	cheaper than the computer	cheapest compared with them
+smart student	smarter compared with mary	cold month	colder than october	coldest compared with them
+smart student	smarter compared with mary	cool month	cooler than october	coolest compared with them
+smart student	smarter compared with mary	deep water	deeper than seaweed	deepest compared with them
+smart student	smarter compared with mary	easy subject	easier than chemistry	easiest compared with them
+smart student	smarter compared with mary	fast animal	faster than the dog	fastest compared with them
+smart student	smarter compared with mary	good weather	better than south	best compared with them
+smart student	smarter compared with mary	great need	greater than the physical one	greatest compared with them
+smart student	smarter compared with mary	hard subject	harder than chemistry	hardest compared with them
+smart student	smarter compared with mary	heavy dog	heavier than the cat	heaviest compared with them
+smart student	smarter compared with mary	high rank	higher than mary	highest compared with them
+smart student	smarter compared with mary	hot season	hotter than winter	hottest compared with them
+smart student	smarter compared with mary	large plane	lager than the car	largest compared with them
+smart student	smarter compared with mary	long skirt	longer than the pants	longest compared with them
+smart student	smarter compared with mary	loud speaker	louder than earphones	loudest compared with them
+smart student	smarter compared with mary	low tree	lower than the building	lowest compared with them
+smart student	smarter compared with mary	new computer	newer than the printer	newest compared with them
+smart student	smarter compared with mary	old vase	older than the album	oldest compared with them
+smart student	smarter compared with mary	quick animal	quicker than the dog	quickest compared with them
+smart student	smarter compared with mary	safe area	safer than outside	safest compared with them
+smart student	smarter compared with mary	sharp criticism	sharper than the praise	sharpest compared with them
+smart student	smarter compared with mary	short skirt	shorter than the pants	shortest compared with them
+smart student	smarter compared with mary	simple theory	simpler than philosophy	simplest compared with them
+smart student	smarter compared with mary	slow train	slower than the airplane	slowest compared with them
+smart student	smarter compared with mary	small coin	smaller than the egg	smallest compared with them
+strong instructor	stronger compared with the leaner	tall building	taller than the tree	tallest compared with them
+strong instructor	stronger compared with the leaner	tight skirt	tighter than the pants	tightest compared with them
+strong instructor	stronger compared with the leaner	tough team	tougher than spanish	toughest compared with them
+strong instructor	stronger compared with the leaner	warm room	warmer than the outside	warmest compared with them
+strong instructor	stronger compared with the leaner	weak region	weaker than brno	weakest compared with them
+strong instructor	stronger compared with the leaner	wide worktops	wider than the door	widest compared with them
+strong instructor	stronger compared with the leaner	young woman	younger than the man	youngest compared with them
+strong instructor	stronger compared with the leaner	bad weather	worse than the south	worst compared with them
+strong instructor	stronger compared with the leaner	big train	bigger than the car	biggest compared with them
+strong instructor	stronger compared with the leaner	bright animal	brighter than goats	brightest compared with them
+strong instructor	stronger compared with the leaner	cheap machine	cheaper than the computer	cheapest compared with them
+strong instructor	stronger compared with the leaner	cold month	colder than october	coldest compared with them
+strong instructor	stronger compared with the leaner	cool month	cooler than october	coolest compared with them
+strong instructor	stronger compared with the leaner	deep water	deeper than seaweed	deepest compared with them
+strong instructor	stronger compared with the leaner	easy subject	easier than chemistry	easiest compared with them
+strong instructor	stronger compared with the leaner	fast animal	faster than the dog	fastest compared with them
+strong instructor	stronger compared with the leaner	good weather	better than south	best compared with them
+strong instructor	stronger compared with the leaner	great need	greater than the physical one	greatest compared with them
+strong instructor	stronger compared with the leaner	hard subject	harder than chemistry	hardest compared with them
+strong instructor	stronger compared with the leaner	heavy dog	heavier than the cat	heaviest compared with them
+strong instructor	stronger compared with the leaner	high rank	higher than mary	highest compared with them
+strong instructor	stronger compared with the leaner	hot season	hotter than winter	hottest compared with them
+strong instructor	stronger compared with the leaner	large plane	lager than the car	largest compared with them
+strong instructor	stronger compared with the leaner	long skirt	longer than the pants	longest compared with them
+strong instructor	stronger compared with the leaner	loud speaker	louder than earphones	loudest compared with them
+strong instructor	stronger compared with the leaner	low tree	lower than the building	lowest compared with them
+strong instructor	stronger compared with the leaner	new computer	newer than the printer	newest compared with them
+strong instructor	stronger compared with the leaner	old vase	older than the album	oldest compared with them
+strong instructor	stronger compared with the leaner	quick animal	quicker than the dog	quickest compared with them
+strong instructor	stronger compared with the leaner	safe area	safer than outside	safest compared with them
+strong instructor	stronger compared with the leaner	sharp criticism	sharper than the praise	sharpest compared with them
+strong instructor	stronger compared with the leaner	short skirt	shorter than the pants	shortest compared with them
+strong instructor	stronger compared with the leaner	simple theory	simpler than philosophy	simplest compared with them
+strong instructor	stronger compared with the leaner	slow train	slower than the airplane	slowest compared with them
+strong instructor	stronger compared with the leaner	small coin	smaller than the egg	smallest compared with them
+strong instructor	stronger compared with the leaner	smart student	smarter than mary	smartest compared with them
+tall building	taller compared with the tree	tight skirt	tighter than the pants	tightest compared with them
+tall building	taller compared with the tree	tough team	tougher than spanish	toughest compared with them
+tall building	taller compared with the tree	warm room	warmer than the outside	warmest compared with them
+tall building	taller compared with the tree	weak region	weaker than brno	weakest compared with them
+tall building	taller compared with the tree	wide worktops	wider than the door	widest compared with them
+tall building	taller compared with the tree	young woman	younger than the man	youngest compared with them
+tall building	taller compared with the tree	bad weather	worse than the south	worst compared with them
+tall building	taller compared with the tree	big train	bigger than the car	biggest compared with them
+tall building	taller compared with the tree	bright animal	brighter than goats	brightest compared with them
+tall building	taller compared with the tree	cheap machine	cheaper than the computer	cheapest compared with them
+tall building	taller compared with the tree	cold month	colder than october	coldest compared with them
+tall building	taller compared with the tree	cool month	cooler than october	coolest compared with them
+tall building	taller compared with the tree	deep water	deeper than seaweed	deepest compared with them
+tall building	taller compared with the tree	easy subject	easier than chemistry	easiest compared with them
+tall building	taller compared with the tree	fast animal	faster than the dog	fastest compared with them
+tall building	taller compared with the tree	good weather	better than south	best compared with them
+tall building	taller compared with the tree	great need	greater than the physical one	greatest compared with them
+tall building	taller compared with the tree	hard subject	harder than chemistry	hardest compared with them
+tall building	taller compared with the tree	heavy dog	heavier than the cat	heaviest compared with them
+tall building	taller compared with the tree	high rank	higher than mary	highest compared with them
+tall building	taller compared with the tree	hot season	hotter than winter	hottest compared with them
+tall building	taller compared with the tree	large plane	lager than the car	largest compared with them
+tall building	taller compared with the tree	long skirt	longer than the pants	longest compared with them
+tall building	taller compared with the tree	loud speaker	louder than earphones	loudest compared with them
+tall building	taller compared with the tree	low tree	lower than the building	lowest compared with them
+tall building	taller compared with the tree	new computer	newer than the printer	newest compared with them
+tall building	taller compared with the tree	old vase	older than the album	oldest compared with them
+tall building	taller compared with the tree	quick animal	quicker than the dog	quickest compared with them
+tall building	taller compared with the tree	safe area	safer than outside	safest compared with them
+tall building	taller compared with the tree	sharp criticism	sharper than the praise	sharpest compared with them
+tall building	taller compared with the tree	short skirt	shorter than the pants	shortest compared with them
+tall building	taller compared with the tree	simple theory	simpler than philosophy	simplest compared with them
+tall building	taller compared with the tree	slow train	slower than the airplane	slowest compared with them
+tall building	taller compared with the tree	small coin	smaller than the egg	smallest compared with them
+tall building	taller compared with the tree	smart student	smarter than mary	smartest compared with them
+tall building	taller compared with the tree	strong instructor	stronger than the leaner	strongest compared with them
+tight skirt	tighter compared with the pants	tough team	tougher than spanish	toughest compared with them
+tight skirt	tighter compared with the pants	warm room	warmer than the outside	warmest compared with them
+tight skirt	tighter compared with the pants	weak region	weaker than brno	weakest compared with them
+tight skirt	tighter compared with the pants	wide worktops	wider than the door	widest compared with them
+tight skirt	tighter compared with the pants	young woman	younger than the man	youngest compared with them
+tight skirt	tighter compared with the pants	bad weather	worse than the south	worst compared with them
+tight skirt	tighter compared with the pants	big train	bigger than the car	biggest compared with them
+tight skirt	tighter compared with the pants	bright animal	brighter than goats	brightest compared with them
+tight skirt	tighter compared with the pants	cheap machine	cheaper than the computer	cheapest compared with them
+tight skirt	tighter compared with the pants	cold month	colder than october	coldest compared with them
+tight skirt	tighter compared with the pants	cool month	cooler than october	coolest compared with them
+tight skirt	tighter compared with the pants	deep water	deeper than seaweed	deepest compared with them
+tight skirt	tighter compared with the pants	easy subject	easier than chemistry	easiest compared with them
+tight skirt	tighter compared with the pants	fast animal	faster than the dog	fastest compared with them
+tight skirt	tighter compared with the pants	good weather	better than south	best compared with them
+tight skirt	tighter compared with the pants	great need	greater than the physical one	greatest compared with them
+tight skirt	tighter compared with the pants	hard subject	harder than chemistry	hardest compared with them
+tight skirt	tighter compared with the pants	heavy dog	heavier than the cat	heaviest compared with them
+tight skirt	tighter compared with the pants	high rank	higher than mary	highest compared with them
+tight skirt	tighter compared with the pants	hot season	hotter than winter	hottest compared with them
+tight skirt	tighter compared with the pants	large plane	lager than the car	largest compared with them
+tight skirt	tighter compared with the pants	long skirt	longer than the pants	longest compared with them
+tight skirt	tighter compared with the pants	loud speaker	louder than earphones	loudest compared with them
+tight skirt	tighter compared with the pants	low tree	lower than the building	lowest compared with them
+tight skirt	tighter compared with the pants	new computer	newer than the printer	newest compared with them
+tight skirt	tighter compared with the pants	old vase	older than the album	oldest compared with them
+tight skirt	tighter compared with the pants	quick animal	quicker than the dog	quickest compared with them
+tight skirt	tighter compared with the pants	safe area	safer than outside	safest compared with them
+tight skirt	tighter compared with the pants	sharp criticism	sharper than the praise	sharpest compared with them
+tight skirt	tighter compared with the pants	short skirt	shorter than the pants	shortest compared with them
+tight skirt	tighter compared with the pants	simple theory	simpler than philosophy	simplest compared with them
+tight skirt	tighter compared with the pants	slow train	slower than the airplane	slowest compared with them
+tight skirt	tighter compared with the pants	small coin	smaller than the egg	smallest compared with them
+tight skirt	tighter compared with the pants	smart student	smarter than mary	smartest compared with them
+tight skirt	tighter compared with the pants	strong instructor	stronger than the leaner	strongest compared with them
+tight skirt	tighter compared with the pants	tall building	taller than the tree	tallest compared with them
+tough team	tougher compared with spanish	warm room	warmer than the outside	warmest compared with them
+tough team	tougher compared with spanish	weak region	weaker than brno	weakest compared with them
+tough team	tougher compared with spanish	wide worktops	wider than the door	widest compared with them
+tough team	tougher compared with spanish	young woman	younger than the man	youngest compared with them
+tough team	tougher compared with spanish	bad weather	worse than the south	worst compared with them
+tough team	tougher compared with spanish	big train	bigger than the car	biggest compared with them
+tough team	tougher compared with spanish	bright animal	brighter than goats	brightest compared with them
+tough team	tougher compared with spanish	cheap machine	cheaper than the computer	cheapest compared with them
+tough team	tougher compared with spanish	cold month	colder than october	coldest compared with them
+tough team	tougher compared with spanish	cool month	cooler than october	coolest compared with them
+tough team	tougher compared with spanish	deep water	deeper than seaweed	deepest compared with them
+tough team	tougher compared with spanish	easy subject	easier than chemistry	easiest compared with them
+tough team	tougher compared with spanish	fast animal	faster than the dog	fastest compared with them
+tough team	tougher compared with spanish	good weather	better than south	best compared with them
+tough team	tougher compared with spanish	great need	greater than the physical one	greatest compared with them
+tough team	tougher compared with spanish	hard subject	harder than chemistry	hardest compared with them
+tough team	tougher compared with spanish	heavy dog	heavier than the cat	heaviest compared with them
+tough team	tougher compared with spanish	high rank	higher than mary	highest compared with them
+tough team	tougher compared with spanish	hot season	hotter than winter	hottest compared with them
+tough team	tougher compared with spanish	large plane	lager than the car	largest compared with them
+tough team	tougher compared with spanish	long skirt	longer than the pants	longest compared with them
+tough team	tougher compared with spanish	loud speaker	louder than earphones	loudest compared with them
+tough team	tougher compared with spanish	low tree	lower than the building	lowest compared with them
+tough team	tougher compared with spanish	new computer	newer than the printer	newest compared with them
+tough team	tougher compared with spanish	old vase	older than the album	oldest compared with them
+tough team	tougher compared with spanish	quick animal	quicker than the dog	quickest compared with them
+tough team	tougher compared with spanish	safe area	safer than outside	safest compared with them
+tough team	tougher compared with spanish	sharp criticism	sharper than the praise	sharpest compared with them
+tough team	tougher compared with spanish	short skirt	shorter than the pants	shortest compared with them
+tough team	tougher compared with spanish	simple theory	simpler than philosophy	simplest compared with them
+tough team	tougher compared with spanish	slow train	slower than the airplane	slowest compared with them
+tough team	tougher compared with spanish	small coin	smaller than the egg	smallest compared with them
+tough team	tougher compared with spanish	smart student	smarter than mary	smartest compared with them
+tough team	tougher compared with spanish	strong instructor	stronger than the leaner	strongest compared with them
+tough team	tougher compared with spanish	tall building	taller than the tree	tallest compared with them
+tough team	tougher compared with spanish	tight skirt	tighter than the pants	tightest compared with them
+warm room	warmer compared with the outside	weak region	weaker than brno	weakest compared with them
+warm room	warmer compared with the outside	wide worktops	wider than the door	widest compared with them
+warm room	warmer compared with the outside	young woman	younger than the man	youngest compared with them
+warm room	warmer compared with the outside	bad weather	worse than the south	worst compared with them
+warm room	warmer compared with the outside	big train	bigger than the car	biggest compared with them
+warm room	warmer compared with the outside	bright animal	brighter than goats	brightest compared with them
+warm room	warmer compared with the outside	cheap machine	cheaper than the computer	cheapest compared with them
+warm room	warmer compared with the outside	cold month	colder than october	coldest compared with them
+warm room	warmer compared with the outside	cool month	cooler than october	coolest compared with them
+warm room	warmer compared with the outside	deep water	deeper than seaweed	deepest compared with them
+warm room	warmer compared with the outside	easy subject	easier than chemistry	easiest compared with them
+warm room	warmer compared with the outside	fast animal	faster than the dog	fastest compared with them
+warm room	warmer compared with the outside	good weather	better than south	best compared with them
+warm room	warmer compared with the outside	great need	greater than the physical one	greatest compared with them
+warm room	warmer compared with the outside	hard subject	harder than chemistry	hardest compared with them
+warm room	warmer compared with the outside	heavy dog	heavier than the cat	heaviest compared with them
+warm room	warmer compared with the outside	high rank	higher than mary	highest compared with them
+warm room	warmer compared with the outside	hot season	hotter than winter	hottest compared with them
+warm room	warmer compared with the outside	large plane	lager than the car	largest compared with them
+warm room	warmer compared with the outside	long skirt	longer than the pants	longest compared with them
+warm room	warmer compared with the outside	loud speaker	louder than earphones	loudest compared with them
+warm room	warmer compared with the outside	low tree	lower than the building	lowest compared with them
+warm room	warmer compared with the outside	new computer	newer than the printer	newest compared with them
+warm room	warmer compared with the outside	old vase	older than the album	oldest compared with them
+warm room	warmer compared with the outside	quick animal	quicker than the dog	quickest compared with them
+warm room	warmer compared with the outside	safe area	safer than outside	safest compared with them
+warm room	warmer compared with the outside	sharp criticism	sharper than the praise	sharpest compared with them
+warm room	warmer compared with the outside	short skirt	shorter than the pants	shortest compared with them
+warm room	warmer compared with the outside	simple theory	simpler than philosophy	simplest compared with them
+warm room	warmer compared with the outside	slow train	slower than the airplane	slowest compared with them
+warm room	warmer compared with the outside	small coin	smaller than the egg	smallest compared with them
+warm room	warmer compared with the outside	smart student	smarter than mary	smartest compared with them
+warm room	warmer compared with the outside	strong instructor	stronger than the leaner	strongest compared with them
+warm room	warmer compared with the outside	tall building	taller than the tree	tallest compared with them
+warm room	warmer compared with the outside	tight skirt	tighter than the pants	tightest compared with them
+warm room	warmer compared with the outside	tough team	tougher than spanish	toughest compared with them
+weak region	weaker compared with brno	wide worktops	wider than the door	widest compared with them
+weak region	weaker compared with brno	young woman	younger than the man	youngest compared with them
+weak region	weaker compared with brno	bad weather	worse than the south	worst compared with them
+weak region	weaker compared with brno	big train	bigger than the car	biggest compared with them
+weak region	weaker compared with brno	bright animal	brighter than goats	brightest compared with them
+weak region	weaker compared with brno	cheap machine	cheaper than the computer	cheapest compared with them
+weak region	weaker compared with brno	cold month	colder than october	coldest compared with them
+weak region	weaker compared with brno	cool month	cooler than october	coolest compared with them
+weak region	weaker compared with brno	deep water	deeper than seaweed	deepest compared with them
+weak region	weaker compared with brno	easy subject	easier than chemistry	easiest compared with them
+weak region	weaker compared with brno	fast animal	faster than the dog	fastest compared with them
+weak region	weaker compared with brno	good weather	better than south	best compared with them
+weak region	weaker compared with brno	great need	greater than the physical one	greatest compared with them
+weak region	weaker compared with brno	hard subject	harder than chemistry	hardest compared with them
+weak region	weaker compared with brno	heavy dog	heavier than the cat	heaviest compared with them
+weak region	weaker compared with brno	high rank	higher than mary	highest compared with them
+weak region	weaker compared with brno	hot season	hotter than winter	hottest compared with them
+weak region	weaker compared with brno	large plane	lager than the car	largest compared with them
+weak region	weaker compared with brno	long skirt	longer than the pants	longest compared with them
+weak region	weaker compared with brno	loud speaker	louder than earphones	loudest compared with them
+weak region	weaker compared with brno	low tree	lower than the building	lowest compared with them
+weak region	weaker compared with brno	new computer	newer than the printer	newest compared with them
+weak region	weaker compared with brno	old vase	older than the album	oldest compared with them
+weak region	weaker compared with brno	quick animal	quicker than the dog	quickest compared with them
+weak region	weaker compared with brno	safe area	safer than outside	safest compared with them
+weak region	weaker compared with brno	sharp criticism	sharper than the praise	sharpest compared with them
+weak region	weaker compared with brno	short skirt	shorter than the pants	shortest compared with them
+weak region	weaker compared with brno	simple theory	simpler than philosophy	simplest compared with them
+weak region	weaker compared with brno	slow train	slower than the airplane	slowest compared with them
+weak region	weaker compared with brno	small coin	smaller than the egg	smallest compared with them
+weak region	weaker compared with brno	smart student	smarter than mary	smartest compared with them
+weak region	weaker compared with brno	strong instructor	stronger than the leaner	strongest compared with them
+weak region	weaker compared with brno	tall building	taller than the tree	tallest compared with them
+weak region	weaker compared with brno	tight skirt	tighter than the pants	tightest compared with them
+weak region	weaker compared with brno	tough team	tougher than spanish	toughest compared with them
+weak region	weaker compared with brno	warm room	warmer than the outside	warmest compared with them
+wide worktops	wider compared with the door	young woman	younger than the man	youngest compared with them
+wide worktops	wider compared with the door	bad weather	worse than the south	worst compared with them
+wide worktops	wider compared with the door	big train	bigger than the car	biggest compared with them
+wide worktops	wider compared with the door	bright animal	brighter than goats	brightest compared with them
+wide worktops	wider compared with the door	cheap machine	cheaper than the computer	cheapest compared with them
+wide worktops	wider compared with the door	cold month	colder than october	coldest compared with them
+wide worktops	wider compared with the door	cool month	cooler than october	coolest compared with them
+wide worktops	wider compared with the door	deep water	deeper than seaweed	deepest compared with them
+wide worktops	wider compared with the door	easy subject	easier than chemistry	easiest compared with them
+wide worktops	wider compared with the door	fast animal	faster than the dog	fastest compared with them
+wide worktops	wider compared with the door	good weather	better than south	best compared with them
+wide worktops	wider compared with the door	great need	greater than the physical one	greatest compared with them
+wide worktops	wider compared with the door	hard subject	harder than chemistry	hardest compared with them
+wide worktops	wider compared with the door	heavy dog	heavier than the cat	heaviest compared with them
+wide worktops	wider compared with the door	high rank	higher than mary	highest compared with them
+wide worktops	wider compared with the door	hot season	hotter than winter	hottest compared with them
+wide worktops	wider compared with the door	large plane	lager than the car	largest compared with them
+wide worktops	wider compared with the door	long skirt	longer than the pants	longest compared with them
+wide worktops	wider compared with the door	loud speaker	louder than earphones	loudest compared with them
+wide worktops	wider compared with the door	low tree	lower than the building	lowest compared with them
+wide worktops	wider compared with the door	new computer	newer than the printer	newest compared with them
+wide worktops	wider compared with the door	old vase	older than the album	oldest compared with them
+wide worktops	wider compared with the door	quick animal	quicker than the dog	quickest compared with them
+wide worktops	wider compared with the door	safe area	safer than outside	safest compared with them
+wide worktops	wider compared with the door	sharp criticism	sharper than the praise	sharpest compared with them
+wide worktops	wider compared with the door	short skirt	shorter than the pants	shortest compared with them
+wide worktops	wider compared with the door	simple theory	simpler than philosophy	simplest compared with them
+wide worktops	wider compared with the door	slow train	slower than the airplane	slowest compared with them
+wide worktops	wider compared with the door	small coin	smaller than the egg	smallest compared with them
+wide worktops	wider compared with the door	smart student	smarter than mary	smartest compared with them
+wide worktops	wider compared with the door	strong instructor	stronger than the leaner	strongest compared with them
+wide worktops	wider compared with the door	tall building	taller than the tree	tallest compared with them
+wide worktops	wider compared with the door	tight skirt	tighter than the pants	tightest compared with them
+wide worktops	wider compared with the door	tough team	tougher than spanish	toughest compared with them
+wide worktops	wider compared with the door	warm room	warmer than the outside	warmest compared with them
+wide worktops	wider compared with the door	weak region	weaker than brno	weakest compared with them
+young woman	younger compared with the man	bad weather	worse than the south	worst compared with them
+young woman	younger compared with the man	big train	bigger than the car	biggest compared with them
+young woman	younger compared with the man	bright animal	brighter than goats	brightest compared with them
+young woman	younger compared with the man	cheap machine	cheaper than the computer	cheapest compared with them
+young woman	younger compared with the man	cold month	colder than october	coldest compared with them
+young woman	younger compared with the man	cool month	cooler than october	coolest compared with them
+young woman	younger compared with the man	deep water	deeper than seaweed	deepest compared with them
+young woman	younger compared with the man	easy subject	easier than chemistry	easiest compared with them
+young woman	younger compared with the man	fast animal	faster than the dog	fastest compared with them
+young woman	younger compared with the man	good weather	better than south	best compared with them
+young woman	younger compared with the man	great need	greater than the physical one	greatest compared with them
+young woman	younger compared with the man	hard subject	harder than chemistry	hardest compared with them
+young woman	younger compared with the man	heavy dog	heavier than the cat	heaviest compared with them
+young woman	younger compared with the man	high rank	higher than mary	highest compared with them
+young woman	younger compared with the man	hot season	hotter than winter	hottest compared with them
+young woman	younger compared with the man	large plane	lager than the car	largest compared with them
+young woman	younger compared with the man	long skirt	longer than the pants	longest compared with them
+young woman	younger compared with the man	loud speaker	louder than earphones	loudest compared with them
+young woman	younger compared with the man	low tree	lower than the building	lowest compared with them
+young woman	younger compared with the man	new computer	newer than the printer	newest compared with them
+young woman	younger compared with the man	old vase	older than the album	oldest compared with them
+young woman	younger compared with the man	quick animal	quicker than the dog	quickest compared with them
+young woman	younger compared with the man	safe area	safer than outside	safest compared with them
+young woman	younger compared with the man	sharp criticism	sharper than the praise	sharpest compared with them
+young woman	younger compared with the man	short skirt	shorter than the pants	shortest compared with them
+young woman	younger compared with the man	simple theory	simpler than philosophy	simplest compared with them
+young woman	younger compared with the man	slow train	slower than the airplane	slowest compared with them
+young woman	younger compared with the man	small coin	smaller than the egg	smallest compared with them
+young woman	younger compared with the man	smart student	smarter than mary	smartest compared with them
+young woman	younger compared with the man	strong instructor	stronger than the leaner	strongest compared with them
+young woman	younger compared with the man	tall building	taller than the tree	tallest compared with them
+young woman	younger compared with the man	tight skirt	tighter than the pants	tightest compared with them
+young woman	younger compared with the man	tough team	tougher than spanish	toughest compared with them
+young woman	younger compared with the man	warm room	warmer than the outside	warmest compared with them
+young woman	younger compared with the man	weak region	weaker than brno	weakest compared with them
+young woman	younger compared with the man	wide worktops	wider than the door	widest compared with them

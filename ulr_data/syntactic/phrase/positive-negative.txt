@@ -1,0 +1,812 @@
+be politically acceptable	be politically not acceptable	aware of the cell 's political work	unaware of the cell 's political work	not unaware of the cell 's political work
+be politically acceptable	be politically not acceptable	be certain about	be uncertain about	be not uncertain about
+be politically acceptable	be politically not acceptable	clear evidence of inequality	unclear evidence of inequality	not unclear evidence of inequality
+be politically acceptable	be politically not acceptable	more comfortable for	more uncomfortable for	more not uncomfortable for
+be politically acceptable	be politically not acceptable	one competitive appearance	one uncompetitive appearance	one not uncompetitive appearance
+be politically acceptable	be politically not acceptable	achieve consistent quality	achieve inconsistent quality	achieve not inconsistent quality
+be politically acceptable	be politically not acceptable	make it more convincing	make it more unconvincing	make it more not unconvincing
+be politically acceptable	be politically not acceptable	be convenient to do so	be inconvenient to do so	be not inconvenient to do so
+be politically acceptable	be politically not acceptable	was still decided	was still undecided	was still not undecided
+be politically acceptable	be politically not acceptable	an efficient algorithm	an inefficient algorithm	a not inefficient algorithm
+be politically acceptable	be politically not acceptable	ethical codes of the church	unethical codes of the church	not unethical codes of the church
+be politically acceptable	be politically not acceptable	helping others fortunate	helping others unfortunate	helping others not unfortunate
+be politically acceptable	be politically not acceptable	make an honest mistake	make a dishonest mistake	make a not dishonest mistake
+be politically acceptable	be politically not acceptable	second impressive performance	second unimpressive performance	second not unimpressive performance
+be politically acceptable	be politically not acceptable	present informative programmes	present uninformative programmes	present not uninformative programmes
+be politically acceptable	be politically not acceptable	lead informed developers into	lead uninformed developers into	lead not uninformed developers into
+be politically acceptable	be politically not acceptable	the known ant	the unknown ant	the not unknown ant
+be politically acceptable	be politically not acceptable	were most likely written by him	were most unlikely written by him	were most not unlikely written by him
+be politically acceptable	be politically not acceptable	quite arbitrary and logical	quite arbitrary and illogical	quite arbitrary and not illogical
+be politically acceptable	be politically not acceptable	the pleasant word for friday	the unpleasant word for friday	the not unpleasant word for friday
+be politically acceptable	be politically not acceptable	a possible victory	an impossible victory	a not impossible victory
+be politically acceptable	be politically not acceptable	possibly reduce the impact	impossibly reduce the impact	not impossibly reduce the impact
+be politically acceptable	be politically not acceptable	faster and more productive than ninjago	faster and more unproductive than ninjago	faster and more not unproductive than ninjago
+be politically acceptable	be politically not acceptable	the field of rational functions over formula	the field of irrational functions over formula	the field of not irrational functions over formula
+be politically acceptable	be politically not acceptable	barton 's inquiry was reasonable	barton 's inquiry was unreasonable	barton 's inquiry was not unreasonabl
+be politically acceptable	be politically not acceptable	responsible for the lighting	irresponsible for the lighting	not irresponsible for the lightin
+be politically acceptable	be politically not acceptable	becomes sure about	becomes unsure about	becomes not unsure about
+be politically acceptable	be politically not acceptable	tasteful aspects of the film	distasteful aspects of the film	not distasteful aspects of the film
+aware of the cell 's political work	not aware of the cell 's political work	be certain about	be uncertain about	be not uncertain about
+aware of the cell 's political work	not aware of the cell 's political work	clear evidence of inequality	unclear evidence of inequality	not unclear evidence of inequality
+aware of the cell 's political work	not aware of the cell 's political work	more comfortable for	more uncomfortable for	more not uncomfortable for
+aware of the cell 's political work	not aware of the cell 's political work	one competitive appearance	one uncompetitive appearance	one not uncompetitive appearance
+aware of the cell 's political work	not aware of the cell 's political work	achieve consistent quality	achieve inconsistent quality	achieve not inconsistent quality
+aware of the cell 's political work	not aware of the cell 's political work	make it more convincing	make it more unconvincing	make it more not unconvincing
+aware of the cell 's political work	not aware of the cell 's political work	be convenient to do so	be inconvenient to do so	be not inconvenient to do so
+aware of the cell 's political work	not aware of the cell 's political work	was still decided	was still undecided	was still not undecided
+aware of the cell 's political work	not aware of the cell 's political work	an efficient algorithm	an inefficient algorithm	a not inefficient algorithm
+aware of the cell 's political work	not aware of the cell 's political work	ethical codes of the church	unethical codes of the church	not unethical codes of the church
+aware of the cell 's political work	not aware of the cell 's political work	helping others fortunate	helping others unfortunate	helping others not unfortunate
+aware of the cell 's political work	not aware of the cell 's political work	make an honest mistake	make a dishonest mistake	make a not dishonest mistake
+aware of the cell 's political work	not aware of the cell 's political work	second impressive performance	second unimpressive performance	second not unimpressive performance
+aware of the cell 's political work	not aware of the cell 's political work	present informative programmes	present uninformative programmes	present not uninformative programmes
+aware of the cell 's political work	not aware of the cell 's political work	lead informed developers into	lead uninformed developers into	lead not uninformed developers into
+aware of the cell 's political work	not aware of the cell 's political work	the known ant	the unknown ant	the not unknown ant
+aware of the cell 's political work	not aware of the cell 's political work	were most likely written by him	were most unlikely written by him	were most not unlikely written by him
+aware of the cell 's political work	not aware of the cell 's political work	quite arbitrary and logical	quite arbitrary and illogical	quite arbitrary and not illogical
+aware of the cell 's political work	not aware of the cell 's political work	the pleasant word for friday	the unpleasant word for friday	the not unpleasant word for friday
+aware of the cell 's political work	not aware of the cell 's political work	a possible victory	an impossible victory	a not impossible victory
+aware of the cell 's political work	not aware of the cell 's political work	possibly reduce the impact	impossibly reduce the impact	not impossibly reduce the impact
+aware of the cell 's political work	not aware of the cell 's political work	faster and more productive than ninjago	faster and more unproductive than ninjago	faster and more not unproductive than ninjago
+aware of the cell 's political work	not aware of the cell 's political work	the field of rational functions over formula	the field of irrational functions over formula	the field of not irrational functions over formula
+aware of the cell 's political work	not aware of the cell 's political work	barton 's inquiry was reasonable	barton 's inquiry was unreasonable	barton 's inquiry was not unreasonabl
+aware of the cell 's political work	not aware of the cell 's political work	responsible for the lighting	irresponsible for the lighting	not irresponsible for the lightin
+aware of the cell 's political work	not aware of the cell 's political work	becomes sure about	becomes unsure about	becomes not unsure about
+aware of the cell 's political work	not aware of the cell 's political work	tasteful aspects of the film	distasteful aspects of the film	not distasteful aspects of the film
+aware of the cell 's political work	not aware of the cell 's political work	be politically acceptable	be politically unacceptable	be politically not unacceptable
+be certain about	be not certain about	clear evidence of inequality	unclear evidence of inequality	not unclear evidence of inequality
+be certain about	be not certain about	more comfortable for	more uncomfortable for	more not uncomfortable for
+be certain about	be not certain about	one competitive appearance	one uncompetitive appearance	one not uncompetitive appearance
+be certain about	be not certain about	achieve consistent quality	achieve inconsistent quality	achieve not inconsistent quality
+be certain about	be not certain about	make it more convincing	make it more unconvincing	make it more not unconvincing
+be certain about	be not certain about	be convenient to do so	be inconvenient to do so	be not inconvenient to do so
+be certain about	be not certain about	was still decided	was still undecided	was still not undecided
+be certain about	be not certain about	an efficient algorithm	an inefficient algorithm	a not inefficient algorithm
+be certain about	be not certain about	ethical codes of the church	unethical codes of the church	not unethical codes of the church
+be certain about	be not certain about	helping others fortunate	helping others unfortunate	helping others not unfortunate
+be certain about	be not certain about	make an honest mistake	make a dishonest mistake	make a not dishonest mistake
+be certain about	be not certain about	second impressive performance	second unimpressive performance	second not unimpressive performance
+be certain about	be not certain about	present informative programmes	present uninformative programmes	present not uninformative programmes
+be certain about	be not certain about	lead informed developers into	lead uninformed developers into	lead not uninformed developers into
+be certain about	be not certain about	the known ant	the unknown ant	the not unknown ant
+be certain about	be not certain about	were most likely written by him	were most unlikely written by him	were most not unlikely written by him
+be certain about	be not certain about	quite arbitrary and logical	quite arbitrary and illogical	quite arbitrary and not illogical
+be certain about	be not certain about	the pleasant word for friday	the unpleasant word for friday	the not unpleasant word for friday
+be certain about	be not certain about	a possible victory	an impossible victory	a not impossible victory
+be certain about	be not certain about	possibly reduce the impact	impossibly reduce the impact	not impossibly reduce the impact
+be certain about	be not certain about	faster and more productive than ninjago	faster and more unproductive than ninjago	faster and more not unproductive than ninjago
+be certain about	be not certain about	the field of rational functions over formula	the field of irrational functions over formula	the field of not irrational functions over formula
+be certain about	be not certain about	barton 's inquiry was reasonable	barton 's inquiry was unreasonable	barton 's inquiry was not unreasonabl
+be certain about	be not certain about	responsible for the lighting	irresponsible for the lighting	not irresponsible for the lightin
+be certain about	be not certain about	becomes sure about	becomes unsure about	becomes not unsure about
+be certain about	be not certain about	tasteful aspects of the film	distasteful aspects of the film	not distasteful aspects of the film
+be certain about	be not certain about	be politically acceptable	be politically unacceptable	be politically not unacceptable
+be certain about	be not certain about	aware of the cell 's political work	unaware of the cell 's political work	not unaware of the cell 's political work
+clear evidence of inequality	not clear evidence of inequality	more comfortable for	more uncomfortable for	more not uncomfortable for
+clear evidence of inequality	not clear evidence of inequality	one competitive appearance	one uncompetitive appearance	one not uncompetitive appearance
+clear evidence of inequality	not clear evidence of inequality	achieve consistent quality	achieve inconsistent quality	achieve not inconsistent quality
+clear evidence of inequality	not clear evidence of inequality	make it more convincing	make it more unconvincing	make it more not unconvincing
+clear evidence of inequality	not clear evidence of inequality	be convenient to do so	be inconvenient to do so	be not inconvenient to do so
+clear evidence of inequality	not clear evidence of inequality	was still decided	was still undecided	was still not undecided
+clear evidence of inequality	not clear evidence of inequality	an efficient algorithm	an inefficient algorithm	a not inefficient algorithm
+clear evidence of inequality	not clear evidence of inequality	ethical codes of the church	unethical codes of the church	not unethical codes of the church
+clear evidence of inequality	not clear evidence of inequality	helping others fortunate	helping others unfortunate	helping others not unfortunate
+clear evidence of inequality	not clear evidence of inequality	make an honest mistake	make a dishonest mistake	make a not dishonest mistake
+clear evidence of inequality	not clear evidence of inequality	second impressive performance	second unimpressive performance	second not unimpressive performance
+clear evidence of inequality	not clear evidence of inequality	present informative programmes	present uninformative programmes	present not uninformative programmes
+clear evidence of inequality	not clear evidence of inequality	lead informed developers into	lead uninformed developers into	lead not uninformed developers into
+clear evidence of inequality	not clear evidence of inequality	the known ant	the unknown ant	the not unknown ant
+clear evidence of inequality	not clear evidence of inequality	were most likely written by him	were most unlikely written by him	were most not unlikely written by him
+clear evidence of inequality	not clear evidence of inequality	quite arbitrary and logical	quite arbitrary and illogical	quite arbitrary and not illogical
+clear evidence of inequality	not clear evidence of inequality	the pleasant word for friday	the unpleasant word for friday	the not unpleasant word for friday
+clear evidence of inequality	not clear evidence of inequality	a possible victory	an impossible victory	a not impossible victory
+clear evidence of inequality	not clear evidence of inequality	possibly reduce the impact	impossibly reduce the impact	not impossibly reduce the impact
+clear evidence of inequality	not clear evidence of inequality	faster and more productive than ninjago	faster and more unproductive than ninjago	faster and more not unproductive than ninjago
+clear evidence of inequality	not clear evidence of inequality	the field of rational functions over formula	the field of irrational functions over formula	the field of not irrational functions over formula
+clear evidence of inequality	not clear evidence of inequality	barton 's inquiry was reasonable	barton 's inquiry was unreasonable	barton 's inquiry was not unreasonabl
+clear evidence of inequality	not clear evidence of inequality	responsible for the lighting	irresponsible for the lighting	not irresponsible for the lightin
+clear evidence of inequality	not clear evidence of inequality	becomes sure about	becomes unsure about	becomes not unsure about
+clear evidence of inequality	not clear evidence of inequality	tasteful aspects of the film	distasteful aspects of the film	not distasteful aspects of the film
+clear evidence of inequality	not clear evidence of inequality	be politically acceptable	be politically unacceptable	be politically not unacceptable
+clear evidence of inequality	not clear evidence of inequality	aware of the cell 's political work	unaware of the cell 's political work	not unaware of the cell 's political work
+clear evidence of inequality	not clear evidence of inequality	be certain about	be uncertain about	be not uncertain about
+more comfortable for	more not comfortable for	one competitive appearance	one uncompetitive appearance	one not uncompetitive appearance
+more comfortable for	more not comfortable for	achieve consistent quality	achieve inconsistent quality	achieve not inconsistent quality
+more comfortable for	more not comfortable for	make it more convincing	make it more unconvincing	make it more not unconvincing
+more comfortable for	more not comfortable for	be convenient to do so	be inconvenient to do so	be not inconvenient to do so
+more comfortable for	more not comfortable for	was still decided	was still undecided	was still not undecided
+more comfortable for	more not comfortable for	an efficient algorithm	an inefficient algorithm	a not inefficient algorithm
+more comfortable for	more not comfortable for	ethical codes of the church	unethical codes of the church	not unethical codes of the church
+more comfortable for	more not comfortable for	helping others fortunate	helping others unfortunate	helping others not unfortunate
+more comfortable for	more not comfortable for	make an honest mistake	make a dishonest mistake	make a not dishonest mistake
+more comfortable for	more not comfortable for	second impressive performance	second unimpressive performance	second not unimpressive performance
+more comfortable for	more not comfortable for	present informative programmes	present uninformative programmes	present not uninformative programmes
+more comfortable for	more not comfortable for	lead informed developers into	lead uninformed developers into	lead not uninformed developers into
+more comfortable for	more not comfortable for	the known ant	the unknown ant	the not unknown ant
+more comfortable for	more not comfortable for	were most likely written by him	were most unlikely written by him	were most not unlikely written by him
+more comfortable for	more not comfortable for	quite arbitrary and logical	quite arbitrary and illogical	quite arbitrary and not illogical
+more comfortable for	more not comfortable for	the pleasant word for friday	the unpleasant word for friday	the not unpleasant word for friday
+more comfortable for	more not comfortable for	a possible victory	an impossible victory	a not impossible victory
+more comfortable for	more not comfortable for	possibly reduce the impact	impossibly reduce the impact	not impossibly reduce the impact
+more comfortable for	more not comfortable for	faster and more productive than ninjago	faster and more unproductive than ninjago	faster and more not unproductive than ninjago
+more comfortable for	more not comfortable for	the field of rational functions over formula	the field of irrational functions over formula	the field of not irrational functions over formula
+more comfortable for	more not comfortable for	barton 's inquiry was reasonable	barton 's inquiry was unreasonable	barton 's inquiry was not unreasonabl
+more comfortable for	more not comfortable for	responsible for the lighting	irresponsible for the lighting	not irresponsible for the lightin
+more comfortable for	more not comfortable for	becomes sure about	becomes unsure about	becomes not unsure about
+more comfortable for	more not comfortable for	tasteful aspects of the film	distasteful aspects of the film	not distasteful aspects of the film
+more comfortable for	more not comfortable for	be politically acceptable	be politically unacceptable	be politically not unacceptable
+more comfortable for	more not comfortable for	aware of the cell 's political work	unaware of the cell 's political work	not unaware of the cell 's political work
+more comfortable for	more not comfortable for	be certain about	be uncertain about	be not uncertain about
+more comfortable for	more not comfortable for	clear evidence of inequality	unclear evidence of inequality	not unclear evidence of inequality
+one competitive appearance	one not competitive appearance	achieve consistent quality	achieve inconsistent quality	achieve not inconsistent quality
+one competitive appearance	one not competitive appearance	make it more convincing	make it more unconvincing	make it more not unconvincing
+one competitive appearance	one not competitive appearance	be convenient to do so	be inconvenient to do so	be not inconvenient to do so
+one competitive appearance	one not competitive appearance	was still decided	was still undecided	was still not undecided
+one competitive appearance	one not competitive appearance	an efficient algorithm	an inefficient algorithm	a not inefficient algorithm
+one competitive appearance	one not competitive appearance	ethical codes of the church	unethical codes of the church	not unethical codes of the church
+one competitive appearance	one not competitive appearance	helping others fortunate	helping others unfortunate	helping others not unfortunate
+one competitive appearance	one not competitive appearance	make an honest mistake	make a dishonest mistake	make a not dishonest mistake
+one competitive appearance	one not competitive appearance	second impressive performance	second unimpressive performance	second not unimpressive performance
+one competitive appearance	one not competitive appearance	present informative programmes	present uninformative programmes	present not uninformative programmes
+one competitive appearance	one not competitive appearance	lead informed developers into	lead uninformed developers into	lead not uninformed developers into
+one competitive appearance	one not competitive appearance	the known ant	the unknown ant	the not unknown ant
+one competitive appearance	one not competitive appearance	were most likely written by him	were most unlikely written by him	were most not unlikely written by him
+one competitive appearance	one not competitive appearance	quite arbitrary and logical	quite arbitrary and illogical	quite arbitrary and not illogical
+one competitive appearance	one not competitive appearance	the pleasant word for friday	the unpleasant word for friday	the not unpleasant word for friday
+one competitive appearance	one not competitive appearance	a possible victory	an impossible victory	a not impossible victory
+one competitive appearance	one not competitive appearance	possibly reduce the impact	impossibly reduce the impact	not impossibly reduce the impact
+one competitive appearance	one not competitive appearance	faster and more productive than ninjago	faster and more unproductive than ninjago	faster and more not unproductive than ninjago
+one competitive appearance	one not competitive appearance	the field of rational functions over formula	the field of irrational functions over formula	the field of not irrational functions over formula
+one competitive appearance	one not competitive appearance	barton 's inquiry was reasonable	barton 's inquiry was unreasonable	barton 's inquiry was not unreasonabl
+one competitive appearance	one not competitive appearance	responsible for the lighting	irresponsible for the lighting	not irresponsible for the lightin
+one competitive appearance	one not competitive appearance	becomes sure about	becomes unsure about	becomes not unsure about
+one competitive appearance	one not competitive appearance	tasteful aspects of the film	distasteful aspects of the film	not distasteful aspects of the film
+one competitive appearance	one not competitive appearance	be politically acceptable	be politically unacceptable	be politically not unacceptable
+one competitive appearance	one not competitive appearance	aware of the cell 's political work	unaware of the cell 's political work	not unaware of the cell 's political work
+one competitive appearance	one not competitive appearance	be certain about	be uncertain about	be not uncertain about
+one competitive appearance	one not competitive appearance	clear evidence of inequality	unclear evidence of inequality	not unclear evidence of inequality
+one competitive appearance	one not competitive appearance	more comfortable for	more uncomfortable for	more not uncomfortable for
+achieve consistent quality	achieve not consistent quality	make it more convincing	make it more unconvincing	make it more not unconvincing
+achieve consistent quality	achieve not consistent quality	be convenient to do so	be inconvenient to do so	be not inconvenient to do so
+achieve consistent quality	achieve not consistent quality	was still decided	was still undecided	was still not undecided
+achieve consistent quality	achieve not consistent quality	an efficient algorithm	an inefficient algorithm	a not inefficient algorithm
+achieve consistent quality	achieve not consistent quality	ethical codes of the church	unethical codes of the church	not unethical codes of the church
+achieve consistent quality	achieve not consistent quality	helping others fortunate	helping others unfortunate	helping others not unfortunate
+achieve consistent quality	achieve not consistent quality	make an honest mistake	make a dishonest mistake	make a not dishonest mistake
+achieve consistent quality	achieve not consistent quality	second impressive performance	second unimpressive performance	second not unimpressive performance
+achieve consistent quality	achieve not consistent quality	present informative programmes	present uninformative programmes	present not uninformative programmes
+achieve consistent quality	achieve not consistent quality	lead informed developers into	lead uninformed developers into	lead not uninformed developers into
+achieve consistent quality	achieve not consistent quality	the known ant	the unknown ant	the not unknown ant
+achieve consistent quality	achieve not consistent quality	were most likely written by him	were most unlikely written by him	were most not unlikely written by him
+achieve consistent quality	achieve not consistent quality	quite arbitrary and logical	quite arbitrary and illogical	quite arbitrary and not illogical
+achieve consistent quality	achieve not consistent quality	the pleasant word for friday	the unpleasant word for friday	the not unpleasant word for friday
+achieve consistent quality	achieve not consistent quality	a possible victory	an impossible victory	a not impossible victory
+achieve consistent quality	achieve not consistent quality	possibly reduce the impact	impossibly reduce the impact	not impossibly reduce the impact
+achieve consistent quality	achieve not consistent quality	faster and more productive than ninjago	faster and more unproductive than ninjago	faster and more not unproductive than ninjago
+achieve consistent quality	achieve not consistent quality	the field of rational functions over formula	the field of irrational functions over formula	the field of not irrational functions over formula
+achieve consistent quality	achieve not consistent quality	barton 's inquiry was reasonable	barton 's inquiry was unreasonable	barton 's inquiry was not unreasonabl
+achieve consistent quality	achieve not consistent quality	responsible for the lighting	irresponsible for the lighting	not irresponsible for the lightin
+achieve consistent quality	achieve not consistent quality	becomes sure about	becomes unsure about	becomes not unsure about
+achieve consistent quality	achieve not consistent quality	tasteful aspects of the film	distasteful aspects of the film	not distasteful aspects of the film
+achieve consistent quality	achieve not consistent quality	be politically acceptable	be politically unacceptable	be politically not unacceptable
+achieve consistent quality	achieve not consistent quality	aware of the cell 's political work	unaware of the cell 's political work	not unaware of the cell 's political work
+achieve consistent quality	achieve not consistent quality	be certain about	be uncertain about	be not uncertain about
+achieve consistent quality	achieve not consistent quality	clear evidence of inequality	unclear evidence of inequality	not unclear evidence of inequality
+achieve consistent quality	achieve not consistent quality	more comfortable for	more uncomfortable for	more not uncomfortable for
+achieve consistent quality	achieve not consistent quality	one competitive appearance	one uncompetitive appearance	one not uncompetitive appearance
+make it more convincing	make it more not convincing	be convenient to do so	be inconvenient to do so	be not inconvenient to do so
+make it more convincing	make it more not convincing	was still decided	was still undecided	was still not undecided
+make it more convincing	make it more not convincing	an efficient algorithm	an inefficient algorithm	a not inefficient algorithm
+make it more convincing	make it more not convincing	ethical codes of the church	unethical codes of the church	not unethical codes of the church
+make it more convincing	make it more not convincing	helping others fortunate	helping others unfortunate	helping others not unfortunate
+make it more convincing	make it more not convincing	make an honest mistake	make a dishonest mistake	make a not dishonest mistake
+make it more convincing	make it more not convincing	second impressive performance	second unimpressive performance	second not unimpressive performance
+make it more convincing	make it more not convincing	present informative programmes	present uninformative programmes	present not uninformative programmes
+make it more convincing	make it more not convincing	lead informed developers into	lead uninformed developers into	lead not uninformed developers into
+make it more convincing	make it more not convincing	the known ant	the unknown ant	the not unknown ant
+make it more convincing	make it more not convincing	were most likely written by him	were most unlikely written by him	were most not unlikely written by him
+make it more convincing	make it more not convincing	quite arbitrary and logical	quite arbitrary and illogical	quite arbitrary and not illogical
+make it more convincing	make it more not convincing	the pleasant word for friday	the unpleasant word for friday	the not unpleasant word for friday
+make it more convincing	make it more not convincing	a possible victory	an impossible victory	a not impossible victory
+make it more convincing	make it more not convincing	possibly reduce the impact	impossibly reduce the impact	not impossibly reduce the impact
+make it more convincing	make it more not convincing	faster and more productive than ninjago	faster and more unproductive than ninjago	faster and more not unproductive than ninjago
+make it more convincing	make it more not convincing	the field of rational functions over formula	the field of irrational functions over formula	the field of not irrational functions over formula
+make it more convincing	make it more not convincing	barton 's inquiry was reasonable	barton 's inquiry was unreasonable	barton 's inquiry was not unreasonabl
+make it more convincing	make it more not convincing	responsible for the lighting	irresponsible for the lighting	not irresponsible for the lightin
+make it more convincing	make it more not convincing	becomes sure about	becomes unsure about	becomes not unsure about
+make it more convincing	make it more not convincing	tasteful aspects of the film	distasteful aspects of the film	not distasteful aspects of the film
+make it more convincing	make it more not convincing	be politically acceptable	be politically unacceptable	be politically not unacceptable
+make it more convincing	make it more not convincing	aware of the cell 's political work	unaware of the cell 's political work	not unaware of the cell 's political work
+make it more convincing	make it more not convincing	be certain about	be uncertain about	be not uncertain about
+make it more convincing	make it more not convincing	clear evidence of inequality	unclear evidence of inequality	not unclear evidence of inequality
+make it more convincing	make it more not convincing	more comfortable for	more uncomfortable for	more not uncomfortable for
+make it more convincing	make it more not convincing	one competitive appearance	one uncompetitive appearance	one not uncompetitive appearance
+make it more convincing	make it more not convincing	achieve consistent quality	achieve inconsistent quality	achieve not inconsistent quality
+be convenient to do so	be not convenient to do so	was still decided	was still undecided	was still not undecided
+be convenient to do so	be not convenient to do so	an efficient algorithm	an inefficient algorithm	a not inefficient algorithm
+be convenient to do so	be not convenient to do so	ethical codes of the church	unethical codes of the church	not unethical codes of the church
+be convenient to do so	be not convenient to do so	helping others fortunate	helping others unfortunate	helping others not unfortunate
+be convenient to do so	be not convenient to do so	make an honest mistake	make a dishonest mistake	make a not dishonest mistake
+be convenient to do so	be not convenient to do so	second impressive performance	second unimpressive performance	second not unimpressive performance
+be convenient to do so	be not convenient to do so	present informative programmes	present uninformative programmes	present not uninformative programmes
+be convenient to do so	be not convenient to do so	lead informed developers into	lead uninformed developers into	lead not uninformed developers into
+be convenient to do so	be not convenient to do so	the known ant	the unknown ant	the not unknown ant
+be convenient to do so	be not convenient to do so	were most likely written by him	were most unlikely written by him	were most not unlikely written by him
+be convenient to do so	be not convenient to do so	quite arbitrary and logical	quite arbitrary and illogical	quite arbitrary and not illogical
+be convenient to do so	be not convenient to do so	the pleasant word for friday	the unpleasant word for friday	the not unpleasant word for friday
+be convenient to do so	be not convenient to do so	a possible victory	an impossible victory	a not impossible victory
+be convenient to do so	be not convenient to do so	possibly reduce the impact	impossibly reduce the impact	not impossibly reduce the impact
+be convenient to do so	be not convenient to do so	faster and more productive than ninjago	faster and more unproductive than ninjago	faster and more not unproductive than ninjago
+be convenient to do so	be not convenient to do so	the field of rational functions over formula	the field of irrational functions over formula	the field of not irrational functions over formula
+be convenient to do so	be not convenient to do so	barton 's inquiry was reasonable	barton 's inquiry was unreasonable	barton 's inquiry was not unreasonabl
+be convenient to do so	be not convenient to do so	responsible for the lighting	irresponsible for the lighting	not irresponsible for the lightin
+be convenient to do so	be not convenient to do so	becomes sure about	becomes unsure about	becomes not unsure about
+be convenient to do so	be not convenient to do so	tasteful aspects of the film	distasteful aspects of the film	not distasteful aspects of the film
+be convenient to do so	be not convenient to do so	be politically acceptable	be politically unacceptable	be politically not unacceptable
+be convenient to do so	be not convenient to do so	aware of the cell 's political work	unaware of the cell 's political work	not unaware of the cell 's political work
+be convenient to do so	be not convenient to do so	be certain about	be uncertain about	be not uncertain about
+be convenient to do so	be not convenient to do so	clear evidence of inequality	unclear evidence of inequality	not unclear evidence of inequality
+be convenient to do so	be not convenient to do so	more comfortable for	more uncomfortable for	more not uncomfortable for
+be convenient to do so	be not convenient to do so	one competitive appearance	one uncompetitive appearance	one not uncompetitive appearance
+be convenient to do so	be not convenient to do so	achieve consistent quality	achieve inconsistent quality	achieve not inconsistent quality
+be convenient to do so	be not convenient to do so	make it more convincing	make it more unconvincing	make it more not unconvincing
+was still decided	was still not decided	an efficient algorithm	an inefficient algorithm	a not inefficient algorithm
+was still decided	was still not decided	ethical codes of the church	unethical codes of the church	not unethical codes of the church
+was still decided	was still not decided	helping others fortunate	helping others unfortunate	helping others not unfortunate
+was still decided	was still not decided	make an honest mistake	make a dishonest mistake	make a not dishonest mistake
+was still decided	was still not decided	second impressive performance	second unimpressive performance	second not unimpressive performance
+was still decided	was still not decided	present informative programmes	present uninformative programmes	present not uninformative programmes
+was still decided	was still not decided	lead informed developers into	lead uninformed developers into	lead not uninformed developers into
+was still decided	was still not decided	the known ant	the unknown ant	the not unknown ant
+was still decided	was still not decided	were most likely written by him	were most unlikely written by him	were most not unlikely written by him
+was still decided	was still not decided	quite arbitrary and logical	quite arbitrary and illogical	quite arbitrary and not illogical
+was still decided	was still not decided	the pleasant word for friday	the unpleasant word for friday	the not unpleasant word for friday
+was still decided	was still not decided	a possible victory	an impossible victory	a not impossible victory
+was still decided	was still not decided	possibly reduce the impact	impossibly reduce the impact	not impossibly reduce the impact
+was still decided	was still not decided	faster and more productive than ninjago	faster and more unproductive than ninjago	faster and more not unproductive than ninjago
+was still decided	was still not decided	the field of rational functions over formula	the field of irrational functions over formula	the field of not irrational functions over formula
+was still decided	was still not decided	barton 's inquiry was reasonable	barton 's inquiry was unreasonable	barton 's inquiry was not unreasonabl
+was still decided	was still not decided	responsible for the lighting	irresponsible for the lighting	not irresponsible for the lightin
+was still decided	was still not decided	becomes sure about	becomes unsure about	becomes not unsure about
+was still decided	was still not decided	tasteful aspects of the film	distasteful aspects of the film	not distasteful aspects of the film
+was still decided	was still not decided	be politically acceptable	be politically unacceptable	be politically not unacceptable
+was still decided	was still not decided	aware of the cell 's political work	unaware of the cell 's political work	not unaware of the cell 's political work
+was still decided	was still not decided	be certain about	be uncertain about	be not uncertain about
+was still decided	was still not decided	clear evidence of inequality	unclear evidence of inequality	not unclear evidence of inequality
+was still decided	was still not decided	more comfortable for	more uncomfortable for	more not uncomfortable for
+was still decided	was still not decided	one competitive appearance	one uncompetitive appearance	one not uncompetitive appearance
+was still decided	was still not decided	achieve consistent quality	achieve inconsistent quality	achieve not inconsistent quality
+was still decided	was still not decided	make it more convincing	make it more unconvincing	make it more not unconvincing
+was still decided	was still not decided	be convenient to do so	be inconvenient to do so	be not inconvenient to do so
+an efficient algorithm	a not efficient algorithm	ethical codes of the church	unethical codes of the church	not unethical codes of the church
+an efficient algorithm	a not efficient algorithm	helping others fortunate	helping others unfortunate	helping others not unfortunate
+an efficient algorithm	a not efficient algorithm	make an honest mistake	make a dishonest mistake	make a not dishonest mistake
+an efficient algorithm	a not efficient algorithm	second impressive performance	second unimpressive performance	second not unimpressive performance
+an efficient algorithm	a not efficient algorithm	present informative programmes	present uninformative programmes	present not uninformative programmes
+an efficient algorithm	a not efficient algorithm	lead informed developers into	lead uninformed developers into	lead not uninformed developers into
+an efficient algorithm	a not efficient algorithm	the known ant	the unknown ant	the not unknown ant
+an efficient algorithm	a not efficient algorithm	were most likely written by him	were most unlikely written by him	were most not unlikely written by him
+an efficient algorithm	a not efficient algorithm	quite arbitrary and logical	quite arbitrary and illogical	quite arbitrary and not illogical
+an efficient algorithm	a not efficient algorithm	the pleasant word for friday	the unpleasant word for friday	the not unpleasant word for friday
+an efficient algorithm	a not efficient algorithm	a possible victory	an impossible victory	a not impossible victory
+an efficient algorithm	a not efficient algorithm	possibly reduce the impact	impossibly reduce the impact	not impossibly reduce the impact
+an efficient algorithm	a not efficient algorithm	faster and more productive than ninjago	faster and more unproductive than ninjago	faster and more not unproductive than ninjago
+an efficient algorithm	a not efficient algorithm	the field of rational functions over formula	the field of irrational functions over formula	the field of not irrational functions over formula
+an efficient algorithm	a not efficient algorithm	barton 's inquiry was reasonable	barton 's inquiry was unreasonable	barton 's inquiry was not unreasonabl
+an efficient algorithm	a not efficient algorithm	responsible for the lighting	irresponsible for the lighting	not irresponsible for the lightin
+an efficient algorithm	a not efficient algorithm	becomes sure about	becomes unsure about	becomes not unsure about
+an efficient algorithm	a not efficient algorithm	tasteful aspects of the film	distasteful aspects of the film	not distasteful aspects of the film
+an efficient algorithm	a not efficient algorithm	be politically acceptable	be politically unacceptable	be politically not unacceptable
+an efficient algorithm	a not efficient algorithm	aware of the cell 's political work	unaware of the cell 's political work	not unaware of the cell 's political work
+an efficient algorithm	a not efficient algorithm	be certain about	be uncertain about	be not uncertain about
+an efficient algorithm	a not efficient algorithm	clear evidence of inequality	unclear evidence of inequality	not unclear evidence of inequality
+an efficient algorithm	a not efficient algorithm	more comfortable for	more uncomfortable for	more not uncomfortable for
+an efficient algorithm	a not efficient algorithm	one competitive appearance	one uncompetitive appearance	one not uncompetitive appearance
+an efficient algorithm	a not efficient algorithm	achieve consistent quality	achieve inconsistent quality	achieve not inconsistent quality
+an efficient algorithm	a not efficient algorithm	make it more convincing	make it more unconvincing	make it more not unconvincing
+an efficient algorithm	a not efficient algorithm	be convenient to do so	be inconvenient to do so	be not inconvenient to do so
+an efficient algorithm	a not efficient algorithm	was still decided	was still undecided	was still not undecided
+ethical codes of the church	not ethical codes of the church	helping others fortunate	helping others unfortunate	helping others not unfortunate
+ethical codes of the church	not ethical codes of the church	make an honest mistake	make a dishonest mistake	make a not dishonest mistake
+ethical codes of the church	not ethical codes of the church	second impressive performance	second unimpressive performance	second not unimpressive performance
+ethical codes of the church	not ethical codes of the church	present informative programmes	present uninformative programmes	present not uninformative programmes
+ethical codes of the church	not ethical codes of the church	lead informed developers into	lead uninformed developers into	lead not uninformed developers into
+ethical codes of the church	not ethical codes of the church	the known ant	the unknown ant	the not unknown ant
+ethical codes of the church	not ethical codes of the church	were most likely written by him	were most unlikely written by him	were most not unlikely written by him
+ethical codes of the church	not ethical codes of the church	quite arbitrary and logical	quite arbitrary and illogical	quite arbitrary and not illogical
+ethical codes of the church	not ethical codes of the church	the pleasant word for friday	the unpleasant word for friday	the not unpleasant word for friday
+ethical codes of the church	not ethical codes of the church	a possible victory	an impossible victory	a not impossible victory
+ethical codes of the church	not ethical codes of the church	possibly reduce the impact	impossibly reduce the impact	not impossibly reduce the impact
+ethical codes of the church	not ethical codes of the church	faster and more productive than ninjago	faster and more unproductive than ninjago	faster and more not unproductive than ninjago
+ethical codes of the church	not ethical codes of the church	the field of rational functions over formula	the field of irrational functions over formula	the field of not irrational functions over formula
+ethical codes of the church	not ethical codes of the church	barton 's inquiry was reasonable	barton 's inquiry was unreasonable	barton 's inquiry was not unreasonabl
+ethical codes of the church	not ethical codes of the church	responsible for the lighting	irresponsible for the lighting	not irresponsible for the lightin
+ethical codes of the church	not ethical codes of the church	becomes sure about	becomes unsure about	becomes not unsure about
+ethical codes of the church	not ethical codes of the church	tasteful aspects of the film	distasteful aspects of the film	not distasteful aspects of the film
+ethical codes of the church	not ethical codes of the church	be politically acceptable	be politically unacceptable	be politically not unacceptable
+ethical codes of the church	not ethical codes of the church	aware of the cell 's political work	unaware of the cell 's political work	not unaware of the cell 's political work
+ethical codes of the church	not ethical codes of the church	be certain about	be uncertain about	be not uncertain about
+ethical codes of the church	not ethical codes of the church	clear evidence of inequality	unclear evidence of inequality	not unclear evidence of inequality
+ethical codes of the church	not ethical codes of the church	more comfortable for	more uncomfortable for	more not uncomfortable for
+ethical codes of the church	not ethical codes of the church	one competitive appearance	one uncompetitive appearance	one not uncompetitive appearance
+ethical codes of the church	not ethical codes of the church	achieve consistent quality	achieve inconsistent quality	achieve not inconsistent quality
+ethical codes of the church	not ethical codes of the church	make it more convincing	make it more unconvincing	make it more not unconvincing
+ethical codes of the church	not ethical codes of the church	be convenient to do so	be inconvenient to do so	be not inconvenient to do so
+ethical codes of the church	not ethical codes of the church	was still decided	was still undecided	was still not undecided
+ethical codes of the church	not ethical codes of the church	an efficient algorithm	an inefficient algorithm	a not inefficient algorithm
+helping others fortunate	helping others not fortunate	make an honest mistake	make a dishonest mistake	make a not dishonest mistake
+helping others fortunate	helping others not fortunate	second impressive performance	second unimpressive performance	second not unimpressive performance
+helping others fortunate	helping others not fortunate	present informative programmes	present uninformative programmes	present not uninformative programmes
+helping others fortunate	helping others not fortunate	lead informed developers into	lead uninformed developers into	lead not uninformed developers into
+helping others fortunate	helping others not fortunate	the known ant	the unknown ant	the not unknown ant
+helping others fortunate	helping others not fortunate	were most likely written by him	were most unlikely written by him	were most not unlikely written by him
+helping others fortunate	helping others not fortunate	quite arbitrary and logical	quite arbitrary and illogical	quite arbitrary and not illogical
+helping others fortunate	helping others not fortunate	the pleasant word for friday	the unpleasant word for friday	the not unpleasant word for friday
+helping others fortunate	helping others not fortunate	a possible victory	an impossible victory	a not impossible victory
+helping others fortunate	helping others not fortunate	possibly reduce the impact	impossibly reduce the impact	not impossibly reduce the impact
+helping others fortunate	helping others not fortunate	faster and more productive than ninjago	faster and more unproductive than ninjago	faster and more not unproductive than ninjago
+helping others fortunate	helping others not fortunate	the field of rational functions over formula	the field of irrational functions over formula	the field of not irrational functions over formula
+helping others fortunate	helping others not fortunate	barton 's inquiry was reasonable	barton 's inquiry was unreasonable	barton 's inquiry was not unreasonabl
+helping others fortunate	helping others not fortunate	responsible for the lighting	irresponsible for the lighting	not irresponsible for the lightin
+helping others fortunate	helping others not fortunate	becomes sure about	becomes unsure about	becomes not unsure about
+helping others fortunate	helping others not fortunate	tasteful aspects of the film	distasteful aspects of the film	not distasteful aspects of the film
+helping others fortunate	helping others not fortunate	be politically acceptable	be politically unacceptable	be politically not unacceptable
+helping others fortunate	helping others not fortunate	aware of the cell 's political work	unaware of the cell 's political work	not unaware of the cell 's political work
+helping others fortunate	helping others not fortunate	be certain about	be uncertain about	be not uncertain about
+helping others fortunate	helping others not fortunate	clear evidence of inequality	unclear evidence of inequality	not unclear evidence of inequality
+helping others fortunate	helping others not fortunate	more comfortable for	more uncomfortable for	more not uncomfortable for
+helping others fortunate	helping others not fortunate	one competitive appearance	one uncompetitive appearance	one not uncompetitive appearance
+helping others fortunate	helping others not fortunate	achieve consistent quality	achieve inconsistent quality	achieve not inconsistent quality
+helping others fortunate	helping others not fortunate	make it more convincing	make it more unconvincing	make it more not unconvincing
+helping others fortunate	helping others not fortunate	be convenient to do so	be inconvenient to do so	be not inconvenient to do so
+helping others fortunate	helping others not fortunate	was still decided	was still undecided	was still not undecided
+helping others fortunate	helping others not fortunate	an efficient algorithm	an inefficient algorithm	a not inefficient algorithm
+helping others fortunate	helping others not fortunate	ethical codes of the church	unethical codes of the church	not unethical codes of the church
+make an honest mistake	make a not honest mistake	second impressive performance	second unimpressive performance	second not unimpressive performance
+make an honest mistake	make a not honest mistake	present informative programmes	present uninformative programmes	present not uninformative programmes
+make an honest mistake	make a not honest mistake	lead informed developers into	lead uninformed developers into	lead not uninformed developers into
+make an honest mistake	make a not honest mistake	the known ant	the unknown ant	the not unknown ant
+make an honest mistake	make a not honest mistake	were most likely written by him	were most unlikely written by him	were most not unlikely written by him
+make an honest mistake	make a not honest mistake	quite arbitrary and logical	quite arbitrary and illogical	quite arbitrary and not illogical
+make an honest mistake	make a not honest mistake	the pleasant word for friday	the unpleasant word for friday	the not unpleasant word for friday
+make an honest mistake	make a not honest mistake	a possible victory	an impossible victory	a not impossible victory
+make an honest mistake	make a not honest mistake	possibly reduce the impact	impossibly reduce the impact	not impossibly reduce the impact
+make an honest mistake	make a not honest mistake	faster and more productive than ninjago	faster and more unproductive than ninjago	faster and more not unproductive than ninjago
+make an honest mistake	make a not honest mistake	the field of rational functions over formula	the field of irrational functions over formula	the field of not irrational functions over formula
+make an honest mistake	make a not honest mistake	barton 's inquiry was reasonable	barton 's inquiry was unreasonable	barton 's inquiry was not unreasonabl
+make an honest mistake	make a not honest mistake	responsible for the lighting	irresponsible for the lighting	not irresponsible for the lightin
+make an honest mistake	make a not honest mistake	becomes sure about	becomes unsure about	becomes not unsure about
+make an honest mistake	make a not honest mistake	tasteful aspects of the film	distasteful aspects of the film	not distasteful aspects of the film
+make an honest mistake	make a not honest mistake	be politically acceptable	be politically unacceptable	be politically not unacceptable
+make an honest mistake	make a not honest mistake	aware of the cell 's political work	unaware of the cell 's political work	not unaware of the cell 's political work
+make an honest mistake	make a not honest mistake	be certain about	be uncertain about	be not uncertain about
+make an honest mistake	make a not honest mistake	clear evidence of inequality	unclear evidence of inequality	not unclear evidence of inequality
+make an honest mistake	make a not honest mistake	more comfortable for	more uncomfortable for	more not uncomfortable for
+make an honest mistake	make a not honest mistake	one competitive appearance	one uncompetitive appearance	one not uncompetitive appearance
+make an honest mistake	make a not honest mistake	achieve consistent quality	achieve inconsistent quality	achieve not inconsistent quality
+make an honest mistake	make a not honest mistake	make it more convincing	make it more unconvincing	make it more not unconvincing
+make an honest mistake	make a not honest mistake	be convenient to do so	be inconvenient to do so	be not inconvenient to do so
+make an honest mistake	make a not honest mistake	was still decided	was still undecided	was still not undecided
+make an honest mistake	make a not honest mistake	an efficient algorithm	an inefficient algorithm	a not inefficient algorithm
+make an honest mistake	make a not honest mistake	ethical codes of the church	unethical codes of the church	not unethical codes of the church
+make an honest mistake	make a not honest mistake	helping others fortunate	helping others unfortunate	helping others not unfortunate
+second impressive performance	secondnot impressive performance	present informative programmes	present uninformative programmes	present not uninformative programmes
+second impressive performance	secondnot impressive performance	lead informed developers into	lead uninformed developers into	lead not uninformed developers into
+second impressive performance	secondnot impressive performance	the known ant	the unknown ant	the not unknown ant
+second impressive performance	secondnot impressive performance	were most likely written by him	were most unlikely written by him	were most not unlikely written by him
+second impressive performance	secondnot impressive performance	quite arbitrary and logical	quite arbitrary and illogical	quite arbitrary and not illogical
+second impressive performance	secondnot impressive performance	the pleasant word for friday	the unpleasant word for friday	the not unpleasant word for friday
+second impressive performance	secondnot impressive performance	a possible victory	an impossible victory	a not impossible victory
+second impressive performance	secondnot impressive performance	possibly reduce the impact	impossibly reduce the impact	not impossibly reduce the impact
+second impressive performance	secondnot impressive performance	faster and more productive than ninjago	faster and more unproductive than ninjago	faster and more not unproductive than ninjago
+second impressive performance	secondnot impressive performance	the field of rational functions over formula	the field of irrational functions over formula	the field of not irrational functions over formula
+second impressive performance	secondnot impressive performance	barton 's inquiry was reasonable	barton 's inquiry was unreasonable	barton 's inquiry was not unreasonabl
+second impressive performance	secondnot impressive performance	responsible for the lighting	irresponsible for the lighting	not irresponsible for the lightin
+second impressive performance	secondnot impressive performance	becomes sure about	becomes unsure about	becomes not unsure about
+second impressive performance	secondnot impressive performance	tasteful aspects of the film	distasteful aspects of the film	not distasteful aspects of the film
+second impressive performance	secondnot impressive performance	be politically acceptable	be politically unacceptable	be politically not unacceptable
+second impressive performance	secondnot impressive performance	aware of the cell 's political work	unaware of the cell 's political work	not unaware of the cell 's political work
+second impressive performance	secondnot impressive performance	be certain about	be uncertain about	be not uncertain about
+second impressive performance	secondnot impressive performance	clear evidence of inequality	unclear evidence of inequality	not unclear evidence of inequality
+second impressive performance	secondnot impressive performance	more comfortable for	more uncomfortable for	more not uncomfortable for
+second impressive performance	secondnot impressive performance	one competitive appearance	one uncompetitive appearance	one not uncompetitive appearance
+second impressive performance	secondnot impressive performance	achieve consistent quality	achieve inconsistent quality	achieve not inconsistent quality
+second impressive performance	secondnot impressive performance	make it more convincing	make it more unconvincing	make it more not unconvincing
+second impressive performance	secondnot impressive performance	be convenient to do so	be inconvenient to do so	be not inconvenient to do so
+second impressive performance	secondnot impressive performance	was still decided	was still undecided	was still not undecided
+second impressive performance	secondnot impressive performance	an efficient algorithm	an inefficient algorithm	a not inefficient algorithm
+second impressive performance	secondnot impressive performance	ethical codes of the church	unethical codes of the church	not unethical codes of the church
+second impressive performance	secondnot impressive performance	helping others fortunate	helping others unfortunate	helping others not unfortunate
+second impressive performance	secondnot impressive performance	make an honest mistake	make a dishonest mistake	make a not dishonest mistake
+present informative programmes	present not informative programme	lead informed developers into	lead uninformed developers into	lead not uninformed developers into
+present informative programmes	present not informative programme	the known ant	the unknown ant	the not unknown ant
+present informative programmes	present not informative programme	were most likely written by him	were most unlikely written by him	were most not unlikely written by him
+present informative programmes	present not informative programme	quite arbitrary and logical	quite arbitrary and illogical	quite arbitrary and not illogical
+present informative programmes	present not informative programme	the pleasant word for friday	the unpleasant word for friday	the not unpleasant word for friday
+present informative programmes	present not informative programme	a possible victory	an impossible victory	a not impossible victory
+present informative programmes	present not informative programme	possibly reduce the impact	impossibly reduce the impact	not impossibly reduce the impact
+present informative programmes	present not informative programme	faster and more productive than ninjago	faster and more unproductive than ninjago	faster and more not unproductive than ninjago
+present informative programmes	present not informative programme	the field of rational functions over formula	the field of irrational functions over formula	the field of not irrational functions over formula
+present informative programmes	present not informative programme	barton 's inquiry was reasonable	barton 's inquiry was unreasonable	barton 's inquiry was not unreasonabl
+present informative programmes	present not informative programme	responsible for the lighting	irresponsible for the lighting	not irresponsible for the lightin
+present informative programmes	present not informative programme	becomes sure about	becomes unsure about	becomes not unsure about
+present informative programmes	present not informative programme	tasteful aspects of the film	distasteful aspects of the film	not distasteful aspects of the film
+present informative programmes	present not informative programme	be politically acceptable	be politically unacceptable	be politically not unacceptable
+present informative programmes	present not informative programme	aware of the cell 's political work	unaware of the cell 's political work	not unaware of the cell 's political work
+present informative programmes	present not informative programme	be certain about	be uncertain about	be not uncertain about
+present informative programmes	present not informative programme	clear evidence of inequality	unclear evidence of inequality	not unclear evidence of inequality
+present informative programmes	present not informative programme	more comfortable for	more uncomfortable for	more not uncomfortable for
+present informative programmes	present not informative programme	one competitive appearance	one uncompetitive appearance	one not uncompetitive appearance
+present informative programmes	present not informative programme	achieve consistent quality	achieve inconsistent quality	achieve not inconsistent quality
+present informative programmes	present not informative programme	make it more convincing	make it more unconvincing	make it more not unconvincing
+present informative programmes	present not informative programme	be convenient to do so	be inconvenient to do so	be not inconvenient to do so
+present informative programmes	present not informative programme	was still decided	was still undecided	was still not undecided
+present informative programmes	present not informative programme	an efficient algorithm	an inefficient algorithm	a not inefficient algorithm
+present informative programmes	present not informative programme	ethical codes of the church	unethical codes of the church	not unethical codes of the church
+present informative programmes	present not informative programme	helping others fortunate	helping others unfortunate	helping others not unfortunate
+present informative programmes	present not informative programme	make an honest mistake	make a dishonest mistake	make a not dishonest mistake
+present informative programmes	present not informative programme	second impressive performance	second unimpressive performance	second not unimpressive performance
+lead informed developers into	lead not informed developers into	the known ant	the unknown ant	the not unknown ant
+lead informed developers into	lead not informed developers into	were most likely written by him	were most unlikely written by him	were most not unlikely written by him
+lead informed developers into	lead not informed developers into	quite arbitrary and logical	quite arbitrary and illogical	quite arbitrary and not illogical
+lead informed developers into	lead not informed developers into	the pleasant word for friday	the unpleasant word for friday	the not unpleasant word for friday
+lead informed developers into	lead not informed developers into	a possible victory	an impossible victory	a not impossible victory
+lead informed developers into	lead not informed developers into	possibly reduce the impact	impossibly reduce the impact	not impossibly reduce the impact
+lead informed developers into	lead not informed developers into	faster and more productive than ninjago	faster and more unproductive than ninjago	faster and more not unproductive than ninjago
+lead informed developers into	lead not informed developers into	the field of rational functions over formula	the field of irrational functions over formula	the field of not irrational functions over formula
+lead informed developers into	lead not informed developers into	barton 's inquiry was reasonable	barton 's inquiry was unreasonable	barton 's inquiry was not unreasonabl
+lead informed developers into	lead not informed developers into	responsible for the lighting	irresponsible for the lighting	not irresponsible for the lightin
+lead informed developers into	lead not informed developers into	becomes sure about	becomes unsure about	becomes not unsure about
+lead informed developers into	lead not informed developers into	tasteful aspects of the film	distasteful aspects of the film	not distasteful aspects of the film
+lead informed developers into	lead not informed developers into	be politically acceptable	be politically unacceptable	be politically not unacceptable
+lead informed developers into	lead not informed developers into	aware of the cell 's political work	unaware of the cell 's political work	not unaware of the cell 's political work
+lead informed developers into	lead not informed developers into	be certain about	be uncertain about	be not uncertain about
+lead informed developers into	lead not informed developers into	clear evidence of inequality	unclear evidence of inequality	not unclear evidence of inequality
+lead informed developers into	lead not informed developers into	more comfortable for	more uncomfortable for	more not uncomfortable for
+lead informed developers into	lead not informed developers into	one competitive appearance	one uncompetitive appearance	one not uncompetitive appearance
+lead informed developers into	lead not informed developers into	achieve consistent quality	achieve inconsistent quality	achieve not inconsistent quality
+lead informed developers into	lead not informed developers into	make it more convincing	make it more unconvincing	make it more not unconvincing
+lead informed developers into	lead not informed developers into	be convenient to do so	be inconvenient to do so	be not inconvenient to do so
+lead informed developers into	lead not informed developers into	was still decided	was still undecided	was still not undecided
+lead informed developers into	lead not informed developers into	an efficient algorithm	an inefficient algorithm	a not inefficient algorithm
+lead informed developers into	lead not informed developers into	ethical codes of the church	unethical codes of the church	not unethical codes of the church
+lead informed developers into	lead not informed developers into	helping others fortunate	helping others unfortunate	helping others not unfortunate
+lead informed developers into	lead not informed developers into	make an honest mistake	make a dishonest mistake	make a not dishonest mistake
+lead informed developers into	lead not informed developers into	second impressive performance	second unimpressive performance	second not unimpressive performance
+lead informed developers into	lead not informed developers into	present informative programmes	present uninformative programmes	present not uninformative programmes
+the known ant	the not known ant	were most likely written by him	were most unlikely written by him	were most not unlikely written by him
+the known ant	the not known ant	quite arbitrary and logical	quite arbitrary and illogical	quite arbitrary and not illogical
+the known ant	the not known ant	the pleasant word for friday	the unpleasant word for friday	the not unpleasant word for friday
+the known ant	the not known ant	a possible victory	an impossible victory	a not impossible victory
+the known ant	the not known ant	possibly reduce the impact	impossibly reduce the impact	not impossibly reduce the impact
+the known ant	the not known ant	faster and more productive than ninjago	faster and more unproductive than ninjago	faster and more not unproductive than ninjago
+the known ant	the not known ant	the field of rational functions over formula	the field of irrational functions over formula	the field of not irrational functions over formula
+the known ant	the not known ant	barton 's inquiry was reasonable	barton 's inquiry was unreasonable	barton 's inquiry was not unreasonabl
+the known ant	the not known ant	responsible for the lighting	irresponsible for the lighting	not irresponsible for the lightin
+the known ant	the not known ant	becomes sure about	becomes unsure about	becomes not unsure about
+the known ant	the not known ant	tasteful aspects of the film	distasteful aspects of the film	not distasteful aspects of the film
+the known ant	the not known ant	be politically acceptable	be politically unacceptable	be politically not unacceptable
+the known ant	the not known ant	aware of the cell 's political work	unaware of the cell 's political work	not unaware of the cell 's political work
+the known ant	the not known ant	be certain about	be uncertain about	be not uncertain about
+the known ant	the not known ant	clear evidence of inequality	unclear evidence of inequality	not unclear evidence of inequality
+the known ant	the not known ant	more comfortable for	more uncomfortable for	more not uncomfortable for
+the known ant	the not known ant	one competitive appearance	one uncompetitive appearance	one not uncompetitive appearance
+the known ant	the not known ant	achieve consistent quality	achieve inconsistent quality	achieve not inconsistent quality
+the known ant	the not known ant	make it more convincing	make it more unconvincing	make it more not unconvincing
+the known ant	the not known ant	be convenient to do so	be inconvenient to do so	be not inconvenient to do so
+the known ant	the not known ant	was still decided	was still undecided	was still not undecided
+the known ant	the not known ant	an efficient algorithm	an inefficient algorithm	a not inefficient algorithm
+the known ant	the not known ant	ethical codes of the church	unethical codes of the church	not unethical codes of the church
+the known ant	the not known ant	helping others fortunate	helping others unfortunate	helping others not unfortunate
+the known ant	the not known ant	make an honest mistake	make a dishonest mistake	make a not dishonest mistake
+the known ant	the not known ant	second impressive performance	second unimpressive performance	second not unimpressive performance
+the known ant	the not known ant	present informative programmes	present uninformative programmes	present not uninformative programmes
+the known ant	the not known ant	lead informed developers into	lead uninformed developers into	lead not uninformed developers into
+were most likely written by him	were most not likely written by him	quite arbitrary and logical	quite arbitrary and illogical	quite arbitrary and not illogical
+were most likely written by him	were most not likely written by him	the pleasant word for friday	the unpleasant word for friday	the not unpleasant word for friday
+were most likely written by him	were most not likely written by him	a possible victory	an impossible victory	a not impossible victory
+were most likely written by him	were most not likely written by him	possibly reduce the impact	impossibly reduce the impact	not impossibly reduce the impact
+were most likely written by him	were most not likely written by him	faster and more productive than ninjago	faster and more unproductive than ninjago	faster and more not unproductive than ninjago
+were most likely written by him	were most not likely written by him	the field of rational functions over formula	the field of irrational functions over formula	the field of not irrational functions over formula
+were most likely written by him	were most not likely written by him	barton 's inquiry was reasonable	barton 's inquiry was unreasonable	barton 's inquiry was not unreasonabl
+were most likely written by him	were most not likely written by him	responsible for the lighting	irresponsible for the lighting	not irresponsible for the lightin
+were most likely written by him	were most not likely written by him	becomes sure about	becomes unsure about	becomes not unsure about
+were most likely written by him	were most not likely written by him	tasteful aspects of the film	distasteful aspects of the film	not distasteful aspects of the film
+were most likely written by him	were most not likely written by him	be politically acceptable	be politically unacceptable	be politically not unacceptable
+were most likely written by him	were most not likely written by him	aware of the cell 's political work	unaware of the cell 's political work	not unaware of the cell 's political work
+were most likely written by him	were most not likely written by him	be certain about	be uncertain about	be not uncertain about
+were most likely written by him	were most not likely written by him	clear evidence of inequality	unclear evidence of inequality	not unclear evidence of inequality
+were most likely written by him	were most not likely written by him	more comfortable for	more uncomfortable for	more not uncomfortable for
+were most likely written by him	were most not likely written by him	one competitive appearance	one uncompetitive appearance	one not uncompetitive appearance
+were most likely written by him	were most not likely written by him	achieve consistent quality	achieve inconsistent quality	achieve not inconsistent quality
+were most likely written by him	were most not likely written by him	make it more convincing	make it more unconvincing	make it more not unconvincing
+were most likely written by him	were most not likely written by him	be convenient to do so	be inconvenient to do so	be not inconvenient to do so
+were most likely written by him	were most not likely written by him	was still decided	was still undecided	was still not undecided
+were most likely written by him	were most not likely written by him	an efficient algorithm	an inefficient algorithm	a not inefficient algorithm
+were most likely written by him	were most not likely written by him	ethical codes of the church	unethical codes of the church	not unethical codes of the church
+were most likely written by him	were most not likely written by him	helping others fortunate	helping others unfortunate	helping others not unfortunate
+were most likely written by him	were most not likely written by him	make an honest mistake	make a dishonest mistake	make a not dishonest mistake
+were most likely written by him	were most not likely written by him	second impressive performance	second unimpressive performance	second not unimpressive performance
+were most likely written by him	were most not likely written by him	present informative programmes	present uninformative programmes	present not uninformative programmes
+were most likely written by him	were most not likely written by him	lead informed developers into	lead uninformed developers into	lead not uninformed developers into
+were most likely written by him	were most not likely written by him	the known ant	the unknown ant	the not unknown ant
+quite arbitrary and logical	quite arbitrary and not logical	the pleasant word for friday	the unpleasant word for friday	the not unpleasant word for friday
+quite arbitrary and logical	quite arbitrary and not logical	a possible victory	an impossible victory	a not impossible victory
+quite arbitrary and logical	quite arbitrary and not logical	possibly reduce the impact	impossibly reduce the impact	not impossibly reduce the impact
+quite arbitrary and logical	quite arbitrary and not logical	faster and more productive than ninjago	faster and more unproductive than ninjago	faster and more not unproductive than ninjago
+quite arbitrary and logical	quite arbitrary and not logical	the field of rational functions over formula	the field of irrational functions over formula	the field of not irrational functions over formula
+quite arbitrary and logical	quite arbitrary and not logical	barton 's inquiry was reasonable	barton 's inquiry was unreasonable	barton 's inquiry was not unreasonabl
+quite arbitrary and logical	quite arbitrary and not logical	responsible for the lighting	irresponsible for the lighting	not irresponsible for the lightin
+quite arbitrary and logical	quite arbitrary and not logical	becomes sure about	becomes unsure about	becomes not unsure about
+quite arbitrary and logical	quite arbitrary and not logical	tasteful aspects of the film	distasteful aspects of the film	not distasteful aspects of the film
+quite arbitrary and logical	quite arbitrary and not logical	be politically acceptable	be politically unacceptable	be politically not unacceptable
+quite arbitrary and logical	quite arbitrary and not logical	aware of the cell 's political work	unaware of the cell 's political work	not unaware of the cell 's political work
+quite arbitrary and logical	quite arbitrary and not logical	be certain about	be uncertain about	be not uncertain about
+quite arbitrary and logical	quite arbitrary and not logical	clear evidence of inequality	unclear evidence of inequality	not unclear evidence of inequality
+quite arbitrary and logical	quite arbitrary and not logical	more comfortable for	more uncomfortable for	more not uncomfortable for
+quite arbitrary and logical	quite arbitrary and not logical	one competitive appearance	one uncompetitive appearance	one not uncompetitive appearance
+quite arbitrary and logical	quite arbitrary and not logical	achieve consistent quality	achieve inconsistent quality	achieve not inconsistent quality
+quite arbitrary and logical	quite arbitrary and not logical	make it more convincing	make it more unconvincing	make it more not unconvincing
+quite arbitrary and logical	quite arbitrary and not logical	be convenient to do so	be inconvenient to do so	be not inconvenient to do so
+quite arbitrary and logical	quite arbitrary and not logical	was still decided	was still undecided	was still not undecided
+quite arbitrary and logical	quite arbitrary and not logical	an efficient algorithm	an inefficient algorithm	a not inefficient algorithm
+quite arbitrary and logical	quite arbitrary and not logical	ethical codes of the church	unethical codes of the church	not unethical codes of the church
+quite arbitrary and logical	quite arbitrary and not logical	helping others fortunate	helping others unfortunate	helping others not unfortunate
+quite arbitrary and logical	quite arbitrary and not logical	make an honest mistake	make a dishonest mistake	make a not dishonest mistake
+quite arbitrary and logical	quite arbitrary and not logical	second impressive performance	second unimpressive performance	second not unimpressive performance
+quite arbitrary and logical	quite arbitrary and not logical	present informative programmes	present uninformative programmes	present not uninformative programmes
+quite arbitrary and logical	quite arbitrary and not logical	lead informed developers into	lead uninformed developers into	lead not uninformed developers into
+quite arbitrary and logical	quite arbitrary and not logical	the known ant	the unknown ant	the not unknown ant
+quite arbitrary and logical	quite arbitrary and not logical	were most likely written by him	were most unlikely written by him	were most not unlikely written by him
+the pleasant word for friday	the not pleasant word for friday	a possible victory	an impossible victory	a not impossible victory
+the pleasant word for friday	the not pleasant word for friday	possibly reduce the impact	impossibly reduce the impact	not impossibly reduce the impact
+the pleasant word for friday	the not pleasant word for friday	faster and more productive than ninjago	faster and more unproductive than ninjago	faster and more not unproductive than ninjago
+the pleasant word for friday	the not pleasant word for friday	the field of rational functions over formula	the field of irrational functions over formula	the field of not irrational functions over formula
+the pleasant word for friday	the not pleasant word for friday	barton 's inquiry was reasonable	barton 's inquiry was unreasonable	barton 's inquiry was not unreasonabl
+the pleasant word for friday	the not pleasant word for friday	responsible for the lighting	irresponsible for the lighting	not irresponsible for the lightin
+the pleasant word for friday	the not pleasant word for friday	becomes sure about	becomes unsure about	becomes not unsure about
+the pleasant word for friday	the not pleasant word for friday	tasteful aspects of the film	distasteful aspects of the film	not distasteful aspects of the film
+the pleasant word for friday	the not pleasant word for friday	be politically acceptable	be politically unacceptable	be politically not unacceptable
+the pleasant word for friday	the not pleasant word for friday	aware of the cell 's political work	unaware of the cell 's political work	not unaware of the cell 's political work
+the pleasant word for friday	the not pleasant word for friday	be certain about	be uncertain about	be not uncertain about
+the pleasant word for friday	the not pleasant word for friday	clear evidence of inequality	unclear evidence of inequality	not unclear evidence of inequality
+the pleasant word for friday	the not pleasant word for friday	more comfortable for	more uncomfortable for	more not uncomfortable for
+the pleasant word for friday	the not pleasant word for friday	one competitive appearance	one uncompetitive appearance	one not uncompetitive appearance
+the pleasant word for friday	the not pleasant word for friday	achieve consistent quality	achieve inconsistent quality	achieve not inconsistent quality
+the pleasant word for friday	the not pleasant word for friday	make it more convincing	make it more unconvincing	make it more not unconvincing
+the pleasant word for friday	the not pleasant word for friday	be convenient to do so	be inconvenient to do so	be not inconvenient to do so
+the pleasant word for friday	the not pleasant word for friday	was still decided	was still undecided	was still not undecided
+the pleasant word for friday	the not pleasant word for friday	an efficient algorithm	an inefficient algorithm	a not inefficient algorithm
+the pleasant word for friday	the not pleasant word for friday	ethical codes of the church	unethical codes of the church	not unethical codes of the church
+the pleasant word for friday	the not pleasant word for friday	helping others fortunate	helping others unfortunate	helping others not unfortunate
+the pleasant word for friday	the not pleasant word for friday	make an honest mistake	make a dishonest mistake	make a not dishonest mistake
+the pleasant word for friday	the not pleasant word for friday	second impressive performance	second unimpressive performance	second not unimpressive performance
+the pleasant word for friday	the not pleasant word for friday	present informative programmes	present uninformative programmes	present not uninformative programmes
+the pleasant word for friday	the not pleasant word for friday	lead informed developers into	lead uninformed developers into	lead not uninformed developers into
+the pleasant word for friday	the not pleasant word for friday	the known ant	the unknown ant	the not unknown ant
+the pleasant word for friday	the not pleasant word for friday	were most likely written by him	were most unlikely written by him	were most not unlikely written by him
+the pleasant word for friday	the not pleasant word for friday	quite arbitrary and logical	quite arbitrary and illogical	quite arbitrary and not illogical
+a possible victory	a not possible victory	possibly reduce the impact	impossibly reduce the impact	not impossibly reduce the impact
+a possible victory	a not possible victory	faster and more productive than ninjago	faster and more unproductive than ninjago	faster and more not unproductive than ninjago
+a possible victory	a not possible victory	the field of rational functions over formula	the field of irrational functions over formula	the field of not irrational functions over formula
+a possible victory	a not possible victory	barton 's inquiry was reasonable	barton 's inquiry was unreasonable	barton 's inquiry was not unreasonabl
+a possible victory	a not possible victory	responsible for the lighting	irresponsible for the lighting	not irresponsible for the lightin
+a possible victory	a not possible victory	becomes sure about	becomes unsure about	becomes not unsure about
+a possible victory	a not possible victory	tasteful aspects of the film	distasteful aspects of the film	not distasteful aspects of the film
+a possible victory	a not possible victory	be politically acceptable	be politically unacceptable	be politically not unacceptable
+a possible victory	a not possible victory	aware of the cell 's political work	unaware of the cell 's political work	not unaware of the cell 's political work
+a possible victory	a not possible victory	be certain about	be uncertain about	be not uncertain about
+a possible victory	a not possible victory	clear evidence of inequality	unclear evidence of inequality	not unclear evidence of inequality
+a possible victory	a not possible victory	more comfortable for	more uncomfortable for	more not uncomfortable for
+a possible victory	a not possible victory	one competitive appearance	one uncompetitive appearance	one not uncompetitive appearance
+a possible victory	a not possible victory	achieve consistent quality	achieve inconsistent quality	achieve not inconsistent quality
+a possible victory	a not possible victory	make it more convincing	make it more unconvincing	make it more not unconvincing
+a possible victory	a not possible victory	be convenient to do so	be inconvenient to do so	be not inconvenient to do so
+a possible victory	a not possible victory	was still decided	was still undecided	was still not undecided
+a possible victory	a not possible victory	an efficient algorithm	an inefficient algorithm	a not inefficient algorithm
+a possible victory	a not possible victory	ethical codes of the church	unethical codes of the church	not unethical codes of the church
+a possible victory	a not possible victory	helping others fortunate	helping others unfortunate	helping others not unfortunate
+a possible victory	a not possible victory	make an honest mistake	make a dishonest mistake	make a not dishonest mistake
+a possible victory	a not possible victory	second impressive performance	second unimpressive performance	second not unimpressive performance
+a possible victory	a not possible victory	present informative programmes	present uninformative programmes	present not uninformative programmes
+a possible victory	a not possible victory	lead informed developers into	lead uninformed developers into	lead not uninformed developers into
+a possible victory	a not possible victory	the known ant	the unknown ant	the not unknown ant
+a possible victory	a not possible victory	were most likely written by him	were most unlikely written by him	were most not unlikely written by him
+a possible victory	a not possible victory	quite arbitrary and logical	quite arbitrary and illogical	quite arbitrary and not illogical
+a possible victory	a not possible victory	the pleasant word for friday	the unpleasant word for friday	the not unpleasant word for friday
+possibly reduce the impact	not possibly reduce the impact	faster and more productive than ninjago	faster and more unproductive than ninjago	faster and more not unproductive than ninjago
+possibly reduce the impact	not possibly reduce the impact	the field of rational functions over formula	the field of irrational functions over formula	the field of not irrational functions over formula
+possibly reduce the impact	not possibly reduce the impact	barton 's inquiry was reasonable	barton 's inquiry was unreasonable	barton 's inquiry was not unreasonabl
+possibly reduce the impact	not possibly reduce the impact	responsible for the lighting	irresponsible for the lighting	not irresponsible for the lightin
+possibly reduce the impact	not possibly reduce the impact	becomes sure about	becomes unsure about	becomes not unsure about
+possibly reduce the impact	not possibly reduce the impact	tasteful aspects of the film	distasteful aspects of the film	not distasteful aspects of the film
+possibly reduce the impact	not possibly reduce the impact	be politically acceptable	be politically unacceptable	be politically not unacceptable
+possibly reduce the impact	not possibly reduce the impact	aware of the cell 's political work	unaware of the cell 's political work	not unaware of the cell 's political work
+possibly reduce the impact	not possibly reduce the impact	be certain about	be uncertain about	be not uncertain about
+possibly reduce the impact	not possibly reduce the impact	clear evidence of inequality	unclear evidence of inequality	not unclear evidence of inequality
+possibly reduce the impact	not possibly reduce the impact	more comfortable for	more uncomfortable for	more not uncomfortable for
+possibly reduce the impact	not possibly reduce the impact	one competitive appearance	one uncompetitive appearance	one not uncompetitive appearance
+possibly reduce the impact	not possibly reduce the impact	achieve consistent quality	achieve inconsistent quality	achieve not inconsistent quality
+possibly reduce the impact	not possibly reduce the impact	make it more convincing	make it more unconvincing	make it more not unconvincing
+possibly reduce the impact	not possibly reduce the impact	be convenient to do so	be inconvenient to do so	be not inconvenient to do so
+possibly reduce the impact	not possibly reduce the impact	was still decided	was still undecided	was still not undecided
+possibly reduce the impact	not possibly reduce the impact	an efficient algorithm	an inefficient algorithm	a not inefficient algorithm
+possibly reduce the impact	not possibly reduce the impact	ethical codes of the church	unethical codes of the church	not unethical codes of the church
+possibly reduce the impact	not possibly reduce the impact	helping others fortunate	helping others unfortunate	helping others not unfortunate
+possibly reduce the impact	not possibly reduce the impact	make an honest mistake	make a dishonest mistake	make a not dishonest mistake
+possibly reduce the impact	not possibly reduce the impact	second impressive performance	second unimpressive performance	second not unimpressive performance
+possibly reduce the impact	not possibly reduce the impact	present informative programmes	present uninformative programmes	present not uninformative programmes
+possibly reduce the impact	not possibly reduce the impact	lead informed developers into	lead uninformed developers into	lead not uninformed developers into
+possibly reduce the impact	not possibly reduce the impact	the known ant	the unknown ant	the not unknown ant
+possibly reduce the impact	not possibly reduce the impact	were most likely written by him	were most unlikely written by him	were most not unlikely written by him
+possibly reduce the impact	not possibly reduce the impact	quite arbitrary and logical	quite arbitrary and illogical	quite arbitrary and not illogical
+possibly reduce the impact	not possibly reduce the impact	the pleasant word for friday	the unpleasant word for friday	the not unpleasant word for friday
+possibly reduce the impact	not possibly reduce the impact	a possible victory	an impossible victory	a not impossible victory
+faster and more productive than ninjago	faster and more not productive than ninjago	the field of rational functions over formula	the field of irrational functions over formula	the field of not irrational functions over formula
+faster and more productive than ninjago	faster and more not productive than ninjago	barton 's inquiry was reasonable	barton 's inquiry was unreasonable	barton 's inquiry was not unreasonabl
+faster and more productive than ninjago	faster and more not productive than ninjago	responsible for the lighting	irresponsible for the lighting	not irresponsible for the lightin
+faster and more productive than ninjago	faster and more not productive than ninjago	becomes sure about	becomes unsure about	becomes not unsure about
+faster and more productive than ninjago	faster and more not productive than ninjago	tasteful aspects of the film	distasteful aspects of the film	not distasteful aspects of the film
+faster and more productive than ninjago	faster and more not productive than ninjago	be politically acceptable	be politically unacceptable	be politically not unacceptable
+faster and more productive than ninjago	faster and more not productive than ninjago	aware of the cell 's political work	unaware of the cell 's political work	not unaware of the cell 's political work
+faster and more productive than ninjago	faster and more not productive than ninjago	be certain about	be uncertain about	be not uncertain about
+faster and more productive than ninjago	faster and more not productive than ninjago	clear evidence of inequality	unclear evidence of inequality	not unclear evidence of inequality
+faster and more productive than ninjago	faster and more not productive than ninjago	more comfortable for	more uncomfortable for	more not uncomfortable for
+faster and more productive than ninjago	faster and more not productive than ninjago	one competitive appearance	one uncompetitive appearance	one not uncompetitive appearance
+faster and more productive than ninjago	faster and more not productive than ninjago	achieve consistent quality	achieve inconsistent quality	achieve not inconsistent quality
+faster and more productive than ninjago	faster and more not productive than ninjago	make it more convincing	make it more unconvincing	make it more not unconvincing
+faster and more productive than ninjago	faster and more not productive than ninjago	be convenient to do so	be inconvenient to do so	be not inconvenient to do so
+faster and more productive than ninjago	faster and more not productive than ninjago	was still decided	was still undecided	was still not undecided
+faster and more productive than ninjago	faster and more not productive than ninjago	an efficient algorithm	an inefficient algorithm	a not inefficient algorithm
+faster and more productive than ninjago	faster and more not productive than ninjago	ethical codes of the church	unethical codes of the church	not unethical codes of the church
+faster and more productive than ninjago	faster and more not productive than ninjago	helping others fortunate	helping others unfortunate	helping others not unfortunate
+faster and more productive than ninjago	faster and more not productive than ninjago	make an honest mistake	make a dishonest mistake	make a not dishonest mistake
+faster and more productive than ninjago	faster and more not productive than ninjago	second impressive performance	second unimpressive performance	second not unimpressive performance
+faster and more productive than ninjago	faster and more not productive than ninjago	present informative programmes	present uninformative programmes	present not uninformative programmes
+faster and more productive than ninjago	faster and more not productive than ninjago	lead informed developers into	lead uninformed developers into	lead not uninformed developers into
+faster and more productive than ninjago	faster and more not productive than ninjago	the known ant	the unknown ant	the not unknown ant
+faster and more productive than ninjago	faster and more not productive than ninjago	were most likely written by him	were most unlikely written by him	were most not unlikely written by him
+faster and more productive than ninjago	faster and more not productive than ninjago	quite arbitrary and logical	quite arbitrary and illogical	quite arbitrary and not illogical
+faster and more productive than ninjago	faster and more not productive than ninjago	the pleasant word for friday	the unpleasant word for friday	the not unpleasant word for friday
+faster and more productive than ninjago	faster and more not productive than ninjago	a possible victory	an impossible victory	a not impossible victory
+faster and more productive than ninjago	faster and more not productive than ninjago	possibly reduce the impact	impossibly reduce the impact	not impossibly reduce the impact
+the field of rational functions over formula	the field of not rational functions over formula	barton 's inquiry was reasonable	barton 's inquiry was unreasonable	barton 's inquiry was not unreasonabl
+the field of rational functions over formula	the field of not rational functions over formula	responsible for the lighting	irresponsible for the lighting	not irresponsible for the lightin
+the field of rational functions over formula	the field of not rational functions over formula	becomes sure about	becomes unsure about	becomes not unsure about
+the field of rational functions over formula	the field of not rational functions over formula	tasteful aspects of the film	distasteful aspects of the film	not distasteful aspects of the film
+the field of rational functions over formula	the field of not rational functions over formula	be politically acceptable	be politically unacceptable	be politically not unacceptable
+the field of rational functions over formula	the field of not rational functions over formula	aware of the cell 's political work	unaware of the cell 's political work	not unaware of the cell 's political work
+the field of rational functions over formula	the field of not rational functions over formula	be certain about	be uncertain about	be not uncertain about
+the field of rational functions over formula	the field of not rational functions over formula	clear evidence of inequality	unclear evidence of inequality	not unclear evidence of inequality
+the field of rational functions over formula	the field of not rational functions over formula	more comfortable for	more uncomfortable for	more not uncomfortable for
+the field of rational functions over formula	the field of not rational functions over formula	one competitive appearance	one uncompetitive appearance	one not uncompetitive appearance
+the field of rational functions over formula	the field of not rational functions over formula	achieve consistent quality	achieve inconsistent quality	achieve not inconsistent quality
+the field of rational functions over formula	the field of not rational functions over formula	make it more convincing	make it more unconvincing	make it more not unconvincing
+the field of rational functions over formula	the field of not rational functions over formula	be convenient to do so	be inconvenient to do so	be not inconvenient to do so
+the field of rational functions over formula	the field of not rational functions over formula	was still decided	was still undecided	was still not undecided
+the field of rational functions over formula	the field of not rational functions over formula	an efficient algorithm	an inefficient algorithm	a not inefficient algorithm
+the field of rational functions over formula	the field of not rational functions over formula	ethical codes of the church	unethical codes of the church	not unethical codes of the church
+the field of rational functions over formula	the field of not rational functions over formula	helping others fortunate	helping others unfortunate	helping others not unfortunate
+the field of rational functions over formula	the field of not rational functions over formula	make an honest mistake	make a dishonest mistake	make a not dishonest mistake
+the field of rational functions over formula	the field of not rational functions over formula	second impressive performance	second unimpressive performance	second not unimpressive performance
+the field of rational functions over formula	the field of not rational functions over formula	present informative programmes	present uninformative programmes	present not uninformative programmes
+the field of rational functions over formula	the field of not rational functions over formula	lead informed developers into	lead uninformed developers into	lead not uninformed developers into
+the field of rational functions over formula	the field of not rational functions over formula	the known ant	the unknown ant	the not unknown ant
+the field of rational functions over formula	the field of not rational functions over formula	were most likely written by him	were most unlikely written by him	were most not unlikely written by him
+the field of rational functions over formula	the field of not rational functions over formula	quite arbitrary and logical	quite arbitrary and illogical	quite arbitrary and not illogical
+the field of rational functions over formula	the field of not rational functions over formula	the pleasant word for friday	the unpleasant word for friday	the not unpleasant word for friday
+the field of rational functions over formula	the field of not rational functions over formula	a possible victory	an impossible victory	a not impossible victory
+the field of rational functions over formula	the field of not rational functions over formula	possibly reduce the impact	impossibly reduce the impact	not impossibly reduce the impact
+the field of rational functions over formula	the field of not rational functions over formula	faster and more productive than ninjago	faster and more unproductive than ninjago	faster and more not unproductive than ninjago
+barton 's inquiry was reasonable	barton 's inquiry was not reasonable	responsible for the lighting	irresponsible for the lighting	not irresponsible for the lightin
+barton 's inquiry was reasonable	barton 's inquiry was not reasonable	becomes sure about	becomes unsure about	becomes not unsure about
+barton 's inquiry was reasonable	barton 's inquiry was not reasonable	tasteful aspects of the film	distasteful aspects of the film	not distasteful aspects of the film
+barton 's inquiry was reasonable	barton 's inquiry was not reasonable	be politically acceptable	be politically unacceptable	be politically not unacceptable
+barton 's inquiry was reasonable	barton 's inquiry was not reasonable	aware of the cell 's political work	unaware of the cell 's political work	not unaware of the cell 's political work
+barton 's inquiry was reasonable	barton 's inquiry was not reasonable	be certain about	be uncertain about	be not uncertain about
+barton 's inquiry was reasonable	barton 's inquiry was not reasonable	clear evidence of inequality	unclear evidence of inequality	not unclear evidence of inequality
+barton 's inquiry was reasonable	barton 's inquiry was not reasonable	more comfortable for	more uncomfortable for	more not uncomfortable for
+barton 's inquiry was reasonable	barton 's inquiry was not reasonable	one competitive appearance	one uncompetitive appearance	one not uncompetitive appearance
+barton 's inquiry was reasonable	barton 's inquiry was not reasonable	achieve consistent quality	achieve inconsistent quality	achieve not inconsistent quality
+barton 's inquiry was reasonable	barton 's inquiry was not reasonable	make it more convincing	make it more unconvincing	make it more not unconvincing
+barton 's inquiry was reasonable	barton 's inquiry was not reasonable	be convenient to do so	be inconvenient to do so	be not inconvenient to do so
+barton 's inquiry was reasonable	barton 's inquiry was not reasonable	was still decided	was still undecided	was still not undecided
+barton 's inquiry was reasonable	barton 's inquiry was not reasonable	an efficient algorithm	an inefficient algorithm	a not inefficient algorithm
+barton 's inquiry was reasonable	barton 's inquiry was not reasonable	ethical codes of the church	unethical codes of the church	not unethical codes of the church
+barton 's inquiry was reasonable	barton 's inquiry was not reasonable	helping others fortunate	helping others unfortunate	helping others not unfortunate
+barton 's inquiry was reasonable	barton 's inquiry was not reasonable	make an honest mistake	make a dishonest mistake	make a not dishonest mistake
+barton 's inquiry was reasonable	barton 's inquiry was not reasonable	second impressive performance	second unimpressive performance	second not unimpressive performance
+barton 's inquiry was reasonable	barton 's inquiry was not reasonable	present informative programmes	present uninformative programmes	present not uninformative programmes
+barton 's inquiry was reasonable	barton 's inquiry was not reasonable	lead informed developers into	lead uninformed developers into	lead not uninformed developers into
+barton 's inquiry was reasonable	barton 's inquiry was not reasonable	the known ant	the unknown ant	the not unknown ant
+barton 's inquiry was reasonable	barton 's inquiry was not reasonable	were most likely written by him	were most unlikely written by him	were most not unlikely written by him
+barton 's inquiry was reasonable	barton 's inquiry was not reasonable	quite arbitrary and logical	quite arbitrary and illogical	quite arbitrary and not illogical
+barton 's inquiry was reasonable	barton 's inquiry was not reasonable	the pleasant word for friday	the unpleasant word for friday	the not unpleasant word for friday
+barton 's inquiry was reasonable	barton 's inquiry was not reasonable	a possible victory	an impossible victory	a not impossible victory
+barton 's inquiry was reasonable	barton 's inquiry was not reasonable	possibly reduce the impact	impossibly reduce the impact	not impossibly reduce the impact
+barton 's inquiry was reasonable	barton 's inquiry was not reasonable	faster and more productive than ninjago	faster and more unproductive than ninjago	faster and more not unproductive than ninjago
+barton 's inquiry was reasonable	barton 's inquiry was not reasonable	the field of rational functions over formula	the field of irrational functions over formula	the field of not irrational functions over formula
+responsible for the lighting	not responsible for the lighting	becomes sure about	becomes unsure about	becomes not unsure about
+responsible for the lighting	not responsible for the lighting	tasteful aspects of the film	distasteful aspects of the film	not distasteful aspects of the film
+responsible for the lighting	not responsible for the lighting	be politically acceptable	be politically unacceptable	be politically not unacceptable
+responsible for the lighting	not responsible for the lighting	aware of the cell 's political work	unaware of the cell 's political work	not unaware of the cell 's political work
+responsible for the lighting	not responsible for the lighting	be certain about	be uncertain about	be not uncertain about
+responsible for the lighting	not responsible for the lighting	clear evidence of inequality	unclear evidence of inequality	not unclear evidence of inequality
+responsible for the lighting	not responsible for the lighting	more comfortable for	more uncomfortable for	more not uncomfortable for
+responsible for the lighting	not responsible for the lighting	one competitive appearance	one uncompetitive appearance	one not uncompetitive appearance
+responsible for the lighting	not responsible for the lighting	achieve consistent quality	achieve inconsistent quality	achieve not inconsistent quality
+responsible for the lighting	not responsible for the lighting	make it more convincing	make it more unconvincing	make it more not unconvincing
+responsible for the lighting	not responsible for the lighting	be convenient to do so	be inconvenient to do so	be not inconvenient to do so
+responsible for the lighting	not responsible for the lighting	was still decided	was still undecided	was still not undecided
+responsible for the lighting	not responsible for the lighting	an efficient algorithm	an inefficient algorithm	a not inefficient algorithm
+responsible for the lighting	not responsible for the lighting	ethical codes of the church	unethical codes of the church	not unethical codes of the church
+responsible for the lighting	not responsible for the lighting	helping others fortunate	helping others unfortunate	helping others not unfortunate
+responsible for the lighting	not responsible for the lighting	make an honest mistake	make a dishonest mistake	make a not dishonest mistake
+responsible for the lighting	not responsible for the lighting	second impressive performance	second unimpressive performance	second not unimpressive performance
+responsible for the lighting	not responsible for the lighting	present informative programmes	present uninformative programmes	present not uninformative programmes
+responsible for the lighting	not responsible for the lighting	lead informed developers into	lead uninformed developers into	lead not uninformed developers into
+responsible for the lighting	not responsible for the lighting	the known ant	the unknown ant	the not unknown ant
+responsible for the lighting	not responsible for the lighting	were most likely written by him	were most unlikely written by him	were most not unlikely written by him
+responsible for the lighting	not responsible for the lighting	quite arbitrary and logical	quite arbitrary and illogical	quite arbitrary and not illogical
+responsible for the lighting	not responsible for the lighting	the pleasant word for friday	the unpleasant word for friday	the not unpleasant word for friday
+responsible for the lighting	not responsible for the lighting	a possible victory	an impossible victory	a not impossible victory
+responsible for the lighting	not responsible for the lighting	possibly reduce the impact	impossibly reduce the impact	not impossibly reduce the impact
+responsible for the lighting	not responsible for the lighting	faster and more productive than ninjago	faster and more unproductive than ninjago	faster and more not unproductive than ninjago
+responsible for the lighting	not responsible for the lighting	the field of rational functions over formula	the field of irrational functions over formula	the field of not irrational functions over formula
+responsible for the lighting	not responsible for the lighting	barton 's inquiry was reasonable	barton 's inquiry was unreasonable	barton 's inquiry was not unreasonabl
+becomes sure about	becomes not sure about	tasteful aspects of the film	distasteful aspects of the film	not distasteful aspects of the film
+becomes sure about	becomes not sure about	be politically acceptable	be politically unacceptable	be politically not unacceptable
+becomes sure about	becomes not sure about	aware of the cell 's political work	unaware of the cell 's political work	not unaware of the cell 's political work
+becomes sure about	becomes not sure about	be certain about	be uncertain about	be not uncertain about
+becomes sure about	becomes not sure about	clear evidence of inequality	unclear evidence of inequality	not unclear evidence of inequality
+becomes sure about	becomes not sure about	more comfortable for	more uncomfortable for	more not uncomfortable for
+becomes sure about	becomes not sure about	one competitive appearance	one uncompetitive appearance	one not uncompetitive appearance
+becomes sure about	becomes not sure about	achieve consistent quality	achieve inconsistent quality	achieve not inconsistent quality
+becomes sure about	becomes not sure about	make it more convincing	make it more unconvincing	make it more not unconvincing
+becomes sure about	becomes not sure about	be convenient to do so	be inconvenient to do so	be not inconvenient to do so
+becomes sure about	becomes not sure about	was still decided	was still undecided	was still not undecided
+becomes sure about	becomes not sure about	an efficient algorithm	an inefficient algorithm	a not inefficient algorithm
+becomes sure about	becomes not sure about	ethical codes of the church	unethical codes of the church	not unethical codes of the church
+becomes sure about	becomes not sure about	helping others fortunate	helping others unfortunate	helping others not unfortunate
+becomes sure about	becomes not sure about	make an honest mistake	make a dishonest mistake	make a not dishonest mistake
+becomes sure about	becomes not sure about	second impressive performance	second unimpressive performance	second not unimpressive performance
+becomes sure about	becomes not sure about	present informative programmes	present uninformative programmes	present not uninformative programmes
+becomes sure about	becomes not sure about	lead informed developers into	lead uninformed developers into	lead not uninformed developers into
+becomes sure about	becomes not sure about	the known ant	the unknown ant	the not unknown ant
+becomes sure about	becomes not sure about	were most likely written by him	were most unlikely written by him	were most not unlikely written by him
+becomes sure about	becomes not sure about	quite arbitrary and logical	quite arbitrary and illogical	quite arbitrary and not illogical
+becomes sure about	becomes not sure about	the pleasant word for friday	the unpleasant word for friday	the not unpleasant word for friday
+becomes sure about	becomes not sure about	a possible victory	an impossible victory	a not impossible victory
+becomes sure about	becomes not sure about	possibly reduce the impact	impossibly reduce the impact	not impossibly reduce the impact
+becomes sure about	becomes not sure about	faster and more productive than ninjago	faster and more unproductive than ninjago	faster and more not unproductive than ninjago
+becomes sure about	becomes not sure about	the field of rational functions over formula	the field of irrational functions over formula	the field of not irrational functions over formula
+becomes sure about	becomes not sure about	barton 's inquiry was reasonable	barton 's inquiry was unreasonable	barton 's inquiry was not unreasonabl
+becomes sure about	becomes not sure about	responsible for the lighting	irresponsible for the lighting	not irresponsible for the lightin
+tasteful aspects of the film	not tasteful aspects of the film	be politically acceptable	be politically unacceptable	be politically not unacceptable
+tasteful aspects of the film	not tasteful aspects of the film	aware of the cell 's political work	unaware of the cell 's political work	not unaware of the cell 's political work
+tasteful aspects of the film	not tasteful aspects of the film	be certain about	be uncertain about	be not uncertain about
+tasteful aspects of the film	not tasteful aspects of the film	clear evidence of inequality	unclear evidence of inequality	not unclear evidence of inequality
+tasteful aspects of the film	not tasteful aspects of the film	more comfortable for	more uncomfortable for	more not uncomfortable for
+tasteful aspects of the film	not tasteful aspects of the film	one competitive appearance	one uncompetitive appearance	one not uncompetitive appearance
+tasteful aspects of the film	not tasteful aspects of the film	achieve consistent quality	achieve inconsistent quality	achieve not inconsistent quality
+tasteful aspects of the film	not tasteful aspects of the film	make it more convincing	make it more unconvincing	make it more not unconvincing
+tasteful aspects of the film	not tasteful aspects of the film	be convenient to do so	be inconvenient to do so	be not inconvenient to do so
+tasteful aspects of the film	not tasteful aspects of the film	was still decided	was still undecided	was still not undecided
+tasteful aspects of the film	not tasteful aspects of the film	an efficient algorithm	an inefficient algorithm	a not inefficient algorithm
+tasteful aspects of the film	not tasteful aspects of the film	ethical codes of the church	unethical codes of the church	not unethical codes of the church
+tasteful aspects of the film	not tasteful aspects of the film	helping others fortunate	helping others unfortunate	helping others not unfortunate
+tasteful aspects of the film	not tasteful aspects of the film	make an honest mistake	make a dishonest mistake	make a not dishonest mistake
+tasteful aspects of the film	not tasteful aspects of the film	second impressive performance	second unimpressive performance	second not unimpressive performance
+tasteful aspects of the film	not tasteful aspects of the film	present informative programmes	present uninformative programmes	present not uninformative programmes
+tasteful aspects of the film	not tasteful aspects of the film	lead informed developers into	lead uninformed developers into	lead not uninformed developers into
+tasteful aspects of the film	not tasteful aspects of the film	the known ant	the unknown ant	the not unknown ant
+tasteful aspects of the film	not tasteful aspects of the film	were most likely written by him	were most unlikely written by him	were most not unlikely written by him
+tasteful aspects of the film	not tasteful aspects of the film	quite arbitrary and logical	quite arbitrary and illogical	quite arbitrary and not illogical
+tasteful aspects of the film	not tasteful aspects of the film	the pleasant word for friday	the unpleasant word for friday	the not unpleasant word for friday
+tasteful aspects of the film	not tasteful aspects of the film	a possible victory	an impossible victory	a not impossible victory
+tasteful aspects of the film	not tasteful aspects of the film	possibly reduce the impact	impossibly reduce the impact	not impossibly reduce the impact
+tasteful aspects of the film	not tasteful aspects of the film	faster and more productive than ninjago	faster and more unproductive than ninjago	faster and more not unproductive than ninjago
+tasteful aspects of the film	not tasteful aspects of the film	the field of rational functions over formula	the field of irrational functions over formula	the field of not irrational functions over formula
+tasteful aspects of the film	not tasteful aspects of the film	barton 's inquiry was reasonable	barton 's inquiry was unreasonable	barton 's inquiry was not unreasonabl
+tasteful aspects of the film	not tasteful aspects of the film	responsible for the lighting	irresponsible for the lighting	not irresponsible for the lightin
+tasteful aspects of the film	not tasteful aspects of the film	becomes sure about	becomes unsure about	becomes not unsure about
